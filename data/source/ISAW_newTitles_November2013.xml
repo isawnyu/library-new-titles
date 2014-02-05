@@ -1,0 +1,510 @@
+﻿<?xml version="1.0"?>
+<printout>
+ <ROW>
+  <DATE_ADDED>20131101</DATE_ADDED>
+  <BSN>003878831</BSN>
+  <BIB_TITLE>  Képatlasz az archaeologiai közlemények / kiadja a Magyar Tudományos Akadémia Archaeologiai Bizottmánya.</BIB_TITLE>
+  <PUB_DATE>1861</PUB_DATE>
+  <CALL_NUMBER> DB920 .M349 1861</CALL_NUMBER>
+  <VOLUME_INFO>kot.2</VOLUME_INFO>
+  <Z30_NOTE_INTERNAL>Astrom</Z30_NOTE_INTERNAL>
+  <BARCODE>31154050683737</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20131101</DATE_ADDED>
+  <BSN>003878832</BSN>
+  <BIB_TITLE>  Tarsus kılavuzu / yazan Afif Erzen.</BIB_TITLE>
+  <PUB_DATE>1943</PUB_DATE>
+  <Z13_IMPRINT>İstanbul : Maarif Matbaası, 1943.</Z13_IMPRINT>
+  <CALL_NUMBER> DS51.T2 E79 1943</CALL_NUMBER>
+  <Z30_NOTE_INTERNAL>Astrom</Z30_NOTE_INTERNAL>
+  <BARCODE>31154050222122</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20131101</DATE_ADDED>
+  <BSN>003878833</BSN>
+  <BIB_TITLE>  Medea / af Euripides ; öfversättning af Victor Emanuel Öman.</BIB_TITLE>
+  <BIB_AUTHOR>  Öman, Victor Emmanuel, tr.</BIB_AUTHOR>
+  <PUB_DATE>1860</PUB_DATE>
+  <Z13_IMPRINT>Örebro : N.M. Lindh, 1860.</Z13_IMPRINT>
+  <CALL_NUMBER> PA3976 .S94 1860</CALL_NUMBER>
+  <Z30_NOTE_INTERNAL>Astrom</Z30_NOTE_INTERNAL>
+  <BARCODE>31154050222130</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20131101</DATE_ADDED>
+  <BSN>003878838</BSN>
+  <BIB_TITLE>  Euripidis Iphigenia in Tauris / [Euripides] ; ex recensione Augusti Nauckii.</BIB_TITLE>
+  <BIB_AUTHOR>  Nauck, August, 1822-1892 editor.</BIB_AUTHOR>
+  <PUB_DATE>1926</PUB_DATE>
+  <CALL_NUMBER> PA3973 .I8 1926</CALL_NUMBER>
+  <Z30_NOTE_INTERNAL>Astrom</Z30_NOTE_INTERNAL>
+  <BARCODE>31154050683745</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20131101</DATE_ADDED>
+  <BSN>003878855</BSN>
+  <BIB_TITLE>  Präparation zu Euripides' Iphigenie in Taurien / von Dr. H. Schmitt.</BIB_TITLE>
+  <PUB_DATE>1913</PUB_DATE>
+  <CALL_NUMBER> PA3992 .Z8 1913</CALL_NUMBER>
+  <Z30_NOTE_INTERNAL>Astrom</Z30_NOTE_INTERNAL>
+  <BARCODE>31154050222148</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20131101</DATE_ADDED>
+  <BSN>003878874</BSN>
+  <BIB_TITLE>  Hē anagoreusē tou homotimou kathēgētē tou Aristoteleiou Panepistēmiou Thes/nikēs Nikolaou Platōnos hōs epitimou didaktora tēs Philosophikēs Scholēs tou Panepistēmiou Krētēs.</BIB_TITLE>
+  <PUB_DATE>1986</PUB_DATE>
+  <Z13_IMPRINT>Rethymno : Ekdosē tou Panepistēmiou Krētēs, 1986.</Z13_IMPRINT>
+  <CALL_NUMBER> DF221.C8 P578 1986</CALL_NUMBER>
+  <Z30_NOTE_INTERNAL>Astrom</Z30_NOTE_INTERNAL>
+  <BARCODE>31154050683752</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20131101</DATE_ADDED>
+  <BSN>003878899</BSN>
+  <BIB_TITLE>  Antichnye pami͡atniki Kolkhidy i Iberii / [otvetstvennyĭ redaktor, N.N. Gurina, I.T. Kruglikova].</BIB_TITLE>
+  <BIB_AUTHOR>  Gurina, N. N. (Nina Nikolaevna) ed. //  Kruglikova, Irina Timofeevna ed.</BIB_AUTHOR>
+  <PUB_DATE>1977</PUB_DATE>
+  <Z13_IMPRINT>Moskva : Izd-vo "Nauka", 1977.</Z13_IMPRINT>
+  <CALL_NUMBER> DK673 .A58 1977</CALL_NUMBER>
+  <Z30_NOTE_INTERNAL>Astrom</Z30_NOTE_INTERNAL>
+  <BARCODE>31154050683760</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20131108</DATE_ADDED>
+  <BSN>003069523</BSN>
+  <BIB_TITLE>  Treasures on camels' humps : historical and literary studies from the ancient Near East presented to Israel Ephʻal / edited by Mordechai Cogan and Dan'el Kahn.</BIB_TITLE>
+  <BIB_AUTHOR>  Ephʻal, Israel. //  Cogan, Mordechai. //  Kahn, Dan'el.</BIB_AUTHOR>
+  <PUB_DATE>2008</PUB_DATE>
+  <Z13_IMPRINT>Jerusalem : Hebrew University Magnes Press, 2008</Z13_IMPRINT>
+  <CALL_NUMBER> DS70.9 .C64 2008</CALL_NUMBER>
+  <Z30_NOTE_INTERNAL>Tadmor</Z30_NOTE_INTERNAL>
+  <BARCODE>31154050692803</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20131108</DATE_ADDED>
+  <BSN>003880871</BSN>
+  <BIB_TITLE>  Athens : its history and coinage before the Persian invasion / by C.T. Seltman.</BIB_TITLE>
+  <PUB_DATE>1974</PUB_DATE>
+  <Z13_IMPRINT>Chicago : Ares, 1974.</Z13_IMPRINT>
+  <CALL_NUMBER> CJ401 .S45 1974</CALL_NUMBER>
+  <Z30_NOTE_INTERNAL>Astrom</Z30_NOTE_INTERNAL>
+  <BARCODE>31154050684008</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20131105</DATE_ADDED>
+  <BSN>003880869</BSN>
+  <BIB_TITLE>  Select Greek coins : a series of enlargements illustrated and described / by George F. Hill.</BIB_TITLE>
+  <PUB_DATE>1974</PUB_DATE>
+  <Z13_IMPRINT>Chicago : Ares, 1974.</Z13_IMPRINT>
+  <CALL_NUMBER> CJ335 .H6 1974</CALL_NUMBER>
+  <Z30_NOTE_INTERNAL>Astrom</Z30_NOTE_INTERNAL>
+  <BARCODE>31154050683836</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20131106</DATE_ADDED>
+  <BSN>001841473</BSN>
+  <BIB_TITLE>  The early Islamic monuments of al-Ḥaram al-Sharīf : an iconographic study / Myriam Rosen-Ayalon.</BIB_TITLE>
+  <PUB_DATE>1989</PUB_DATE>
+  <Z13_IMPRINT>[Jerusalem, Israel] : Institute of Archaeology, the Hebrew University of Jerusalem, 1989.</Z13_IMPRINT>
+  <CALL_NUMBER> DS109.8.H2 R62 1989</CALL_NUMBER>
+  <Z30_NOTE_INTERNAL>Tadmor</Z30_NOTE_INTERNAL>
+  <BARCODE>31154050692670</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20131105</DATE_ADDED>
+  <BSN>003880979</BSN>
+  <BIB_TITLE>  Producción y comercio del aceite en la Antigüedad : primer congreso internacional / [coordinó la edición, José María Blazquez Martínez].</BIB_TITLE>
+  <BIB_AUTHOR>  Blázquez, José María ed.</BIB_AUTHOR>
+  <PUB_DATE>1980</PUB_DATE>
+  <Z13_IMPRINT>Madrid : Universidad Complutense, 1980.</Z13_IMPRINT>
+  <CALL_NUMBER> HD9490.5.O463 R66 1980</CALL_NUMBER>
+  <Z30_NOTE_INTERNAL>Astrom</Z30_NOTE_INTERNAL>
+  <BARCODE>31154050683885</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20131106</DATE_ADDED>
+  <BSN>002537225</BSN>
+  <BIB_TITLE>  The inscriptions of Wadi Haggag, Sinai / Avraham Negev.</BIB_TITLE>
+  <BIB_AUTHOR>  Rosenthal-Heginbottom, Renate Pottery from Wadi Haggag.</BIB_AUTHOR>
+  <PUB_DATE>1977</PUB_DATE>
+  <Z13_IMPRINT>Jerusalem : The Institute of Archaeology, The Hebrew University, 1977.</Z13_IMPRINT>
+  <CALL_NUMBER> PJ5239 .N43 1977</CALL_NUMBER>
+  <Z30_NOTE_INTERNAL>Tadmor</Z30_NOTE_INTERNAL>
+  <BARCODE>31154050692639</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20131106</DATE_ADDED>
+  <BSN>000536662</BSN>
+  <BIB_TITLE>  Supplementum lyricum : neue Bruchstücke von Archilochus, Alcaeus, Sappho, Corinna, Pindar, Bacchylides / ausgewählt und erklärt von Ernst Diehl.</BIB_TITLE>
+  <PUB_DATE>1917</PUB_DATE>
+  <Z13_IMPRINT>Bonn : Marcus und Weber, 1917.</Z13_IMPRINT>
+  <CALL_NUMBER> PA3443 .D54 1917</CALL_NUMBER>
+  <Z30_NOTE_INTERNAL>Astrom</Z30_NOTE_INTERNAL>
+  <BARCODE>31154050246147</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20131106</DATE_ADDED>
+  <BSN>001567085</BSN>
+  <BIB_TITLE>  The early Byzantine monastery at Khirbet ed-Deir in the Judean desert : the excavations in 1981-1987 / Yizhar Hirschfeld ; with contributions by Rachel Barkay ... [et al.].</BIB_TITLE>
+  <BIB_AUTHOR>  Barkay, Rachel.</BIB_AUTHOR>
+  <PUB_DATE>1999</PUB_DATE>
+  <Z13_IMPRINT>Jerusalem : Hebrew University of Jerusalem, Institute of Archaeology, 1999.</Z13_IMPRINT>
+  <CALL_NUMBER> DS110.D374 .H48 1999</CALL_NUMBER>
+  <Z30_NOTE_INTERNAL>Tadmor</Z30_NOTE_INTERNAL>
+  <BARCODE>31154050692688</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20131106</DATE_ADDED>
+  <BSN>001664610</BSN>
+  <BIB_TITLE>  Neolithic and chalcolithic pottery of the Southern Levant / Yosef Garfinkel ; with a contribution by Claire Epstein.</BIB_TITLE>
+  <BIB_AUTHOR>  Epstein, Claire.</BIB_AUTHOR>
+  <PUB_DATE>1999</PUB_DATE>
+  <Z13_IMPRINT>Jerusalem : Institute of Archaeology, the Hebrew University of Jerusalem, 1999.</Z13_IMPRINT>
+  <CALL_NUMBER> DS110.J6 G36 1999</CALL_NUMBER>
+  <Z30_NOTE_INTERNAL>Tadmor</Z30_NOTE_INTERNAL>
+  <BARCODE>31154050692696</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20131106</DATE_ADDED>
+  <BSN>002512332</BSN>
+  <BIB_TITLE>  Gazetteer of Roman Palestine / Michael Avi-Yonah.</BIB_TITLE>
+  <PUB_DATE>1976</PUB_DATE>
+  <Z13_IMPRINT>Jerusalem : Hebrew University of Jerusalem. Institute of Archaeology, 1976.</Z13_IMPRINT>
+  <CALL_NUMBER> DS103.2 .A95 1976</CALL_NUMBER>
+  <Z30_NOTE_INTERNAL>Tadmor</Z30_NOTE_INTERNAL>
+  <BARCODE>31154050692621</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20131106</DATE_ADDED>
+  <BSN>002514357</BSN>
+  <BIB_TITLE>  Bullae and seals from a post-exilic Judean archive / Nahman Avigad.</BIB_TITLE>
+  <BIB_AUTHOR>  Grafman, R.</BIB_AUTHOR>
+  <PUB_DATE>1976</PUB_DATE>
+  <Z13_IMPRINT>Jerusalem : Institute of Archaeology, The Hebrew University of Jerusalem, 1976.</Z13_IMPRINT>
+  <CALL_NUMBER> CD5354 .A88 1976</CALL_NUMBER>
+  <Z30_NOTE_INTERNAL>Tadmor</Z30_NOTE_INTERNAL>
+  <BARCODE>31154050692613</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20131104</DATE_ADDED>
+  <BSN>003880153</BSN>
+  <BIB_TITLE>  The Egyptianizing male limestone statuary from Cyprus : a study of a cross-cultural Eastern Mediterranean votive type / Fanni Faegersten.</BIB_TITLE>
+  <PUB_DATE>2003</PUB_DATE>
+  <Z13_IMPRINT>Lund : [Lund University, Dept. of Archaeology and Ancient History], 2003.</Z13_IMPRINT>
+  <CALL_NUMBER> NB130.C8 F34 2003</CALL_NUMBER>
+  <Z30_NOTE_INTERNAL>Astrom</Z30_NOTE_INTERNAL>
+  <BARCODE>31154050683786</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20131104</DATE_ADDED>
+  <BSN>003880204</BSN>
+  <BIB_TITLE>  Catalogues of the collection. volume II, Ancient coins / National Museum in Cracow.</BIB_TITLE>
+  <PUB_DATE>1982</PUB_DATE>
+  <CALL_NUMBER> CJ215.P72 K73 1982</CALL_NUMBER>
+  <VOLUME_INFO>v.1</VOLUME_INFO>
+  <Z30_NOTE_INTERNAL>Astrom</Z30_NOTE_INTERNAL>
+  <BARCODE>31154050683794</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20131106</DATE_ADDED>
+  <BSN>002554017</BSN>
+  <BIB_TITLE>  Ancient Lamps in the Schloessinger Collection / Renate Rosenthal, Renee Sivan.</BIB_TITLE>
+  <BIB_AUTHOR>  Sivan, Renee</BIB_AUTHOR>
+  <PUB_DATE>1978</PUB_DATE>
+  <Z13_IMPRINT>Jerusalem : The Institute of Archeology, The Hebrew University 1978 .</Z13_IMPRINT>
+  <CALL_NUMBER> NK4680 .R6 1978</CALL_NUMBER>
+  <Z30_NOTE_INTERNAL>Tadmor</Z30_NOTE_INTERNAL>
+  <BARCODE>31154050692720</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20131106</DATE_ADDED>
+  <BSN>002629665</BSN>
+  <BIB_TITLE>  La céramique peinte ibérique de la province d'Alicante / par Solveig Nordström ; [traduction par J.J. Jully].</BIB_TITLE>
+  <BIB_AUTHOR>  Jully, Jean Jacques tr.</BIB_AUTHOR>
+  <PUB_DATE>1969</PUB_DATE>
+  <Z13_IMPRINT>Stockholm : Almquist &amp; Wiksell, 1969-</Z13_IMPRINT>
+  <CALL_NUMBER> NK3855.I2 N67 1969</CALL_NUMBER>
+  <VOLUME_INFO>t.1</VOLUME_INFO>
+  <Z30_NOTE_INTERNAL>Astrom</Z30_NOTE_INTERNAL>
+  <BARCODE>31154050683927</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20131106</DATE_ADDED>
+  <BSN>002684717</BSN>
+  <BIB_TITLE>  Prehistoric investigations in Gebel Maghara, northern Sinai / Ofer Bar-Yosef, James L. Phillips ; in collaboration with P. Goldberg ... [et al.].</BIB_TITLE>
+  <BIB_AUTHOR>  Phillips, James L.</BIB_AUTHOR>
+  <PUB_DATE>1977</PUB_DATE>
+  <Z13_IMPRINT>Jerusalem : Institute of Archaeology, Hebrew University, 1977.</Z13_IMPRINT>
+  <CALL_NUMBER> DT137.S55 B374 1977</CALL_NUMBER>
+  <Z30_NOTE_INTERNAL>Tadmor</Z30_NOTE_INTERNAL>
+  <BARCODE>31154050692647</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20131106</DATE_ADDED>
+  <BSN>003881029</BSN>
+  <BIB_TITLE>   Dyo meletemata / Albert Wifstrand ; helleniké apódose, eisagogé Antone Mystakide. //   ΔΥΟ ΜΕΛΕΤΗΜATA / Ελληνική απόδοση εισαωγωγή ΑΝΤΩΝΗ ΜΥΣΤΑΚΙΔΗ.</BIB_TITLE>
+  <PUB_DATE>0</PUB_DATE>
+  <CALL_NUMBER> DE80 .W54 1966</CALL_NUMBER>
+  <Z30_NOTE_INTERNAL>Astrom</Z30_NOTE_INTERNAL>
+  <BARCODE>31154050640638</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20131106</DATE_ADDED>
+  <BSN>003881633</BSN>
+  <BIB_TITLE>  To diakopton dia mesou tōn aiōnōn : me hepilogēn hanekdotōn hengraphōn symvolē eis tēn historian tēs Aigialeias / Geōrgiou Th. Papageōrgiou.</BIB_TITLE>
+  <PUB_DATE>1975</PUB_DATE>
+  <CALL_NUMBER> DF901.A38 P37 1975</CALL_NUMBER>
+  <Z30_NOTE_INTERNAL>Astrom</Z30_NOTE_INTERNAL>
+  <BARCODE>31154050683893</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20131105</DATE_ADDED>
+  <BSN>003880964</BSN>
+  <BIB_TITLE>  To Aigaio stēn prōimē epochē tou sidērou : praktika tou diethnous symposiou, Rhodos, 1-4 Noemvriou 2002 / epimeleia, N.Chr. Stampolidēs, A. Giannikourē.</BIB_TITLE>
+  <BIB_AUTHOR>  Stampolidēs, Nikolaos Chr. ed. //  Giannikourē, A. ed.</BIB_AUTHOR>
+  <PUB_DATE>2004</PUB_DATE>
+  <Z13_IMPRINT>Athēna : Panepistēmio Krētēs : Hyp. Po., Archailogiko Institouto Aigaiakōn Spoudōn, 2004.</Z13_IMPRINT>
+  <CALL_NUMBER> GN780.25 .A43 2004</CALL_NUMBER>
+  <Z30_NOTE_INTERNAL>Astrom</Z30_NOTE_INTERNAL>
+  <BARCODE>31154050683869</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20131105</DATE_ADDED>
+  <BSN>003880971</BSN>
+  <BIB_TITLE>  Türkiyenin arkeoloji, epigrafi ve tarihî coğrafyası için bibliyografya / Arif Müfid Mansel.</BIB_TITLE>
+  <PUB_DATE>1948</PUB_DATE>
+  <Z13_IMPRINT>Ankara : Türk Tarih Kurumu, 1948.</Z13_IMPRINT>
+  <CALL_NUMBER> Z2857.A67 M36 1947</CALL_NUMBER>
+  <Z30_NOTE_INTERNAL>Astrom</Z30_NOTE_INTERNAL>
+  <BARCODE>31154050683877</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20131106</DATE_ADDED>
+  <BSN>003881621</BSN>
+  <BIB_TITLE>  Das Fortleben des Heidentums in der altchristlichen Kirche / von Wilhelm Soltau.</BIB_TITLE>
+  <PUB_DATE>1906</PUB_DATE>
+  <Z13_IMPRINT>Berlin : G. Reimer, 1906.</Z13_IMPRINT>
+  <CALL_NUMBER> BR135 .S65 1906</CALL_NUMBER>
+  <Z30_NOTE_INTERNAL>Astrom</Z30_NOTE_INTERNAL>
+  <BARCODE>31154050222155</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20131106</DATE_ADDED>
+  <BSN>003881622</BSN>
+  <BIB_TITLE>  Commentarii critici ad Thucydidem pertinentes / scripsit Carolus Hude.</BIB_TITLE>
+  <PUB_DATE>1888</PUB_DATE>
+  <Z13_IMPRINT>Hauniae : Libraria gyldendaliana, 1888.</Z13_IMPRINT>
+  <CALL_NUMBER> PA4461 .H83 1888</CALL_NUMBER>
+  <Z30_NOTE_INTERNAL>Astrom</Z30_NOTE_INTERNAL>
+  <BARCODE>31154050222163</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20131106</DATE_ADDED>
+  <BSN>003881627</BSN>
+  <BIB_TITLE>  Hē Naxos : se haplē geōgraphikē, historikē kai geōlogikē episkopēsi / Geōrgiou M. Melissēnou.</BIB_TITLE>
+  <PUB_DATE>1958</PUB_DATE>
+  <Z13_IMPRINT>Athēnai : [s.n.], 1958.</Z13_IMPRINT>
+  <CALL_NUMBER> DF901.N3 M45 1958</CALL_NUMBER>
+  <Z30_NOTE_INTERNAL>Astrom</Z30_NOTE_INTERNAL>
+  <BARCODE>31154050222171</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20131106</DATE_ADDED>
+  <BSN>003881654</BSN>
+  <BIB_TITLE>  The bronze hoard from S. Maria in Paulis, Sardinia / Ellen Macnamara, David Ridgway, and Francesca R. Ridgway.</BIB_TITLE>
+  <BIB_AUTHOR>  Macnamara, Ellen. //  Ridgway, David. //  Serra Ridgway, Francesca R.</BIB_AUTHOR>
+  <PUB_DATE>1984</PUB_DATE>
+  <Z13_IMPRINT>London : British Museum, 1984.</Z13_IMPRINT>
+  <CALL_NUMBER> NK7952.A3 S27 1984</CALL_NUMBER>
+  <Z30_NOTE_INTERNAL>Astrom</Z30_NOTE_INTERNAL>
+  <BARCODE>31154050683901</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20131106</DATE_ADDED>
+  <BSN>003881659</BSN>
+  <BIB_TITLE>  Notes sur le Désert Lybique : "Cellia" et ses couvents / par le Prince Omar Toussoun.</BIB_TITLE>
+  <PUB_DATE>1935</PUB_DATE>
+  <Z13_IMPRINT>Alexandrie : Société de publications égyptiennes, 1935.</Z13_IMPRINT>
+  <CALL_NUMBER> DT73.K47 T87 1935</CALL_NUMBER>
+  <Z30_NOTE_INTERNAL>Astrom</Z30_NOTE_INTERNAL>
+  <BARCODE>31154050683919</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20131106</DATE_ADDED>
+  <BSN>003881649</BSN>
+  <BIB_TITLE>  Bibliotheca Monteliana : katalog över Oscar Montelius boksamling i Kungl. Vitterhets Historie och Antikvitets Akademiens bibliotek / redigerad av Maja Lundqvist ; med en inledning om Oscar Montelius som forskare av Nils Åberg.</BIB_TITLE>
+  <BIB_AUTHOR>  Lundqvist, Maja editor.</BIB_AUTHOR>
+  <PUB_DATE>1943</PUB_DATE>
+  <Z13_IMPRINT>Stockholm : I distribution hos Wahlström &amp; Widstrand, 1943.</Z13_IMPRINT>
+  <CALL_NUMBER> Z5134 .B53 1943</CALL_NUMBER>
+  <Z30_NOTE_INTERNAL>Astrom</Z30_NOTE_INTERNAL>
+  <BARCODE>31154050222189</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20131106</DATE_ADDED>
+  <BSN>003881662</BSN>
+  <BIB_TITLE>  Q. Valerii Catvlli Carmina / Recensuit Lvcianvs Mveller.</BIB_TITLE>
+  <BIB_AUTHOR>  Müller, Lucian, 1836-1898.</BIB_AUTHOR>
+  <PUB_DATE>1877</PUB_DATE>
+  <Z13_IMPRINT>Lipsiae : In aedibvs B.G. Teubneri, 1877.</Z13_IMPRINT>
+  <CALL_NUMBER> PA6105.S8 C3 1877</CALL_NUMBER>
+  <Z30_NOTE_INTERNAL>Astrom</Z30_NOTE_INTERNAL>
+  <BARCODE>31154050246154</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20131106</DATE_ADDED>
+  <BSN>003881665</BSN>
+  <BIB_TITLE>  Rankes biographische Kunst und die Aufgaben des Biographien : Rede zur Gedächtnisfeier des Stifters der Berliner Universität König Friedrich Wilhelms III in der Aula am 3. August 1912 / gehalten von Max Lenz.</BIB_TITLE>
+  <PUB_DATE>1912</PUB_DATE>
+  <Z13_IMPRINT>Berlin : Universitäts-Buchdr. von G. Schade, 1912.</Z13_IMPRINT>
+  <CALL_NUMBER> D15.R3 L45 1912</CALL_NUMBER>
+  <Z30_NOTE_INTERNAL>Astrom</Z30_NOTE_INTERNAL>
+  <BARCODE>31154050640653</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20131106</DATE_ADDED>
+  <BSN>003881663</BSN>
+  <BIB_TITLE>  S. Caeciliae vitae ac martyrii illustriones : Fidele veterum incisionum.</BIB_TITLE>
+  <PUB_DATE>1905</PUB_DATE>
+  <Z13_IMPRINT>Romae : [s.l.], 1905.</Z13_IMPRINT>
+  <CALL_NUMBER> BX4700 .C5 1905</CALL_NUMBER>
+  <Z30_NOTE_INTERNAL>Astrom</Z30_NOTE_INTERNAL>
+  <BARCODE>31154050640646</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20131106</DATE_ADDED>
+  <BSN>003881698</BSN>
+  <BIB_TITLE>  Präparation zu Virgils Äneide / von Dr. Eugen Linden.</BIB_TITLE>
+  <PUB_DATE>1902</PUB_DATE>
+  <CALL_NUMBER> PA6953 1902</CALL_NUMBER>
+  <VOLUME_INFO>Heft 1:Buch I</VOLUME_INFO>
+  <Z30_NOTE_INTERNAL>Astrom</Z30_NOTE_INTERNAL>
+  <BARCODE>31154050246162</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20131108</DATE_ADDED>
+  <BSN>003882985</BSN>
+  <BIB_TITLE>  Kʻarashambi dambaranadashti nyowtʻakan mshakowytʻě (m.tʻ.a. III-I hazaramyakner) : zhamanakavor tsʻowtsʻadrowtʻn katalog / kazmoghner, Ashot Pʻiliposyan ... [et al.].</BIB_TITLE>
+  <BIB_AUTHOR>  Pʻiliposyan, A. S. (Ashot) editor.</BIB_AUTHOR>
+  <PUB_DATE>2009</PUB_DATE>
+  <CALL_NUMBER> DS167 .K37 2009</CALL_NUMBER>
+  <Z30_NOTE_INTERNAL>Gift from Exhibitions</Z30_NOTE_INTERNAL>
+  <BARCODE>31154050684016</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20131108</DATE_ADDED>
+  <BSN>003883009</BSN>
+  <BIB_TITLE>   ΚΑRThΑΙΑ : allote kai tōra / YP.PO. Epitrpē Syntēreses kai Anádeixes Archaias Karthaias Keas. //   ΚΑΡΘΑΙΑ : άλλοτε και τώρα / ΥΠ.ΠΟ. Επιτροπή Συντήρησης και Ανάδειξης Αρχαίας Καρθαίας Κέας.</BIB_TITLE>
+  <PUB_DATE>2004</PUB_DATE>
+  <CALL_NUMBER> DF901.K43 K3 2004</CALL_NUMBER>
+  <Z30_NOTE_INTERNAL>Astrom</Z30_NOTE_INTERNAL>
+  <BARCODE>31154050640679</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20131108</DATE_ADDED>
+  <BSN>003883084</BSN>
+  <BIB_TITLE>   PERIKEOUSs EPITAPHIOS (THOUKYD. II, 34-46) : KEIMENO, METAPHRASĒ, SCHOLIA, EPILEGOMENA / I.TH. KAKRIDĒ. //   ΠEPIKΛEOYΣ EΠITAΦIOΣ (ΘΟΥΚΔ. II 34-46) : ΚΕΙΜΕΝΟ ΜΕΤΑΦΡΑΣΗ ΣΧΟΛΙΑ ΕΠΙΛΕΓΟΜΕΝΑ / Ι. Θ. ΚΑΚΡΙΔΗ.</BIB_TITLE>
+  <BIB_AUTHOR>  Kakridis, Johannes Th.</BIB_AUTHOR>
+  <PUB_DATE>1943</PUB_DATE>
+  <CALL_NUMBER> PA4452.A32 1943</CALL_NUMBER>
+  <Z30_NOTE_INTERNAL>Astrom</Z30_NOTE_INTERNAL>
+  <BARCODE>31154050640687</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20131105</DATE_ADDED>
+  <BSN>002493923</BSN>
+  <BIB_TITLE>  Roman Caesarea : an archaeological-topographical study / Lee I. Levine.</BIB_TITLE>
+  <PUB_DATE>1975</PUB_DATE>
+  <Z13_IMPRINT>Jerusalem : Institute of Archaeology, Hebrew University of Jerusalem : [orders to be sent to the Isr</Z13_IMPRINT>
+  <CALL_NUMBER> DS110.C13 L49 1975</CALL_NUMBER>
+  <Z30_NOTE_INTERNAL>Tadmor</Z30_NOTE_INTERNAL>
+  <BARCODE>31154050692597</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20131105</DATE_ADDED>
+  <BSN>002766835</BSN>
+  <BIB_TITLE>  Antikes Kupfer im Timna-Tal : 4000 Jahre Bergbau und Verhüttung in der Arabah (Israel) / Bearbeiter, Hans Günther Conrad, Beno Rothenberg ; Schriftleitung, Werner Kroker.</BIB_TITLE>
+  <BIB_AUTHOR>  Conrad, Hans Günter ed. //  Rothenberg, Benno ed. //  Kroker, Werner ed.</BIB_AUTHOR>
+  <PUB_DATE>1980</PUB_DATE>
+  <Z13_IMPRINT>Bochum : [Vereinigung der Freunde von Kunst und Kultur im Bergbau e. V.], 1980.</Z13_IMPRINT>
+  <CALL_NUMBER> GN778.32.I75 A58 1980</CALL_NUMBER>
+  <Z30_NOTE_INTERNAL>Astrom</Z30_NOTE_INTERNAL>
+  <BARCODE>31154050683810</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20131105</DATE_ADDED>
+  <BSN>002770069</BSN>
+  <BIB_TITLE>  Metallgefässe und Gefässuntersätze der Bronzezeit, der geometrischen und archaischen Periode auf Cypern : mit einem Anhang der bronzezeitlichen Schwertfunde auf Cypern / von Hartmut Matthäus.</BIB_TITLE>
+  <PUB_DATE>1985</PUB_DATE>
+  <Z13_IMPRINT>München : C.H. Beck, c1985.</Z13_IMPRINT>
+  <CALL_NUMBER> DS54.3 .M38 1985</CALL_NUMBER>
+  <Z30_NOTE_INTERNAL>Astrom</Z30_NOTE_INTERNAL>
+  <BARCODE>31154050683851</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20131104</DATE_ADDED>
+  <BSN>002821905</BSN>
+  <BIB_TITLE>  Rimskiĭ skulʹpturnyĭ portret III veka i khudozhestvennai͡a kulʹtura togo vremeni / G.I. Sokolov.</BIB_TITLE>
+  <PUB_DATE>1983</PUB_DATE>
+  <Z13_IMPRINT>Moskva : "Iskusstvo," 1983.</Z13_IMPRINT>
+  <CALL_NUMBER> NB1296.3 .S64 1983</CALL_NUMBER>
+  <Z30_NOTE_INTERNAL>Astrom</Z30_NOTE_INTERNAL>
+  <BARCODE>31154050683778</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20131104</DATE_ADDED>
+  <BSN>002350606</BSN>
+  <BIB_TITLE>  Grundzüge und Chrestomathie der Papyruskunde / von L. Mitteis und U. Wilcken.</BIB_TITLE>
+  <BIB_AUTHOR>  Mitteis, Ludwig, 1859-1921. //  Wilcken, Ulrich, 1862-1944.</BIB_AUTHOR>
+  <PUB_DATE>1912</PUB_DATE>
+  <Z13_IMPRINT>Leipzig ; Berlin : B.G. Teubner, 1912.</Z13_IMPRINT>
+  <CALL_NUMBER> PA3341 .G77 1912</CALL_NUMBER>
+  <VOLUME_INFO>Bd.1:pt.2</VOLUME_INFO>
+  <Z30_NOTE_INTERNAL>Astrom</Z30_NOTE_INTERNAL>
+  <BARCODE>31154050683802</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20131108</DATE_ADDED>
+  <BSN>002139671</BSN>
+  <BIB_TITLE>  The promise of the land : the inheritance of the land of Canaan by the Israelites / Moshe Weinfeld.</BIB_TITLE>
+  <PUB_DATE>1993</PUB_DATE>
+  <Z13_IMPRINT>Berkeley : University of California Press, 1993.</Z13_IMPRINT>
+  <CALL_NUMBER> BS1199.P26 W45 1993</CALL_NUMBER>
+  <Z30_NOTE_INTERNAL>Tadmor</Z30_NOTE_INTERNAL>
+  <BARCODE>31154050692811</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20131108</DATE_ADDED>
+  <BSN>002153250</BSN>
+  <BIB_TITLE>   Perakim be-toledot ha-kehunah ve-ha-leviyah : ʻiyyunim ba-reshimot she-be-divrey Hayamim ve-ʻEzra u-Neḥemyah / meʼet Yakob Liver. //   פרקים בתולדות הכהונה והלוייה : עיונים ברשימות שבדברי הימים ועזרא ונחמיה / מאת יעקב ליוור.</BIB_TITLE>
+  <PUB_DATE>1968</PUB_DATE>
+  <Z13_IMPRINT>03 Yerushalayim : Hotsʼat sefarim al shem Y.L. Magnes, ha-Unitersiṭah ha-ʻIvrit, 729 [1968]</Z13_IMPRINT>
+  <CALL_NUMBER> BS1199.P7 L58 1968</CALL_NUMBER>
+  <Z30_NOTE_INTERNAL>Tadmor</Z30_NOTE_INTERNAL>
+  <BARCODE>31154050692787</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20131106</DATE_ADDED>
+  <BSN>002965073</BSN>
+  <BIB_TITLE>  The architecture of Mampsis : final report / Avraham Negev.</BIB_TITLE>
+  <PUB_DATE>1988</PUB_DATE>
+  <Z13_IMPRINT>Jerusalem : Institute of Archaeology, Hebrew University of Jerusalem, 1988-</Z13_IMPRINT>
+  <CALL_NUMBER> DS110.M28 N45 1988</CALL_NUMBER>
+  <VOLUME_INFO>v.1</VOLUME_INFO>
+  <Z30_NOTE_INTERNAL>Tadmor</Z30_NOTE_INTERNAL>
+  <BARCODE>31154050692662</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20131105</DATE_ADDED>
+  <BSN>000748488</BSN>
+  <BIB_TITLE>  Nabataean coins / Yaʻakov Meshorer ; English translation, I. H. Levine.</BIB_TITLE>
+  <BIB_AUTHOR>  Levine, I. H.</BIB_AUTHOR>
+  <PUB_DATE>1975</PUB_DATE>
+  <Z13_IMPRINT>[Jerusalem] : Institute of Archaeology, Hebrew University of Jerusalem ; Distributed by the Israel E</Z13_IMPRINT>
+  <CALL_NUMBER> CJ1397 .M47 1975</CALL_NUMBER>
+  <Z30_NOTE_INTERNAL>Tadmor</Z30_NOTE_INTERNAL>
+  <BARCODE>31154050692605</BARCODE>
+ </ROW>
+</printout>
