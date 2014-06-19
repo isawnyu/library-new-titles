@@ -23,13 +23,16 @@
 
     <xsl:template match="BSN">
         <xsl:variable name="alephquery">
-            <xsl:text>http://aleph.library.nyu.edu/OAI-script?verb=GetRecord&amp;identifier=NYU01-</xsl:text>
+<!--            <xsl:text>http://aleph.library.nyu.edu/OAI-script?verb=GetRecord&amp;identifier=NYU01-</xsl:text>
             <xsl:value-of select="normalize-space(.)"/>
-            <xsl:text>&amp;metadataPrefix=marc21</xsl:text>
+            <xsl:text>&amp;metadataPrefix=marc21</xsl:text> -->
+            <xsl:text>http://aleph.library.nyu.edu:8991/X?op=publish_avail&amp;doc_num=</xsl:text>
+            <xsl:value-of select="normalize-space(.)"/>
+            <xsl:text>&amp;library=nyu01</xsl:text>
         </xsl:variable>
         <xsl:choose>
-            <xsl:when test=" doc-available($alephquery)">
-                <xsl:for-each select=" doc($alephquery)/*">
+            <xsl:when test="doc-available($alephquery)">
+                <xsl:for-each select="doc($alephquery)/*">
                     <xsl:apply-templates select="descendant-or-self::marc:record"/>
                 </xsl:for-each>
             </xsl:when>
@@ -43,11 +46,24 @@
         <xsl:copy>
             <xsl:copy-of select="@*"/>
             <xsl:apply-templates/>
-            <marc:datafield tag="852" ind1=" " ind2=" ">
-                <marc:subfield code="a">NYU Inst Study Ancient World</marc:subfield>
-                <marc:subfield code="b">E79 1943</marc:subfield>
-            </marc:datafield>
         </xsl:copy>
+    </xsl:template>
+    
+    <xsl:template match="marc:datafield[@tag='AVA' and marc:subfield[@code='b'] = 'NISAW']">
+        <xsl:copy>
+            <xsl:copy-of select="@*"/>
+            <xsl:apply-templates/>
+        </xsl:copy>
+        <marc:datafield tag="852" ind1=" " ind2=" ">
+            <marc:subfield code="a">New York University</marc:subfield>
+            <marc:subfield code="b">Institute for the Study of the Ancient World</marc:subfield>
+            <marc:subfield code="c">
+                <xsl:value-of select="marc:subfield[@code='c']"/>
+            </marc:subfield>
+            <marc:subfield code="e">15 East 84th Street</marc:subfield>
+            <marc:subfield code="e">New York, NY  10028</marc:subfield>
+        </marc:datafield>
+        
     </xsl:template>
     
     <xsl:template match="marc:*">
@@ -55,11 +71,7 @@
             <xsl:copy-of select="@*"/>
             <xsl:apply-templates/>
         </xsl:copy>
-    </xsl:template>
-    
-    
-    https://library.nyu.edu/persistent/lcn/nyu_aleph003878832
-    
+    </xsl:template>    
     
     <xsl:template match="*"/>
 
