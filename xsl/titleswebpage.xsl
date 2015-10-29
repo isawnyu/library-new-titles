@@ -22,8 +22,6 @@
     <xsl:param name="loglevel">warning</xsl:param>
     <xsl:output method="xhtml" indent="yes" name="webpage"/>
     
-    <saxon:collation name="mixed" rules=" &lt;  0 &lt; 1 &lt; 2 &lt; 3 &lt; 4 &lt; 5 &lt; 6 &lt; 7 &lt; 8 &lt; 9 &lt; a,A &lt; b,B &lt; c,C &lt; d,D &lt; e,E &lt; f,F &lt; g,G &lt; h,H &lt; i,I &lt; j,J &lt; k,K &lt; l,L &lt; m,M &lt; n,N &lt; o,O &lt; p,P &lt; q,Q &lt; r,R &lt; s,S &lt; t,T &lt; u,U &lt; v,V &lt; w,W &lt; x,X &lt; y,Y &lt; z,Z &amp; A = Á &amp; A = Ä &amp; A = Ẵ &amp; A = Ằ &amp; C = Ç &amp; D = Đ &amp; E = É &amp; E = Ễ &amp; O = Ö &amp; a = à &amp; a = á &amp; a = â &amp; a = ä &amp; ae = æ &amp; c = ç &amp; e = è &amp; e = é &amp; e = ê &amp; i = í &amp; i = î &amp; i = ï &amp; n = ñ &amp; o = ó &amp; o = ô &amp; o = ö &amp; o = ø &amp; u = û &amp; u = ü &amp; c = č &amp; e = ē &amp; g = ğ &amp; i = ĭ &amp; i = İ &amp; i = ı &amp; l = ł &amp; n = ń &amp; o = ō &amp; s = ś &amp; s = ş &amp; S = Š &amp; s = š &amp; H = Ḥ &amp; h = ḥ &amp; H = Ḫ &amp; h = ḫ &amp; K = Ḳ &amp; k = ḳ &amp; s = ṣ &amp; T = Ṭ &amp; t = ṭ &amp; v = ṿ &amp; z = ẓ" ignore-case="yes" ignore-modifiers="yes" ignore-symbols="yes"/>
-    
     <xsl:param name="startdate">2014-02-01</xsl:param>
     <xsl:param name="enddate">2014-02-28</xsl:param>
     <xsl:param name="zotliblink"/>
@@ -40,6 +38,7 @@
     <xsl:variable name="marc-origin">500</xsl:variable>
     <xsl:variable name="marc-persname">700</xsl:variable>
     <xsl:variable name="marc-scn">035</xsl:variable>
+    <xsl:variable name="marc-parallel">880</xsl:variable>
     
     
     <xsl:param name="destdir">../result/</xsl:param>
@@ -60,6 +59,10 @@
 </xsl:text>
     </xsl:variable>
     
+    <xsl:variable name="internal-punct" as="node()">
+        <span dir="ltr">. </span>
+    </xsl:variable>
+    
     <xsl:template match="/">
         <xsl:apply-templates/>
     </xsl:template>
@@ -70,7 +73,11 @@
     
     <xsl:template match="marc:record">
         <p class="citation">
-            <xsl:apply-templates select="marc:datafield[@tag=$marc-title]"/>
+            <xsl:attribute name="id">seq<xsl:value-of select="count(preceding-sibling::marc:record)+1"/></xsl:attribute>
+            <!-- 
+                <xsl:apply-templates select="marc:datafield[@tag=$marc-title]"/>
+                -->
+            <xsl:call-template name="do-title"/>
             <!-- 
             <xsl:if test="not(marc:datafield[@tag=$marc-title]/marc:subfield[@code='c'])">
                 <xsl:apply-templates select="marc:datafield[@tag=$marc-authors] | marc:datafield[@tag='700']"/>
@@ -195,37 +202,49 @@
         </xsl:choose>
     </xsl:template>
     
-    
     <!-- titles -->
-    <xsl:template match="marc:datafield[@tag=$marc-title]">
-        <xsl:if test="$loglevel='info'">
-            <xsl:message>
-                <xsl:text>title: </xsl:text>
-                <xsl:for-each select="marc:subfield">
-                    <xsl:value-of select="normalize-space(.)"/>
-                    <xsl:text> </xsl:text>
-                </xsl:for-each>
-            </xsl:message>
-        </xsl:if>
-        <strong><span class="title" style="font-style: italic; font-weight: bold;">
-            <xsl:apply-templates/>
-        </span></strong>
-        <xsl:text>. </xsl:text>
-        <xsl:apply-templates select="marc:subfield[@code='c']" mode="byline"/>
+    <xsl:template name="do-title">
+        <xsl:variable name="title-node" as="node()">
+            <xsl:choose>
+                <xsl:when test="marc:datafield[@tag=$marc-parallel and starts-with(marc:subfield[@code='6'], $marc-title)]">
+                    <xsl:sequence select="marc:datafield[@tag=$marc-parallel and starts-with(marc:subfield[@code='6'], $marc-title)][1]"/>
+                </xsl:when>
+                <xsl:otherwise>
+                    <xsl:sequence select="marc:datafield[@tag=$marc-title][1]"/>
+                </xsl:otherwise>
+            </xsl:choose>
+        </xsl:variable>
+        <xsl:for-each select="$title-node">
+            <xsl:if test="marc:subfield[@code='a' or @code='b']">
+                <p class="title">
+                    <xsl:apply-templates select="marc:subfield[@code='a' or @code='b']" mode="titles"/>
+                </p><xsl:copy-of select="$internal-punct"/>
+            </xsl:if>
+            <xsl:if test="marc:subfield[@code='c']">
+                <span class="byline">
+                    <xsl:apply-templates select="marc:subfield[@code='c']" mode="titles"/>
+                </span><xsl:copy-of select="$internal-punct"/>
+            </xsl:if>
+        </xsl:for-each>
     </xsl:template>
-    <xsl:template match="marc:subfield[(@code='a' or @code='b') and ancestor::marc:datafield[@tag=$marc-title]]">
-        <xsl:variable name="filtered" select="replace(replace(., '\s+:', ':'), '/', '')"/>
-        <xsl:variable name="cleantitle" select="tre:normalize-punctuation(normalize-space($filtered))"/>
+    
+    <xsl:template match="marc:subfield[@code='a' or @code='b' or @code='c']" mode="titles">
+        <xsl:variable name="normed" select="normalize-unicode(., 'NFC')"/>
+        <xsl:variable name="clean" select="tre:normalize-punctuation($normed)"/>
         <xsl:if test="@code='b' and ../marc:subfield[@code='a']">
             <xsl:text> </xsl:text>
         </xsl:if>
-        <xsl:value-of select="$cleantitle"/>
-    </xsl:template>
-    <xsl:template match="marc:subfield[@code='c']" mode="byline">
-        <span class="byline">
-            <xsl:value-of select="tre:capfirst(replace(replace(tre:normalize-punctuation(.), '\s*;', ','), '/', ''))"/>
-        </span>
-        <xsl:text>. </xsl:text>
+        <xsl:variable name="ready">
+            <xsl:choose>
+                <xsl:when test="@code='c'">
+                    <xsl:value-of select="tre:capfirst($clean)"/>
+                </xsl:when>
+                <xsl:otherwise>
+                    <xsl:value-of select="$clean"/>
+                </xsl:otherwise>
+            </xsl:choose>
+        </xsl:variable>
+        <xsl:value-of select="$ready"/>
     </xsl:template>
     
     <!-- series -->
@@ -323,7 +342,7 @@
     <!-- oclc -->
     <xsl:template match="marc:datafield[@tag=$marc-scn and starts-with(marc:subfield[@code='a'], '(OCoLC)')]">
         <a href="http://www.worldcat.org/oclc/{substring-after(marc:subfield[@code='a'], '(OCoLC)')}">OCLC WorldCat record</a>
-        <xsl:text>. </xsl:text>
+        <span><xsl:text>. </xsl:text></span>
     </xsl:template>
     
     <!-- edition -->
@@ -361,11 +380,15 @@
             <xsl:value-of select="$n"/>
             <xsl:text disable-output-escaping="yes">&lt;!DOCTYPE html&gt;</xsl:text>
             <xsl:value-of select="$n"/>
-            <html xmlns="http://www.w3.org/1999/xhtml">
+            <html xmlns="http://www.w3.org/1999/xhtml" dir="ltr">
                 <head>
                     <title>
                         <xsl:value-of select="$titlestring"/>
                     </title>
+                    <style type="text/css">
+                        .title {color: blue;}
+                        .byline {color: red;}                        
+                    </style>
                 </head>
                 <body>
                     <h1>
@@ -383,11 +406,11 @@
                     </p>
                     <p>We build a single Zotero library for the entire academic year, with each month representing a Zotero collection. One may therefore view or search just that collection or the entire library. Note that the tags are drawn from pre-existing metadata (i.e., the ISAW Library staff does not tag entries) and represents the contents of the entire library. That is, you will see tags for all works in the Zotero library, but not necessarily associated with anything accessioned in the particular monthly collection you are viewing. For example, if you review acquisitions for January 2015 and select a tag for "Hittite," nothing may come up. This means that nothing accessioned in January 2015 was tagged as "Hittite." However, it does mean that something that academic year was tagged as "Hittite." So, if you move up the hierarchy from the collection "January 2015" to library for the 2014-2015 academic year and then click on "Hittite," you will find items so tagged from previous months, e.g., October 2014. <a href="http://www.zotero.org">Click here for information about Zotero</a>.</p>
                     
-             
+                    <xsl:variable name="mixed-collation" select=" concat('http://saxon.sf.net/collation?rules=', encode-for-uri('&lt;  0 &lt; 1 &lt; 2 &lt; 3 &lt; 4 &lt; 5 &lt; 6 &lt; 7 &lt; 8 &lt; 9 &lt; a,A &lt; b,B &lt; c,C &lt; d,D &lt; e,E &lt; f,F &lt; g,G &lt; h,H &lt; i,I &lt; j,J &lt; k,K &lt; l,L &lt; m,M &lt; n,N &lt; o,O &lt; p,P &lt; q,Q &lt; r,R &lt; s,S &lt; t,T &lt; u,U &lt; v,V &lt; w,W &lt; x,X &lt; y,Y &lt; z,Z &amp; A = Á &amp; A = Ä &amp; A = Ẵ &amp; A = Ằ &amp; C = Ç &amp; D = Đ &amp; E = É &amp; E = Ễ &amp; O = Ö &amp; a = à &amp; a = á &amp; a = â &amp; a = ä &amp; ae = æ &amp; c = ç &amp; e = è &amp; e = é &amp; e = ê &amp; i = í &amp; i = î &amp; i = ï &amp; n = ñ &amp; o = ó &amp; o = ô &amp; o = ö &amp; o = ø &amp; u = û &amp; u = ü &amp; c = č &amp; e = ē &amp; g = ğ &amp; i = ĭ &amp; i = İ &amp; i = ı &amp; l = ł &amp; n = ń &amp; o = ō &amp; s = ś &amp; s = ş &amp; S = Š &amp; s = š &amp; H = Ḥ &amp; h = ḥ &amp; H = Ḫ &amp; h = ḫ &amp; K = Ḳ &amp; k = ḳ &amp; s = ṣ &amp; T = Ṭ &amp; t = ṭ &amp; v = ṿ &amp; z = ẓ'))"/>
                     <xsl:for-each select="marc:record[marc:datafield[@tag='AVA']/marc:subfield[@code='b']='NISAW']">
-                        <!-- <xsl:sort select="marc:datafield[@tag='AVA' and marc:subfield[@code='b']='NISAW']/marc:subfield[@code='d']"/> -->
-                        <xsl:sort select="tre:titlesort(marc:datafield[@tag=$marc-title])"  collation="mixed"/>
-                        <xsl:sort select="tre:creatorsort(.)" collation="mixed"/>
+                        <xsl:sort select="marc:datafield[@tag='AVA' and marc:subfield[@code='b']='NISAW']/marc:subfield[@code='d']"/>
+                        <xsl:sort select="tre:titlesort(marc:datafield[@tag=$marc-title])"  collation="{$mixed-collation}"  />
+                        <xsl:sort select="tre:creatorsort(.)" collation="{$mixed-collation}"/>
                         <xsl:apply-templates select="."/>
                     </xsl:for-each>
                                         
@@ -402,6 +425,8 @@
             </html>
         </xsl:result-document>
     </xsl:template>
+    
+    
     
     <xsl:template name="multicat">
         <xsl:param name="seq" as="item()*"/>
@@ -489,22 +514,27 @@
     
     <xsl:function name="tre:normalize-punctuation" as="xs:string">
         <xsl:param name="raw" as="xs:string"/>
+        <xsl:message>raw="<xsl:value-of select="$raw"/>"</xsl:message>
         <xsl:variable name="cooked">
             <xsl:variable name="almost" select="normalize-space($raw)"/>
-            <xsl:variable name="normal" select="replace(replace($almost, ' :', ':'), ' ;', ';')"/>
+            <xsl:variable name="normal" select="replace(replace($almost, '\s+:', ':'), '\s+;', ';')"/>
+            
+            <!-- clean up end of string -->
             <xsl:variable name="length" select="string-length($normal)"/>
             <xsl:variable name="words" select="tokenize($normal, '[\s\-]+')"/>
             <xsl:variable name="lastword" select="$words[count($words)]"/>
             <xsl:choose>
+                <!-- leave ellipsis in place -->
                 <xsl:when test="$lastword = '...'">
                     <xsl:value-of select="$normal"/>
-                </xsl:when>                
-                <xsl:when test="ends-with($lastword, '.,') and string-length($lastword)=3">
+                </xsl:when>
+                <!-- <xsl:when test="ends-with($lastword, '.,') and string-length($lastword)=3">
                     <xsl:value-of select="substring($normal, 1, $length -1)"/>
-                </xsl:when>
-                <xsl:when test="ends-with($lastword, '.') and string-length($lastword)=2">
+                </xsl:when> -->
+                
+                <!--<xsl:when test="ends-with($lastword, '.') and string-length($lastword)=2">
                     <xsl:value-of select="$normal"/>
-                </xsl:when>
+                </xsl:when> -->
                 <xsl:when test="ends-with($lastword, '.') or ends-with($lastword, ',') or ends-with($lastword, '/')">
                     <xsl:value-of select="substring($normal, 1, $length -1)"/>
                 </xsl:when>
@@ -524,7 +554,10 @@
                 </xsl:otherwise>
             </xsl:choose>            
         </xsl:variable>
-        <xsl:sequence select="$cooked"/>
+        <xsl:message>cooked="<xsl:value-of select="$cooked"/>"</xsl:message>
+        <xsl:variable name="plated" select="normalize-space($cooked)"/>
+        <xsl:message>plated="<xsl:value-of select="$plated"/>"</xsl:message>
+        <xsl:sequence select="$plated"/>
     </xsl:function>
     
     <xsl:function name="tre:capfirst">
