@@ -60,7 +60,7 @@
     </xsl:variable>
     
     <xsl:variable name="internal-punct" as="node()">
-        <span dir="ltr">. </span>
+        <span>. </span>
     </xsl:variable>
     
     <xsl:template match="/">
@@ -74,15 +74,7 @@
     <xsl:template match="marc:record">
         <p class="citation">
             <xsl:attribute name="id">seq<xsl:value-of select="count(preceding-sibling::marc:record)+1"/></xsl:attribute>
-            <!-- 
-                <xsl:apply-templates select="marc:datafield[@tag=$marc-title]"/>
-                -->
             <xsl:call-template name="do-title"/>
-            <!-- 
-            <xsl:if test="not(marc:datafield[@tag=$marc-title]/marc:subfield[@code='c'])">
-                <xsl:apply-templates select="marc:datafield[@tag=$marc-authors] | marc:datafield[@tag='700']"/>
-            </xsl:if>
-            -->
             <xsl:apply-templates select="marc:datafield[@tag=$marc-edition]"/>
             <xsl:apply-templates select="marc:datafield[@tag=$marc-series]"/>
             <xsl:apply-templates select="marc:datafield[@tag=$marc-imprint or (@tag=$marc-production and @ind2!='4')]"/>
@@ -93,7 +85,7 @@
     </xsl:template>    
     
     <!-- authors etc. -->
-    
+    <!-- not used? --> 
     <xsl:template match="marc:datafield[@tag=$marc-authors or @tag=$marc-persname]">
         
         <xsl:variable name="this" select="tre:strippunct(tre:normalize-punctuation(marc:subfield[@code='a']))"/>
@@ -216,16 +208,16 @@
         </xsl:variable>
         <xsl:for-each select="$title-node">
             <xsl:if test="marc:subfield[@code='a' or @code='b']">
-                <p class="title">
+                <span class="title">
                     <xsl:apply-templates select="marc:subfield[@code='a' or @code='b']" mode="titles"/>
-                </p><xsl:copy-of select="$internal-punct"/>
+                </span><xsl:copy-of select="$internal-punct"/>
             </xsl:if>
             <xsl:if test="marc:subfield[@code='c']">
                 <span class="byline">
                     <xsl:apply-templates select="marc:subfield[@code='c']" mode="titles"/>
                 </span><xsl:copy-of select="$internal-punct"/>
             </xsl:if>
-        </xsl:for-each>
+        </xsl:for-each><br />
     </xsl:template>
     
     <xsl:template match="marc:subfield[@code='a' or @code='b' or @code='c']" mode="titles">
