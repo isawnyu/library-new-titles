@@ -1,0 +1,4028 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
+   <mods version="3.4">
+      <titleInfo>
+         <title>Képatlasz az archaeologiai közlemények</title>
+      </titleInfo>
+      <name type="corporate" nameTitleGroup="1">
+         <namePart>Magyar Tudományos Akadémia</namePart>
+         <namePart>Archaeologiai Bizottmánya.</namePart>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="rdacontent">text</genre>
+      <originInfo script="Latn">
+         <place>
+            <placeTerm type="code" authority="marccountry">hu</placeTerm>
+         </place>
+         <dateIssued encoding="marc">1861</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo displayLabel="publisher">
+         <place>
+            <placeTerm type="text">Pest :Magyar Akademiai,1861</placeTerm>
+         </place>
+         <publisher>Magyar Akademiai,</publisher>
+         <dateIssued>1861.</dateIssued>
+      </originInfo>
+      <language>
+         <languageTerm authority="iso639-2b" type="code">hun</languageTerm>
+      </language>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <extent>volumes : illustrations (some color), plan ; 34 cm.</extent>
+         <form type="media" authority="rdamedia">unmediated</form>
+         <form type="carrier" authority="rdacarrier">volume</form>
+      </physicalDescription>
+      <tableOfContents>II. kötetéhez. LIV képtáblával</tableOfContents>
+      <note type="statement of responsibility" altRepGroup="00" script="Latn">kiadja a Magyar Tudományos Akadémia Archaeologiai Bizottmánya.</note>
+      <note>"Icones ad tom. II. publicationum archaeologicarum Academiae Hungaricae Pestini"--P. facing t.p., v. 2.</note>
+      <subject>
+         <geographicCode authority="marcgac">e-hu---</geographicCode>
+      </subject>
+      <subject authority="lcsh">
+         <geographic>Hungary</geographic>
+         <topic>Antiquities</topic>
+      </subject>
+      <classification authority="lcc">DB920 .M349 1861</classification>
+      <location>
+         <physicalLocation>New York University Institute for the Study of the Ancient World 15 East 84th Street New York, NY  10028</physicalLocation>
+         <holdingSimple>
+            <copyInformation>
+               <subLocation>Oversize Collection</subLocation>
+            </copyInformation>
+         </holdingSimple>
+      </location>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NNU</recordContentSource>
+         <recordCreationDate encoding="marc">131101</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20131101084947.0</recordChangeDate>
+         <recordIdentifier>003878831</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using MARC21slim2MODS3-4.xsl
+				(Revision 1.94 2014/02/21)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <titleInfo>
+         <title>Tarsus kılavuzu</title>
+      </titleInfo>
+      <name type="personal" usage="primary" nameTitleGroup="1">
+         <namePart>Erzen, Afif.</namePart>
+      </name>
+      <name type="corporate">
+         <namePart>Turkey</namePart>
+         <namePart>Antikiteler ve Müzeler Direktörlüğü.</namePart>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">bibliography</genre>
+      <originInfo script="Latn">
+         <place>
+            <placeTerm type="code" authority="marccountry">tu</placeTerm>
+         </place>
+         <place>
+            <placeTerm type="text">İstanbul</placeTerm>
+         </place>
+         <publisher>Maarif Matbaası</publisher>
+         <dateIssued>1943</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <language>
+         <languageTerm authority="iso639-2b" type="code">tur</languageTerm>
+      </language>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <extent>30 p., [6] p. of plates : ill. ; 20 cm.</extent>
+      </physicalDescription>
+      <note type="statement of responsibility" altRepGroup="00" script="Latn">yazan Afif Erzen.</note>
+      <note type="bibliography">Bibliography: p. 30.</note>
+      <subject>
+         <geographicCode authority="marcgac">a-tu---</geographicCode>
+      </subject>
+      <subject authority="lcsh">
+         <geographic>Tarsus (Turkey)</geographic>
+         <topic>Antiquities</topic>
+         <genre>Guidebooks</genre>
+      </subject>
+      <subject authority="lcsh">
+         <geographic>Tarsus (Turkey)</geographic>
+         <topic>Buildings, structures, etc</topic>
+         <genre>Guidebooks</genre>
+      </subject>
+      <subject authority="lcsh">
+         <geographic>Tarsus (Turkey)</geographic>
+         <topic>History</topic>
+      </subject>
+      <classification authority="lcc">DS51.T2 E79 1943</classification>
+      <location>
+         <physicalLocation>New York University Institute for the Study of the Ancient World 15 East 84th Street New York, NY  10028</physicalLocation>
+         <holdingSimple>
+            <copyInformation>
+               <subLocation>Small Collection</subLocation>
+            </copyInformation>
+         </holdingSimple>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>Maarif Vekilliği, Antikiteler ve Müzeler Direktörlüğü, Anıtları Koruma Kurulu ; sayı 7</title>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">827268834</identifier>
+      <recordInfo>
+         <descriptionStandard>aacr</descriptionStandard>
+         <recordContentSource authority="marcorg">UKSMC</recordContentSource>
+         <recordCreationDate encoding="marc">131101</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20131101092308.0</recordChangeDate>
+         <recordIdentifier source="OCoLC">003878832</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using MARC21slim2MODS3-4.xsl
+				(Revision 1.94 2014/02/21)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <titleInfo>
+         <title>Medea</title>
+      </titleInfo>
+      <titleInfo type="uniform" nameTitleGroup="1">
+         <title>Medea. Swedish</title>
+      </titleInfo>
+      <name type="personal" usage="primary" nameTitleGroup="1">
+         <namePart>Euripides.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Öman, Victor Emmanuel</namePart>
+         <role>
+            <roleTerm type="text">tr.</roleTerm>
+         </role>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <originInfo script="Latn">
+         <place>
+            <placeTerm type="code" authority="marccountry">sw</placeTerm>
+         </place>
+         <place>
+            <placeTerm type="text">Örebro</placeTerm>
+         </place>
+         <publisher>N.M. Lindh</publisher>
+         <dateIssued>1860</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <language>
+         <languageTerm authority="iso639-2b" type="code">swe</languageTerm>
+      </language>
+      <language objectPart="translation">
+         <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+      </language>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <extent>viii, 70 p. ; 21 cm.</extent>
+      </physicalDescription>
+      <note type="statement of responsibility" altRepGroup="00" script="Latn">af Euripides ; öfversättning af Victor Emanuel Öman.</note>
+      <subject authority="lcsh">
+         <name type="personal">
+            <namePart>Euripides</namePart>
+         </name>
+         <titleInfo>
+            <title>Medea</title>
+         </titleInfo>
+      </subject>
+      <subject authority="lcsh">
+         <name type="personal">
+            <namePart>Euripides</namePart>
+         </name>
+         <genre>Translations into Swedish</genre>
+      </subject>
+      <classification authority="lcc">PA3976 .S94 1860</classification>
+      <location>
+         <physicalLocation>New York University Institute for the Study of the Ancient World 15 East 84th Street New York, NY  10028</physicalLocation>
+         <holdingSimple>
+            <copyInformation>
+               <subLocation>Small Collection</subLocation>
+            </copyInformation>
+         </holdingSimple>
+      </location>
+      <identifier type="oclc">19321293</identifier>
+      <recordInfo>
+         <descriptionStandard>aacr</descriptionStandard>
+         <recordContentSource authority="marcorg">WAU</recordContentSource>
+         <recordCreationDate encoding="marc">131101</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20131101094004.0</recordChangeDate>
+         <recordIdentifier source="OCoLC">003878833</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using MARC21slim2MODS3-4.xsl
+				(Revision 1.94 2014/02/21)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <titleInfo>
+         <title>Euripidis Iphigenia in Tauris</title>
+      </titleInfo>
+      <titleInfo type="alternative">
+         <title>Iphigeneia hē en Taurois</title>
+      </titleInfo>
+      <titleInfo type="uniform" nameTitleGroup="1">
+         <title>Iphigenia in Tauris</title>
+      </titleInfo>
+      <name type="personal" usage="primary" nameTitleGroup="1">
+         <namePart>Euripides.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Nauck, August</namePart>
+         <namePart type="date">1822-1892</namePart>
+         <role>
+            <roleTerm type="text">editor.</roleTerm>
+         </role>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="rdacontent">text</genre>
+      <originInfo script="Latn">
+         <place>
+            <placeTerm type="code" authority="marccountry">gw</placeTerm>
+         </place>
+         <dateIssued encoding="marc">1926</dateIssued>
+         <edition>Editio stereotypa.</edition>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo displayLabel="publisher">
+         <place>
+            <placeTerm type="text">Lipsiae :B.G. Teubneri,MCMXXVI</placeTerm>
+         </place>
+         <publisher>B.G. Teubneri,</publisher>
+         <dateIssued>MCMXXVI.</dateIssued>
+      </originInfo>
+      <language>
+         <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+      </language>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <extent>pages [62]-108 ; 17 cm.</extent>
+         <form type="media" authority="rdamedia">unmediated</form>
+         <form type="carrier" authority="rdacarrier">volume</form>
+      </physicalDescription>
+      <note type="statement of responsibility" altRepGroup="00" script="Latn">[Euripides] ; ex recensione Augusti Nauckii.</note>
+      <classification authority="lcc">PA3973 .I8 1926</classification>
+      <location>
+         <physicalLocation>New York University Institute for the Study of the Ancient World 15 East 84th Street New York, NY  10028</physicalLocation>
+         <holdingSimple>
+            <copyInformation>
+               <subLocation>Small Collection</subLocation>
+            </copyInformation>
+         </holdingSimple>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>Bibliotheca scriptorum Graecorum et Romanorum Teubneriana</title>
+         </titleInfo>
+      </relatedItem>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NNU</recordContentSource>
+         <recordCreationDate encoding="marc">131101</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20131101100845.0</recordChangeDate>
+         <recordIdentifier>003878838</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using MARC21slim2MODS3-4.xsl
+				(Revision 1.94 2014/02/21)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <titleInfo>
+         <title>Präparation zu Euripides' Iphigenie in Taurien</title>
+      </titleInfo>
+      <titleInfo type="alternative">
+         <title>Euripides' Iphigenie in Taurien</title>
+      </titleInfo>
+      <titleInfo type="alternative">
+         <title>Iphigenie in Taurien</title>
+      </titleInfo>
+      <name type="personal" usage="primary" nameTitleGroup="1">
+         <namePart>Schmitt, H.</namePart>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="rdacontent">text</genre>
+      <originInfo script="Latn">
+         <place>
+            <placeTerm type="code" authority="marccountry">gw</placeTerm>
+         </place>
+         <dateIssued encoding="marc">1913</dateIssued>
+         <edition>2., neu durchgesehene Auflage.</edition>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo displayLabel="publisher">
+         <place>
+            <placeTerm type="text">Hannover :O. Goedel,1913</placeTerm>
+         </place>
+         <publisher>O. Goedel,</publisher>
+         <dateIssued>1913.</dateIssued>
+      </originInfo>
+      <language>
+         <languageTerm authority="iso639-2b" type="code">ger</languageTerm>
+      </language>
+      <language>
+         <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+      </language>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <extent>35 pages ; 22 cm.</extent>
+         <form type="media" authority="rdamedia">unmediated</form>
+         <form type="carrier" authority="rdacarrier">volume</form>
+      </physicalDescription>
+      <note type="statement of responsibility" altRepGroup="00" script="Latn">von Dr. H. Schmitt.</note>
+      <subject authority="lcsh">
+         <name type="personal">
+            <namePart>Euripides</namePart>
+         </name>
+         <titleInfo>
+            <title>Iphigenia in Tauris</title>
+         </titleInfo>
+         <genre>Concordances</genre>
+      </subject>
+      <subject authority="lcsh">
+         <name type="personal">
+            <namePart>Euripides</namePart>
+         </name>
+         <titleInfo>
+            <title>Iphigenia in Tauris</title>
+         </titleInfo>
+         <topic>Criticism, Textual</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Greek language</topic>
+         <genre>Glossaries, vocabularies, etc</genre>
+      </subject>
+      <classification authority="lcc">PA3992 .Z8 1913</classification>
+      <location>
+         <physicalLocation>New York University Institute for the Study of the Ancient World 15 East 84th Street New York, NY  10028</physicalLocation>
+         <holdingSimple>
+            <copyInformation>
+               <subLocation>Small Collection</subLocation>
+            </copyInformation>
+         </holdingSimple>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>Krafft und Rankes Präparationen für die Schullektüre ; Heft 85</title>
+         </titleInfo>
+      </relatedItem>
+      <relatedItem>
+         <titleInfo>
+            <title>Iphigenia in Tauris</title>
+         </titleInfo>
+         <name type="personal">
+            <namePart>Euripides</namePart>
+         </name>
+      </relatedItem>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NNU</recordContentSource>
+         <recordCreationDate encoding="marc">131101</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20131127120926.0</recordChangeDate>
+         <recordIdentifier>003878855</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using MARC21slim2MODS3-4.xsl
+				(Revision 1.94 2014/02/21)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <titleInfo>
+         <nonSort>Hē a</nonSort>
+         <title>nagoreusē tou homotimou kathēgētē tou Aristoteleiou Panepistēmiou Thes/nikēs Nikolaou Platōnos hōs epitimou didaktora tēs Philosophikēs Scholēs tou Panepistēmiou Krētēs</title>
+      </titleInfo>
+      <name type="personal" usage="primary" nameTitleGroup="1">
+         <namePart>Platōn, Nikolaos</namePart>
+         <namePart type="date">1909-</namePart>
+      </name>
+      <name type="corporate">
+         <namePart>Panepistēmio tēs Krētēs</namePart>
+         <namePart>Philosophikē Scholē.</namePart>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <originInfo script="Latn">
+         <place>
+            <placeTerm type="code" authority="marccountry">gr</placeTerm>
+         </place>
+         <place>
+            <placeTerm type="text">Rethymno</placeTerm>
+         </place>
+         <publisher>Ekdosē tou Panepistēmiou Krētēs</publisher>
+         <dateIssued>1986</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <language>
+         <languageTerm authority="iso639-2b" type="code">gre</languageTerm>
+      </language>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <extent>38 p. : port. ; 25 cm.</extent>
+      </physicalDescription>
+      <note type="statement of responsibility" altRepGroup="00" script="Latn"/>
+      <note>At head of title: Panepistēmio Krētēs, Philosophikē Scholē.</note>
+      <subject>
+         <geographicCode authority="marcgac">e-gr---</geographicCode>
+      </subject>
+      <subject authority="lcsh">
+         <name type="personal">
+            <namePart>Platōn, Nikolaos</namePart>
+            <namePart type="date">1909-</namePart>
+         </name>
+      </subject>
+      <subject authority="lcsh">
+         <geographic>Crete (Greece)</geographic>
+         <topic>Antiquities</topic>
+      </subject>
+      <classification authority="lcc">DF221.C8 P578 1986</classification>
+      <location>
+         <physicalLocation>New York University Institute for the Study of the Ancient World 15 East 84th Street New York, NY  10028</physicalLocation>
+         <holdingSimple>
+            <copyInformation>
+               <subLocation>Small Collection</subLocation>
+            </copyInformation>
+         </holdingSimple>
+      </location>
+      <identifier type="oclc">35838283</identifier>
+      <recordInfo>
+         <descriptionStandard>aacr</descriptionStandard>
+         <recordContentSource authority="marcorg">CIN</recordContentSource>
+         <recordCreationDate encoding="marc">131101</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20131101115319.0</recordChangeDate>
+         <recordIdentifier source="OCoLC">003878874</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using MARC21slim2MODS3-4.xsl
+				(Revision 1.94 2014/02/21)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <titleInfo>
+         <title>Antichnye pami͡atniki Kolkhidy i Iberii</title>
+      </titleInfo>
+      <name type="personal">
+         <namePart>Gurina, N. N. (Nina Nikolaevna)</namePart>
+         <role>
+            <roleTerm type="text">ed.</roleTerm>
+         </role>
+      </name>
+      <name type="personal">
+         <namePart>Kruglikova, Irina Timofeevna</namePart>
+         <role>
+            <roleTerm type="text">ed.</roleTerm>
+         </role>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">bibliography</genre>
+      <originInfo script="Latn">
+         <place>
+            <placeTerm type="code" authority="marccountry">ru</placeTerm>
+         </place>
+         <place>
+            <placeTerm type="text">Moskva</placeTerm>
+         </place>
+         <publisher>Izd-vo "Nauka"</publisher>
+         <dateIssued>1977</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <language>
+         <languageTerm authority="iso639-2b" type="code">rus</languageTerm>
+      </language>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <extent>132 p. : ill., plans ; 26 cm.</extent>
+      </physicalDescription>
+      <tableOfContents>Raskopki mogil'nika Pichvnari / A.I͡U. Kakhidze -- Nekotorye itogi raskopok poseleniĭ VI-V vv. do n.ė. v raĭone ust'i͡a r. Rioni (Fasisa) / T.K. Mikeladze -- Predvaritel'nye itogi rabot na Ėsherskom gorodishche / G.K. Shamba -- Novootkrytye pami͡atniki drevnekolkhidskoĭ metallurgii zheleza / D.A. Khakhutaĭshvili -- Kolkhskiĭ mogil'nik VII-VI vv. do n.ė. v s. Nigvziani / T.K. Mikeladze, M.V. Baramidze -- Raskopki v Vani v 1973-1974 gg. / O.D. Lordkipanidze, R.V. Puturidze, N.N. Matiashvili ---- Pogrebenie s cherepichnym perekrytiem iz Dablagomi / V.A. Tolordava -- Dapnarskoe selishche i mogil'nik (k probleme sel'skikh poseleniĭ Kolkhidy) / N.Sh. Kiguradze, G.A. Lordkipanidze -- Klad rimskikh monet I-III vv. iz s. Ėki / G.F. Dundua -- Kolkhidskie amfory iz Vani / R.V. Puturidze -- Afiny i Kolkhida v ėllinisticheskui͡u ėpokhy / N.N. Matiashvili -- K izuchenii͡u kolkhidskogo zlatokuznechestva / A.M. Chkonia -- Keramika Kolkhidy VI-IV vv. do n.ė. / E.G. Gigolashvili, D.D. Kacharava -- Topory kolkhidsko-kobanskogo tipa v Dagestane / A.R. Magomedov -- Gorodishche Samadlo / I͡U.M. Gagoshidze -- Rezul'taty rabot na "T͡Sikhia-gora" (1971-1974 gg.) / G.G. T͡Skitishvili -- Nastakisi, Sarkinė, Dzalisi : goroda Iberii antichnoĭ ėpokhi (nekotorye rezul'taty polevykh issledovannĭ) / Al. Bokhochadze -- Raskopki khrama I v. do n.ė. v Dedoplis Mindori (vostochnai͡a Gruzii͡a) / I͡U.M. Gagoshidze -- Pogrebenii͡a iberiĭskoĭ znati iz Zguderi / G.M. Nemsadze -- Novye otkrytii͡a na novostroĭkakh Aragvskogo ushchel'i͡a / R.M. Ramishvili -- O nekotorykh neopublikovannykh materialakh ranneantichnoĭ ėpokhi iz i͡ugo-vostochnoĭ Gruzii / T͡S.O. Davlianidze -- Stekli͡annye sosudy iz Tbilisi / M.N. Saginashvili.</tableOfContents>
+      <note type="statement of responsibility" altRepGroup="00" script="Latn">[otvetstvennyĭ redaktor, N.N. Gurina, I.T. Kruglikova].</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <subject>
+         <geographicCode authority="marcgac">a-gs---</geographicCode>
+      </subject>
+      <subject authority="lcsh">
+         <geographic>Colchis</geographic>
+         <topic>Antiquities</topic>
+      </subject>
+      <subject authority="lcsh">
+         <geographic>Iberia (Kingdom)</geographic>
+         <topic>Antiquities</topic>
+      </subject>
+      <subject authority="lcsh">
+         <geographic>Georgia (Republic)</geographic>
+         <topic>Antiquities</topic>
+      </subject>
+      <classification authority="lcc">DK673 .A58 1977</classification>
+      <location>
+         <physicalLocation>New York University Institute for the Study of the Ancient World 15 East 84th Street New York, NY  10028</physicalLocation>
+         <holdingSimple>
+            <copyInformation>
+               <subLocation>Small Collection</subLocation>
+            </copyInformation>
+         </holdingSimple>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>Kratkie soobshchenii͡a (Institut arkheologii (Akademii͡a nauk SSSR)) ; 151</title>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="lccn">mod78423297</identifier>
+      <identifier type="oclc">7440742</identifier>
+      <recordInfo>
+         <descriptionStandard>aacr</descriptionStandard>
+         <recordContentSource authority="marcorg">DLC</recordContentSource>
+         <recordCreationDate encoding="marc">131101</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20131104110728.0</recordChangeDate>
+         <recordIdentifier source="OCoLC">003878899</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using MARC21slim2MODS3-4.xsl
+				(Revision 1.94 2014/02/21)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <titleInfo>
+         <title>Treasures on camels' humps</title>
+         <subTitle>historical and literary studies from the ancient Near East presented to Israel Ephʻal</subTitle>
+      </titleInfo>
+      <name type="personal">
+         <namePart>Ephʻal, Israel.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Cogan, Mordechai.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Kahn, Dan'el.</namePart>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">bibliography</genre>
+      <genre authority="marcgt">festschrift</genre>
+      <originInfo script="Latn">
+         <place>
+            <placeTerm type="code" authority="marccountry">is</placeTerm>
+         </place>
+         <place>
+            <placeTerm type="text">Jerusalem</placeTerm>
+         </place>
+         <publisher>Hebrew University Magnes Press</publisher>
+         <dateIssued>2008</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <language>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+      </language>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <extent>xiii, 338 p. : ill. ; 25 cm.</extent>
+      </physicalDescription>
+      <tableOfContents>Hunting in the epic of Gilgamesh: speculations on the education of a prince / Tsvi Abusch -- Ezekiel and Egypt / Shmuel Ahituv -- What kind of treaty tradition do the Sefire inscriptions represent? / Amnon Altman -- "All the nations and many people": the answer of Isaiah and Micah to Assyrian Imperial policies / Pinhas Artzi -- Crossing the boundaries: literary allusions to the epic of Gilgamesh in the account of Esarhaddon's Egyptian campaign / Amitai Baruchi-Unna -- The Assyrian Stela fragment from Ben-Shemhen / Mordechai Cogan -- A pugnacious strike from Uruk / M.A. Damdamayev -- A new look at a Neo-Assyrian sale of "land and people" / Gershon Galil -- The wandering lament: Micah 1:10-16 / Yair Hoffman -- New light on an old find from Hazor / Wayne Horowitz and Takayoshi Oshima -- "Shutting up" the enemy - literary gleanings from Sargon's eighth campaign / Victor Avigdor Hurowitz --</tableOfContents>
+      <tableOfContents>Piankhy's instructions to his army in Kush and their execution / Dan'el Kahn -- Recruitment of foreign soldiers into the Neo-Assyrian Army during the reign of Tiglath-pileser III / Yehuda Kaplan-- Four early Mesopotamian 'builidng' inscriptions from the Moussaieff collection / Jacob Klein -- Esarhaddon's eastern campaign / Erle Leichty -- The hosts of the mountain / Edward Lipiński -- Peace and war at Nuzi: a prosopographical foray / M.P. Maidman -- The Suhu governors' inscriptions in the context of Mesopotamian royal inscriptions / Nadav Na'aman -- The chronology of the Idumean Ostraca in the decade or so after the death of Alexander the Great and its relevance for historical events / Bezalel Porten and Ada Yardeni -- On siege warfare in Hittite texts / Itamar Singer -- Assyria at the gates of Tushpa / Hayim Tadmor -- Are trees of the field human? A Biblical war law (Deuteronomy 20:19-20) and Neo-Assyrian propoganda / Nili Wazana -- Qurdi-Assur-lamur: his letters and career / Shigeo Yamada -- Neo-Assyrian notes / Ron Zadok -- Nebuchadnezzar's campaign in the 30th year (575 B.C.): a conflict with Tyre / Stefan Zawadski.</tableOfContents>
+      <note type="statement of responsibility" altRepGroup="00" script="Latn">edited by Mordechai Cogan and Dan'el Kahn.</note>
+      <note type="bibliography">Includes bibliography of the works of Israel Ephʻal.</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <subject>
+         <geographicCode authority="marcgac">aw-----</geographicCode>
+      </subject>
+      <subject authority="lcsh">
+         <name type="personal">
+            <namePart>Ephʻal, Israel</namePart>
+         </name>
+         <genre>Biography</genre>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Assyria</topic>
+         <topic>History</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Assyro-Babylonian literature</topic>
+      </subject>
+      <subject authority="lcsh">
+         <geographic>Middle East</geographic>
+         <topic>Civilization</topic>
+         <temporal>To 622</temporal>
+      </subject>
+      <classification authority="lcc">DS70.9 .C64 2008</classification>
+      <location>
+         <physicalLocation>New York University Institute for the Study of the Ancient World 15 East 84th Street New York, NY  10028</physicalLocation>
+         <holdingSimple>
+            <copyInformation>
+               <subLocation>Small Collection</subLocation>
+            </copyInformation>
+         </holdingSimple>
+      </location>
+      <identifier type="isbn">9789654933117</identifier>
+      <identifier type="isbn">965493311X</identifier>
+      <identifier type="oclc">227211048</identifier>
+      <recordInfo>
+         <descriptionStandard>aacr</descriptionStandard>
+         <recordContentSource authority="marcorg">EMT</recordContentSource>
+         <recordCreationDate encoding="marc">080508</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20131108160953.0</recordChangeDate>
+         <recordIdentifier source="OCoLC">003069523</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using MARC21slim2MODS3-4.xsl
+				(Revision 1.94 2014/02/21)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <titleInfo>
+         <title>Athens</title>
+         <subTitle>its history and coinage before the Persian invasion</subTitle>
+      </titleInfo>
+      <titleInfo type="alternative">
+         <title>Athens</title>
+         <subTitle>its history and coinage</subTitle>
+      </titleInfo>
+      <name type="personal" usage="primary" nameTitleGroup="1">
+         <namePart>Seltman, Charles Theodore</namePart>
+         <namePart type="date">1886-1957</namePart>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">bibliography</genre>
+      <originInfo script="Latn">
+         <place>
+            <placeTerm type="code" authority="marccountry">ilu</placeTerm>
+         </place>
+         <place>
+            <placeTerm type="text">Chicago</placeTerm>
+         </place>
+         <publisher>Ares</publisher>
+         <dateIssued>1974</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <language>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+      </language>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <extent>xix, 228 p., 24 p. of plates : ill., map ; 29 cm.</extent>
+      </physicalDescription>
+      <note type="statement of responsibility" altRepGroup="00" script="Latn">by C.T. Seltman.</note>
+      <note>"Unchanged reprint of the edition: Cambridge [England] 1924"--T.p. verso.</note>
+      <note>Includes index.</note>
+      <note type="bibliography">Bibliography: p. [xiv]-xvi.</note>
+      <subject>
+         <geographicCode authority="marcgac">e-gr---</geographicCode>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Coins, Greek</topic>
+         <geographic>Greece</geographic>
+         <geographic>Athens</geographic>
+         <topic>History</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Silver coins</topic>
+         <geographic>Greece</geographic>
+         <geographic>Athens</geographic>
+         <topic>History</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Numismatics, Greek</topic>
+         <geographic>Greece</geographic>
+         <geographic>Athens</geographic>
+         <topic>History</topic>
+      </subject>
+      <subject authority="lcsh">
+         <geographic>Athens (Greece)</geographic>
+         <topic>History</topic>
+      </subject>
+      <classification authority="lcc">CJ401 .S45 1974</classification>
+      <classification authority="ddc">737.4/9/385</classification>
+      <location>
+         <physicalLocation>New York University Institute for the Study of the Ancient World 15 East 84th Street New York, NY  10028</physicalLocation>
+         <holdingSimple>
+            <copyInformation>
+               <subLocation>Oversize Collection</subLocation>
+            </copyInformation>
+         </holdingSimple>
+      </location>
+      <relatedItem type="otherFormat" displayLabel="Online version:">
+         <titleInfo>
+            <title>Athens</title>
+         </titleInfo>
+         <name>
+            <namePart>Seltman, Charles Theodore, 1886-1957.</namePart>
+         </name>
+         <originInfo>
+            <publisher>Chicago : Ares Publishers, 1974</publisher>
+         </originInfo>
+         <identifier type="local">(OCoLC)745697084</identifier>
+      </relatedItem>
+      <identifier type="isbn">0890050023</identifier>
+      <identifier type="isbn">9780890050026</identifier>
+      <identifier type="lccn">74077518</identifier>
+      <identifier type="oclc">1229599</identifier>
+      <recordInfo>
+         <descriptionStandard>aacr</descriptionStandard>
+         <recordContentSource authority="marcorg">DLC</recordContentSource>
+         <recordCreationDate encoding="marc">131105</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20131105101011.0</recordChangeDate>
+         <recordIdentifier source="OCoLC">003880871</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using MARC21slim2MODS3-4.xsl
+				(Revision 1.94 2014/02/21)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <titleInfo>
+         <title>Select Greek coins</title>
+         <subTitle>a series of enlargements illustrated and described</subTitle>
+      </titleInfo>
+      <name type="personal" usage="primary" nameTitleGroup="1">
+         <namePart>Hill, George Francis</namePart>
+         <namePart type="termsOfAddress">Sir</namePart>
+         <namePart type="date">1867-1948</namePart>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">bibliography</genre>
+      <originInfo script="Latn">
+         <place>
+            <placeTerm type="code" authority="marccountry">ilu</placeTerm>
+         </place>
+         <place>
+            <placeTerm type="text">Chicago</placeTerm>
+         </place>
+         <publisher>Ares</publisher>
+         <dateIssued>1974</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <language>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+      </language>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <extent>61 p., 64 p. of plates : ill. ; 29 cm.</extent>
+      </physicalDescription>
+      <note type="statement of responsibility" altRepGroup="00" script="Latn">by George F. Hill.</note>
+      <note>"Unchanged reprint of the edition: Paris &amp; Brussels 1927"--T.p. verso.</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <subject authority="lcsh">
+         <topic>Coins, Greek</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Numismatics, Greek</topic>
+      </subject>
+      <classification authority="lcc">CJ335 .H6 1974</classification>
+      <location>
+         <physicalLocation>New York University Institute for the Study of the Ancient World 15 East 84th Street New York, NY  10028</physicalLocation>
+         <holdingSimple>
+            <copyInformation>
+               <subLocation>Oversize Collection</subLocation>
+            </copyInformation>
+         </holdingSimple>
+      </location>
+      <identifier type="oclc">187334228</identifier>
+      <recordInfo>
+         <descriptionStandard>aacr</descriptionStandard>
+         <recordContentSource authority="marcorg">PAU</recordContentSource>
+         <recordCreationDate encoding="marc">131105</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20131105095138.0</recordChangeDate>
+         <recordIdentifier source="OCoLC">003880869</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using MARC21slim2MODS3-4.xsl
+				(Revision 1.94 2014/02/21)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <titleInfo>
+         <nonSort>The </nonSort>
+         <title>early Islamic monuments of al-Ḥaram al-Sharīf</title>
+         <subTitle>an iconographic study</subTitle>
+      </titleInfo>
+      <titleInfo type="alternative">
+         <title>ha-Mivnim ha-Muslemiyim ha-ḳedumim ba-Har-ha-bayit</title>
+      </titleInfo>
+      <name type="personal" usage="primary" nameTitleGroup="1">
+         <namePart>Rosen-Ayalon, Myriam.</namePart>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">bibliography</genre>
+      <originInfo script="Latn">
+         <place>
+            <placeTerm type="code" authority="marccountry">is</placeTerm>
+         </place>
+         <place>
+            <placeTerm type="text">Jerusalem, Israel]</placeTerm>
+         </place>
+         <publisher>Institute of Archaeology, the Hebrew University of Jerusalem</publisher>
+         <dateIssued>1989</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <language>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+      </language>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <extent>xvi, 73 p. : ill., plans, 16 p. of plates ; 28 cm.</extent>
+      </physicalDescription>
+      <note type="statement of responsibility" altRepGroup="00" script="Latn">Myriam Rosen-Ayalon.</note>
+      <note>Title on added t.p. (romanized): ha-Mivnim ha-Muslemiyim ha-ḳedumim ba-Har-ha-bayit.</note>
+      <note type="bibliography">Includes bibliographical reference (p. xi-xvi).</note>
+      <subject>
+         <geographicCode authority="marcgac">a-is---</geographicCode>
+      </subject>
+      <subject authority="lcsh">
+         <name type="corporate">
+            <namePart>Qubbat al-Ṣakhrah (Mosque : Jerusalem)</namePart>
+         </name>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Islamic architecture</topic>
+         <geographic>Jerusalem</geographic>
+      </subject>
+      <subject authority="lcsh">
+         <geographic>Jerusalem</geographic>
+         <topic>Antiquities</topic>
+      </subject>
+      <subject authority="lcsh">
+         <geographic>Temple Mount (Jerusalem)</geographic>
+      </subject>
+      <classification authority="lcc">DS109.8.H2 R62 1989</classification>
+      <location>
+         <physicalLocation>New York University Institute for the Study of the Ancient World 15 East 84th Street New York, NY  10028</physicalLocation>
+         <holdingSimple>
+            <copyInformation>
+               <subLocation>Oversize Collection</subLocation>
+            </copyInformation>
+         </holdingSimple>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>Publications of the Institute of Archaeology, the Hebrew University of Jerusalem</title>
+         </titleInfo>
+      </relatedItem>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>Qedem ; 28</title>
+         </titleInfo>
+      </relatedItem>
+      <recordInfo>
+         <descriptionStandard>aacr</descriptionStandard>
+         <recordContentSource authority="marcorg"/>
+         <recordCreationDate encoding="marc">890927</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20131106122808.0</recordChangeDate>
+         <recordIdentifier source="NNU">001841473</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using MARC21slim2MODS3-4.xsl
+				(Revision 1.94 2014/02/21)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <titleInfo>
+         <title>Producción y comercio del aceite en la Antigüedad</title>
+         <subTitle>primer congreso internacional</subTitle>
+      </titleInfo>
+      <name type="personal">
+         <namePart>Blázquez, José María</namePart>
+         <role>
+            <roleTerm type="text">ed.</roleTerm>
+         </role>
+      </name>
+      <name type="corporate">
+         <namePart>Fundación Pastor de Estudios Clásicos</namePart>
+      </name>
+      <name type="conference">
+         <namePart>Congreso Internacional sobre el Aceite en la Antigüedad 1978 : Madrid, Spain)</namePart>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">bibliography</genre>
+      <genre authority="marcgt">conference publication</genre>
+      <originInfo script="Latn">
+         <place>
+            <placeTerm type="code" authority="marccountry">sp</placeTerm>
+         </place>
+         <place>
+            <placeTerm type="text">Madrid</placeTerm>
+         </place>
+         <publisher>Universidad Complutense</publisher>
+         <dateIssued>1980</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <language>
+         <languageTerm authority="iso639-2b" type="code">spa</languageTerm>
+      </language>
+      <language>
+         <languageTerm authority="iso639-2b" type="code">fre</languageTerm>
+      </language>
+      <language>
+         <languageTerm authority="iso639-2b" type="code">ita</languageTerm>
+      </language>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <extent>319 p. : ill., charts, maps ; 24 cm.</extent>
+      </physicalDescription>
+      <tableOfContents>Presentación / M. Fernández-Galiano -- Introducción / J.M. Blázquez -- Introducción [in French] / M. Ponsich -- Heinrich Dressel / M. Blech -- Exportación del aceite hispano en el Imperio romano : estado de la cuestión / J.M. Blázquez -- Nouvelles perspectives sur l'olivier du Bas-Guadalquivir dans l'Antiquité / Michel Ponsich -- Monte Testaccio, hoy : nuevos testimonios epigráficos / E. Rodríguez-Almeida -- Alcuni aspetti della topografia e dell'archeologia attorno al monte Testaccio / E. Rodríguez-Almeida -- Reflejos económicos y sociales en la producción de ánforas olearias béticas / José Remesal Rodríguez -- D. Caecilius Hospitalis et M. Iulius Hermesianus / André Tchernia -- Amphores à huile de l'épave Saint-Gervais 3 à Fos-sur-mer : premières observations sur les inscriptions peintes / Bernard Liou -- Epave Port-Vendres II : nouveaux documents épigraphiques / Dali Colls, Robert Lequément -- Comercio del aceite en el valle del Ebro a finales de la República y comienzos del Imperio romano / Miguel Beltrán Lloris -- Commercio oleario e moneta nell' Atene dei secoli VI e V / M.A. Levi -- Evolución de las exportaciones béticas durante el Imperio / R. Pascual Guasch -- Olivo y el aceite en las literaturas clásicas / S. Mariner -- Aceite en la civilización micénica / J.L. Melena -- Rentabilidad del oliveo en el mundo romano / J.L. Ramírez Sádaba -- Continuidad o discontinuidad de la producción oleícola hispana durante la Antigüedad Tardía (ss. V-VII)? / Luis A. García Moreno.</tableOfContents>
+      <note type="statement of responsibility" altRepGroup="00" script="Latn">[coordinó la edición, José María Blazquez Martínez].</note>
+      <note>"Bajo el patronato de: Ministerio de Cultura, Universidad Complutense, Consejo Oleícola Internacional, Casa de Velázquez, Fundación Pastor de Estudios Clásicos."</note>
+      <note>"Celebrado en Madrid ... 4 al 6 diciembre de 1978, en la Fundación Pastor de Estudios Clásicos"--P. [9].</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="language">Contributions in Spanish, French, or Italian.</note>
+      <subject>
+         <geographicCode authority="marcgac">aw-----</geographicCode>
+         <geographicCode authority="marcgac">e------</geographicCode>
+         <geographicCode authority="marcgac">ff-----</geographicCode>
+         <geographicCode authority="marcgac">e-sp---</geographicCode>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Olive oil industry</topic>
+         <geographic>Rome</geographic>
+         <genre>Congresses</genre>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Olive oil industry</topic>
+         <geographic>Spain</geographic>
+         <topic>History</topic>
+         <genre>Congresses</genre>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Oil industries</topic>
+         <geographic>Rome</geographic>
+         <genre>Congresses</genre>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Oil industries</topic>
+         <geographic>Spain</geographic>
+         <topic>History</topic>
+         <genre>Congresses</genre>
+      </subject>
+      <classification authority="lcc">HD9490.5.O463 R66 1980</classification>
+      <classification authority="ddc" edition="19">338.4/7664362/0937</classification>
+      <location>
+         <physicalLocation>New York University Institute for the Study of the Ancient World 15 East 84th Street New York, NY  10028</physicalLocation>
+         <holdingSimple>
+            <copyInformation>
+               <subLocation>Small Collection</subLocation>
+            </copyInformation>
+         </holdingSimple>
+      </location>
+      <relatedItem type="otherFormat" displayLabel="Online version:">
+         <titleInfo>
+            <title>Producción y comercio del aceite en la Antigüedad</title>
+         </titleInfo>
+         <originInfo>
+            <publisher>Madrid : Universidad Complutense, 1980</publisher>
+         </originInfo>
+         <identifier type="local">(OCoLC)735154246</identifier>
+      </relatedItem>
+      <identifier type="isbn">8474910250</identifier>
+      <identifier type="isbn">9788474910254</identifier>
+      <identifier type="lccn">82114807</identifier>
+      <identifier type="oclc">9918651</identifier>
+      <recordInfo>
+         <descriptionStandard>aacr</descriptionStandard>
+         <recordContentSource authority="marcorg">DLC</recordContentSource>
+         <recordCreationDate encoding="marc">131105</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20131106082056.0</recordChangeDate>
+         <recordIdentifier source="OCoLC">003880979</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using MARC21slim2MODS3-4.xsl
+				(Revision 1.94 2014/02/21)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <titleInfo>
+         <nonSort>The </nonSort>
+         <title>inscriptions of Wadi Haggag, Sinai</title>
+      </titleInfo>
+      <titleInfo type="alternative">
+         <title>The pottery from Wadi Haggag</title>
+      </titleInfo>
+      <name type="personal" usage="primary" nameTitleGroup="1">
+         <namePart>Negev, Avraham.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Rosenthal-Heginbottom, Renate</namePart>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <originInfo script="Latn">
+         <place>
+            <placeTerm type="code" authority="marccountry">is</placeTerm>
+         </place>
+         <place>
+            <placeTerm type="text">Jerusalem</placeTerm>
+         </place>
+         <publisher>The Institute of Archaeology, The Hebrew University</publisher>
+         <dateIssued>1977</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <language>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+      </language>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <extent>100 p. : ill., maps ; 28 cm.</extent>
+      </physicalDescription>
+      <note type="statement of responsibility" altRepGroup="00" script="Latn">Avraham Negev.</note>
+      <note type="bibliography">Includes bibliographical references (p. 86-94) and indexes.</note>
+      <note>With: The pottery from Wadi Haggag, by Renate Rosenthal: p. 95-100.</note>
+      <subject>
+         <geographicCode authority="marcgac">f-ua---</geographicCode>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Inscriptions, Nabataean</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Inscriptions</topic>
+         <geographic>Egypt</geographic>
+         <geographic>Sinai</geographic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Inscriptions, Greek</topic>
+      </subject>
+      <subject authority="lcsh">
+         <geographic>Ḥajjāj Wadi (Egypt)</geographic>
+      </subject>
+      <classification authority="lcc">PJ5239 .N43 1977</classification>
+      <location>
+         <physicalLocation>New York University Institute for the Study of the Ancient World 15 East 84th Street New York, NY  10028</physicalLocation>
+         <holdingSimple>
+            <copyInformation>
+               <subLocation>Oversize Collection</subLocation>
+            </copyInformation>
+         </holdingSimple>
+      </location>
+      <relatedItem>
+         <titleInfo>
+            <title>Pottery from Wadi Haggag</title>
+         </titleInfo>
+         <name type="personal">
+            <namePart>Rosenthal-Heginbottom, Renate</namePart>
+         </name>
+      </relatedItem>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>Qedem ; 6</title>
+         </titleInfo>
+      </relatedItem>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>Publications of the Institute of Archaeology, the Hebrew University of Jerusalem</title>
+         </titleInfo>
+      </relatedItem>
+      <recordInfo>
+         <descriptionStandard>aacr</descriptionStandard>
+         <recordContentSource authority="marcorg">MoWgW/MoWgT</recordContentSource>
+         <recordCreationDate encoding="marc">780131</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20131107112912.0</recordChangeDate>
+         <recordIdentifier source="NNU">002537225</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using MARC21slim2MODS3-4.xsl
+				(Revision 1.94 2014/02/21)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <titleInfo>
+         <title>Supplementum lyricum</title>
+         <subTitle>neue Bruchstücke von Archilochus, Alcaeus, Sappho, Corinna, Pindar, Bacchylides</subTitle>
+      </titleInfo>
+      <name type="personal" usage="primary" nameTitleGroup="1">
+         <namePart>Diehl, Ernst</namePart>
+         <namePart type="date">1874-1947</namePart>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">bibliography</genre>
+      <originInfo script="Latn">
+         <place>
+            <placeTerm type="code" authority="marccountry">gw</placeTerm>
+         </place>
+         <place>
+            <placeTerm type="text">Bonn</placeTerm>
+         </place>
+         <publisher>Marcus und Weber</publisher>
+         <dateIssued>1917</dateIssued>
+         <edition>3. Aufl.</edition>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <language>
+         <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+      </language>
+      <language>
+         <languageTerm authority="iso639-2b" type="code">ger</languageTerm>
+      </language>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <extent>83 p. ; 19 cm.</extent>
+      </physicalDescription>
+      <note type="statement of responsibility" altRepGroup="00" script="Latn">ausgewählt und erklärt von Ernst Diehl.</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="language">Text in Greek; preliminaries and commentary in German.</note>
+      <subject authority="lcsh">
+         <topic>Greek poetry</topic>
+      </subject>
+      <classification authority="lcc">PA3443 .D54 1917</classification>
+      <location>
+         <physicalLocation>New York University Institute for the Study of the Ancient World 15 East 84th Street New York, NY  10028</physicalLocation>
+         <holdingSimple>
+            <copyInformation>
+               <subLocation>Small Collection</subLocation>
+            </copyInformation>
+         </holdingSimple>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>Kleine Texte für Vorlesungen und Übungen ; 33-34</title>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="lccn">ac 34002555</identifier>
+      <identifier type="oclc">ocm04712742</identifier>
+      <recordInfo>
+         <descriptionStandard>aacr</descriptionStandard>
+         <recordContentSource authority="marcorg">Univ. of Michigan</recordContentSource>
+         <recordCreationDate encoding="marc">790305</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20071003154815.0</recordChangeDate>
+         <recordIdentifier source="NNU">000536662</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using MARC21slim2MODS3-4.xsl
+				(Revision 1.94 2014/02/21)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <titleInfo>
+         <nonSort>The </nonSort>
+         <title>early Byzantine monastery at Khirbet ed-Deir in the Judean desert</title>
+         <subTitle>the excavations in 1981-1987</subTitle>
+      </titleInfo>
+      <name type="personal" usage="primary" nameTitleGroup="1">
+         <namePart>Hirschfeld, Yizhar.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Barkay, Rachel.</namePart>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">bibliography</genre>
+      <originInfo script="Latn">
+         <place>
+            <placeTerm type="code" authority="marccountry">is</placeTerm>
+         </place>
+         <place>
+            <placeTerm type="text">Jerusalem</placeTerm>
+         </place>
+         <publisher>Hebrew University of Jerusalem, Institute of Archaeology</publisher>
+         <dateIssued>1999</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <language>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+      </language>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <extent>xii, 180 p. : ill. (some col.), maps ; 28 cm.</extent>
+      </physicalDescription>
+      <note type="statement of responsibility" altRepGroup="00" script="Latn">Yizhar Hirschfeld ; with contributions by Rachel Barkay ... [et al.].</note>
+      <note type="bibliography">Includes bibliographical references and index.</note>
+      <subject authority="lcsh">
+         <topic>Monasticism and religious orders</topic>
+         <geographic>Judaea, Wilderness of</geographic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Monasteries</topic>
+         <geographic>Judaea, Wilderness of</geographic>
+      </subject>
+      <subject authority="lcsh">
+         <geographic>Dayr Site (West Bank)</geographic>
+      </subject>
+      <subject authority="lcsh">
+         <geographic>Judaea, Wilderness of</geographic>
+         <topic>Antiquities, Byzantine</topic>
+      </subject>
+      <classification authority="lcc">BX2465 .H489 1999</classification>
+      <classification authority="lcc">DS110.D374 H48 1999</classification>
+      <location>
+         <physicalLocation>New York University Institute for the Study of the Ancient World 15 East 84th Street New York, NY  10028</physicalLocation>
+         <holdingSimple>
+            <copyInformation>
+               <subLocation>Oversize Collection</subLocation>
+            </copyInformation>
+         </holdingSimple>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>Qedem ; 38</title>
+         </titleInfo>
+      </relatedItem>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>Publications of the Institute of Archaeology, the Hebrew University of Jerusalem</title>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">ocm42775257</identifier>
+      <recordInfo>
+         <descriptionStandard>aacr</descriptionStandard>
+         <recordContentSource authority="marcorg">MBB</recordContentSource>
+         <recordCreationDate encoding="marc">991105</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20131106141443.0</recordChangeDate>
+         <recordIdentifier source="NNU">001567085</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using MARC21slim2MODS3-4.xsl
+				(Revision 1.94 2014/02/21)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <titleInfo>
+         <title>Neolithic and chalcolithic pottery of the Southern Levant</title>
+      </titleInfo>
+      <name type="personal" usage="primary" nameTitleGroup="1">
+         <namePart>Garfinkel, Yosef.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Epstein, Claire.</namePart>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">bibliography</genre>
+      <originInfo script="Latn">
+         <place>
+            <placeTerm type="code" authority="marccountry">is</placeTerm>
+         </place>
+         <place>
+            <placeTerm type="text">Jerusalem</placeTerm>
+         </place>
+         <publisher>Institute of Archaeology, the Hebrew University of Jerusalem</publisher>
+         <dateIssued>1999</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <language>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+      </language>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <extent>xx, 321 p. : ill. (some col.) ; 28 cm.</extent>
+      </physicalDescription>
+      <note type="statement of responsibility" altRepGroup="00" script="Latn">Yosef Garfinkel ; with a contribution by Claire Epstein.</note>
+      <subject>
+         <geographicCode authority="marcgac">a-is---</geographicCode>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Neolithic period</topic>
+         <geographic>Jordan River Valley</geographic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Copper age</topic>
+         <geographic>Jordan River Valley</geographic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Pottery, Prehistoric</topic>
+         <geographic>Jordan River Valley</geographic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Material culture</topic>
+         <geographic>Jordan River Valley</geographic>
+      </subject>
+      <subject authority="lcsh">
+         <geographic>Jordan River Valley</geographic>
+         <topic>Antiquities</topic>
+      </subject>
+      <classification authority="lcc">DS110.J6 G36 1999</classification>
+      <classification authority="ddc" edition="21">933</classification>
+      <location>
+         <physicalLocation>New York University Institute for the Study of the Ancient World 15 East 84th Street New York, NY  10028</physicalLocation>
+         <holdingSimple>
+            <copyInformation>
+               <subLocation>Oversize Collection</subLocation>
+            </copyInformation>
+         </holdingSimple>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>Publications of the Institute of Archaeology, the Hebrew University of Jerusalem</title>
+         </titleInfo>
+      </relatedItem>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>Qedem ; 39</title>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="lccn">00375693</identifier>
+      <identifier type="oclc">ocm43815189</identifier>
+      <recordInfo>
+         <descriptionStandard>aacr</descriptionStandard>
+         <recordContentSource authority="marcorg">DLC</recordContentSource>
+         <recordCreationDate encoding="marc">000612</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20131106143717.0</recordChangeDate>
+         <recordIdentifier source="NNU">001664610</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using MARC21slim2MODS3-4.xsl
+				(Revision 1.94 2014/02/21)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <titleInfo>
+         <title>Gazetteer of Roman Palestine</title>
+      </titleInfo>
+      <name type="personal" usage="primary" nameTitleGroup="1">
+         <namePart>Avi-Yonah, Michael</namePart>
+         <namePart type="date">1904-1974</namePart>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">bibliography</genre>
+      <originInfo script="Latn">
+         <place>
+            <placeTerm type="code" authority="marccountry">is</placeTerm>
+         </place>
+         <place>
+            <placeTerm type="text">Jerusalem</placeTerm>
+         </place>
+         <publisher>Hebrew University of Jerusalem. Institute of Archaeology</publisher>
+         <dateIssued>1976</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <language>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+      </language>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <extent>112 p. : maps ; 28 cm.</extent>
+      </physicalDescription>
+      <note type="statement of responsibility" altRepGroup="00" script="Latn">Michael Avi-Yonah.</note>
+      <note>Co-published by: The Institute of Archaeology, The Hebrew University of Jerusalem and CARTA, the Israel Map and Publishing Co., Ltd.</note>
+      <subject>
+         <geographicCode authority="marcgac">a-is---</geographicCode>
+         <geographicCode authority="marcgac">awba---</geographicCode>
+      </subject>
+      <subject authority="lcsh">
+         <geographic>Palestine</geographic>
+         <genre>Gazetteers</genre>
+      </subject>
+      <subject authority="lcsh">
+         <geographic>Palestine</geographic>
+         <topic>History</topic>
+         <temporal>To 70 A.D</temporal>
+      </subject>
+      <classification authority="lcc">DS103.2 .A95 1976</classification>
+      <location>
+         <physicalLocation>New York University Institute for the Study of the Ancient World 15 East 84th Street New York, NY  10028</physicalLocation>
+         <holdingSimple>
+            <copyInformation>
+               <subLocation>Oversize Collection</subLocation>
+            </copyInformation>
+         </holdingSimple>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>Qedem ; 5</title>
+         </titleInfo>
+      </relatedItem>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>Publications of the Institute of Archaeology, the Hebrew University of Jerusalem</title>
+         </titleInfo>
+      </relatedItem>
+      <recordInfo>
+         <descriptionStandard>aacr</descriptionStandard>
+         <recordContentSource authority="marcorg">MoWgW/MoWgT</recordContentSource>
+         <recordCreationDate encoding="marc">770304</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20131107113214.0</recordChangeDate>
+         <recordIdentifier source="NNU">002512332</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using MARC21slim2MODS3-4.xsl
+				(Revision 1.94 2014/02/21)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <titleInfo>
+         <title>Bullae and seals from a post-exilic Judean archive</title>
+      </titleInfo>
+      <titleInfo type="alternative" altRepGroup="01" script="Latn">
+         <title>Bulot ve-ḥotamot mi-tokh arkhiyon mamlakhti mi-(ye)me Shivat Tsiyon)</title>
+      </titleInfo>
+      <titleInfo type="alternative">
+         <title>Bulot ve-ḥotamot mi-tokh arkhiyon mamlakhti mi-(ye)me Shivat Tsiyon</title>
+      </titleInfo>
+      <name type="personal" usage="primary" nameTitleGroup="1">
+         <namePart>Avigad, Nahman.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Grafman, R.</namePart>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">bibliography</genre>
+      <originInfo script="Latn">
+         <place>
+            <placeTerm type="code" authority="marccountry">is</placeTerm>
+         </place>
+         <place>
+            <placeTerm type="text">Jerusalem</placeTerm>
+         </place>
+         <publisher>Institute of Archaeology, The Hebrew University of Jerusalem</publisher>
+         <dateIssued>1976</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <language>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+      </language>
+      <language>
+         <languageTerm authority="iso639-2b" type="code">heb</languageTerm>
+      </language>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <extent>36, 32 p., [8] leaves of plates : ill. ; 29 cm.</extent>
+      </physicalDescription>
+      <note type="statement of responsibility" altRepGroup="00" script="Latn">Nahman Avigad.</note>
+      <note>added t. p. in Hebrew: (Romanized: Bulot ve-ḥotamot mi-tokh arkhiyon mamlakhti mi-(ye)me Shivat Tsiyon)</note>
+      <note>English translation: R. Grafman.</note>
+      <note type="language">Text in English and Hebrew.</note>
+      <subject authority="lcsh">
+         <topic>Seals (Numismatics)</topic>
+         <geographic>Palestine</geographic>
+      </subject>
+      <classification authority="lcc">CD5354 .A88 1976</classification>
+      <location>
+         <physicalLocation>New York University Institute for the Study of the Ancient World 15 East 84th Street New York, NY  10028</physicalLocation>
+         <holdingSimple>
+            <copyInformation>
+               <subLocation>Oversize Collection</subLocation>
+            </copyInformation>
+         </holdingSimple>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>Qedem ; 4</title>
+         </titleInfo>
+      </relatedItem>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>Publications of the Institute of Archaeology, the Hebrew University of Jerusalem</title>
+         </titleInfo>
+      </relatedItem>
+      <titleInfo type="alternative" altRepGroup="01" script="Latn">
+         <title>בולות וחותמות מתוך ארכיון ממלכתי מימי שיבת ציון</title>
+      </titleInfo>
+      <recordInfo>
+         <descriptionStandard>aacr</descriptionStandard>
+         <recordContentSource authority="marcorg">PU</recordContentSource>
+         <recordCreationDate encoding="marc">770324</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20131107113445.0</recordChangeDate>
+         <recordIdentifier source="NNU">002514357</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using MARC21slim2MODS3-4.xsl
+				(Revision 1.94 2014/02/21)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <titleInfo>
+         <nonSort>The </nonSort>
+         <title>Egyptianizing male limestone statuary from Cyprus</title>
+         <subTitle>a study of a cross-cultural Eastern Mediterranean votive type</subTitle>
+      </titleInfo>
+      <name type="personal" usage="primary" nameTitleGroup="1">
+         <namePart>Faegersten, Fanni.</namePart>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">bibliography</genre>
+      <originInfo script="Latn">
+         <place>
+            <placeTerm type="code" authority="marccountry">sw</placeTerm>
+         </place>
+         <place>
+            <placeTerm type="text">Lund</placeTerm>
+         </place>
+         <publisher>[Lund University, Dept. of Archaeology and Ancient History]</publisher>
+         <dateIssued>2003</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <language>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+      </language>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <extent>350 p., 45 p. of plates : ill. ; 30 cm.</extent>
+      </physicalDescription>
+      <note type="statement of responsibility" altRepGroup="00" script="Latn">Fanni Faegersten.</note>
+      <note>Originally presented as the author's thesis (doctoral)--Lund University.</note>
+      <note>Includes index.</note>
+      <note type="bibliography">Bibliography: p. 309-339.</note>
+      <subject>
+         <geographicCode authority="marcgac">a-cy---</geographicCode>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Sculpture, Cypriot</topic>
+         <topic>Foreign influences</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Portrait sculpture, Ancient</topic>
+         <geographic>Cyprus</geographic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Portrait sculpture, Egyptian</topic>
+         <topic>Influence</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Votive offerings</topic>
+         <geographic>Cyprus</geographic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Limestone sculpture</topic>
+         <geographic>Cyprus</geographic>
+      </subject>
+      <classification authority="lcc">NB130.C8 F34 2003</classification>
+      <location>
+         <physicalLocation>New York University Institute for the Study of the Ancient World 15 East 84th Street New York, NY  10028</physicalLocation>
+         <holdingSimple>
+            <copyInformation>
+               <subLocation>Oversize Collection</subLocation>
+            </copyInformation>
+         </holdingSimple>
+      </location>
+      <identifier type="oclc">54634627</identifier>
+      <recordInfo>
+         <descriptionStandard>aacr</descriptionStandard>
+         <recordContentSource authority="marcorg">PUL</recordContentSource>
+         <recordCreationDate encoding="marc">131104</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20131104121737.0</recordChangeDate>
+         <recordIdentifier source="OCoLC">003880153</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using MARC21slim2MODS3-4.xsl
+				(Revision 1.94 2014/02/21)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <titleInfo>
+         <title>Catalogues of the collection</title>
+         <partNumber>volume II</partNumber>
+         <partName>Ancient coins</partName>
+      </titleInfo>
+      <titleInfo type="alternative">
+         <title>Ancient coins</title>
+      </titleInfo>
+      <titleInfo type="alternative">
+         <title>Catalogi thesauri</title>
+         <partNumber>volumen secundus</partNumber>
+         <partName>Nummi antiqui</partName>
+      </titleInfo>
+      <titleInfo type="alternative">
+         <title>Nummi antiqui</title>
+      </titleInfo>
+      <name type="corporate" nameTitleGroup="1">
+         <namePart>Muzeum Narodowe w Krakowie</namePart>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">bibliography</genre>
+      <genre authority="rdacontent">text</genre>
+      <originInfo script="Latn">
+         <place>
+            <placeTerm type="code" authority="marccountry">pl</placeTerm>
+         </place>
+         <dateIssued encoding="marc" point="start">1982</dateIssued>
+         <dateIssued encoding="marc" point="end">9999</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo displayLabel="publisher">
+         <place>
+            <placeTerm type="text">Cracow :National Museum in Cracow,1982-</placeTerm>
+         </place>
+         <publisher>National Museum in Cracow,</publisher>
+         <dateIssued>1982-</dateIssued>
+      </originInfo>
+      <language>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+      </language>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <extent>volumes : illustrations ; 25 cm.</extent>
+         <form type="media" authority="rdamedia">unmediated</form>
+         <form type="carrier" authority="rdacarrier">volume</form>
+      </physicalDescription>
+      <tableOfContents>v. 1. Coins of the Roman Republic / Lesław Morawiecki ; foreword by Tony Hackens ; history of the collection by Stefan Skowronek</tableOfContents>
+      <note type="statement of responsibility" altRepGroup="00" script="Latn">National Museum in Cracow.</note>
+      <note type="bibliography">Includes bibliographical references and indexes.</note>
+      <subject>
+         <geographicCode authority="marcgac">e-pl---</geographicCode>
+      </subject>
+      <subject authority="lcsh">
+         <name type="corporate">
+            <namePart>Muzeum Narodowe w Krakowie</namePart>
+         </name>
+         <genre>Catalogs</genre>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Coins, Ancient</topic>
+         <geographic>Poland</geographic>
+         <geographic>Kraków</geographic>
+         <genre>Catalogs</genre>
+      </subject>
+      <classification authority="lcc">CJ215.P72 K73 1982</classification>
+      <location>
+         <physicalLocation>New York University Institute for the Study of the Ancient World 15 East 84th Street New York, NY  10028</physicalLocation>
+         <holdingSimple>
+            <copyInformation>
+               <subLocation>Small Collection</subLocation>
+            </copyInformation>
+         </holdingSimple>
+      </location>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NNU</recordContentSource>
+         <recordCreationDate encoding="marc">131104</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20131104142248.0</recordChangeDate>
+         <recordIdentifier>003880204</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using MARC21slim2MODS3-4.xsl
+				(Revision 1.94 2014/02/21)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <titleInfo>
+         <title>Ancient Lamps in the Schloessinger Collection</title>
+      </titleInfo>
+      <name type="personal" usage="primary" nameTitleGroup="1">
+         <namePart>Rosenthal-Heginbottom, Renate</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Sivan, Renee</namePart>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <originInfo script="Latn">
+         <place>
+            <placeTerm type="code" authority="marccountry">is</placeTerm>
+         </place>
+         <place>
+            <placeTerm type="text">Jerusalem</placeTerm>
+         </place>
+         <publisher>The Institute of Archeology, The Hebrew University</publisher>
+         <dateIssued>1978</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <language>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+      </language>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <extent>179 p. : ill. ; 28 cm.</extent>
+      </physicalDescription>
+      <note type="statement of responsibility" altRepGroup="00" script="Latn">Renate Rosenthal, Renee Sivan.</note>
+      <note>Includes bibliograhical references and indexes.</note>
+      <subject>
+         <geographicCode authority="marcgac">a-is---</geographicCode>
+      </subject>
+      <subject authority="lcsh">
+         <name type="personal">
+            <namePart>Schloessinger, Miriam Schaar</namePart>
+         </name>
+         <topic>Art collections</topic>
+         <genre>Catalogs</genre>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Lamps, Ancient</topic>
+         <genre>Catalogs</genre>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Lamps</topic>
+         <geographic>Jerusalem</geographic>
+         <genre>Cataloge</genre>
+      </subject>
+      <subject authority="lcsh">
+         <geographic>Palestine</geographic>
+         <topic>Antiquities</topic>
+      </subject>
+      <classification authority="lcc">NK4680 .R6 1978</classification>
+      <location>
+         <physicalLocation>New York University Institute for the Study of the Ancient World 15 East 84th Street New York, NY  10028</physicalLocation>
+         <holdingSimple>
+            <copyInformation>
+               <subLocation>Oversize Collection</subLocation>
+            </copyInformation>
+         </holdingSimple>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>Qedem ; 8</title>
+         </titleInfo>
+      </relatedItem>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>Publications of the Institute of Archaeology, the Hebrew University of Jerusalem</title>
+         </titleInfo>
+      </relatedItem>
+      <recordInfo>
+         <descriptionStandard>aacr</descriptionStandard>
+         <recordContentSource authority="marcorg">MoWgW/MoWgT</recordContentSource>
+         <recordCreationDate encoding="marc">781113</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20131107104742.0</recordChangeDate>
+         <recordIdentifier source="NNU">002554017</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using MARC21slim2MODS3-4.xsl
+				(Revision 1.94 2014/02/21)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <titleInfo>
+         <nonSort>La </nonSort>
+         <title>céramique peinte ibérique de la province d'Alicante</title>
+      </titleInfo>
+      <name type="personal" usage="primary" nameTitleGroup="1">
+         <namePart>Nordström, Solveig.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Jully, Jean Jacques</namePart>
+         <role>
+            <roleTerm type="text">tr.</roleTerm>
+         </role>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">bibliography</genre>
+      <originInfo script="Latn">
+         <place>
+            <placeTerm type="code" authority="marccountry">sw</placeTerm>
+         </place>
+         <place>
+            <placeTerm type="text">Stockholm</placeTerm>
+         </place>
+         <publisher>Almquist &amp; Wiksell</publisher>
+         <dateIssued>1969-</dateIssued>
+         <dateIssued encoding="marc" point="start">1969</dateIssued>
+         <dateIssued encoding="marc" point="end">9999</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <language>
+         <languageTerm authority="iso639-2b" type="code">fre</languageTerm>
+      </language>
+      <language objectPart="translation">
+         <languageTerm authority="iso639-2b" type="code">spa</languageTerm>
+      </language>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <extent>v. : ill., map ; 28 cm.</extent>
+      </physicalDescription>
+      <note type="statement of responsibility" altRepGroup="00" script="Latn">par Solveig Nordström ; [traduction par J.J. Jully].</note>
+      <note>Originally presented as the author's thesis (doctoral)--University of Stockholm.</note>
+      <note>"Jean Jacques Jully ... a traduit mon manuscrit espagnol en français"--P. 9.</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <subject>
+         <geographicCode authority="marcgac">e-sp---</geographicCode>
+         <geographicCode authority="marcgac">ei-----</geographicCode>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Pottery, Iberian</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Pottery, Iberian</topic>
+         <geographic>Spain</geographic>
+         <geographic>Alicante (Province)</geographic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Pottery, Ancient</topic>
+         <geographic>Spain</geographic>
+         <geographic>Alicante (Province)</geographic>
+      </subject>
+      <subject authority="lcsh">
+         <geographic>Alicante (Spain : Province)</geographic>
+         <topic>Antiquities</topic>
+      </subject>
+      <classification authority="lcc">NK3855.I2 N67 1969</classification>
+      <classification authority="lcc">NK3855.A4 NK3855.I8 N6 1969</classification>
+      <location>
+         <physicalLocation>New York University Institute for the Study of the Ancient World 15 East 84th Street New York, NY  10028</physicalLocation>
+         <holdingSimple>
+            <copyInformation>
+               <subLocation>Oversize Collection</subLocation>
+            </copyInformation>
+         </holdingSimple>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>Acta Universitatis Stockholmiensis. 6</title>
+            <partName>Stockholm studies in classical archaeology</partName>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="lccn">71455318</identifier>
+      <recordInfo>
+         <descriptionStandard>aacr</descriptionStandard>
+         <recordContentSource authority="marcorg"/>
+         <recordCreationDate encoding="marc">821201</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20131106143958.0</recordChangeDate>
+         <recordIdentifier source="NNU">002629665</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using MARC21slim2MODS3-4.xsl
+				(Revision 1.94 2014/02/21)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <titleInfo>
+         <title>Prehistoric investigations in Gebel Maghara, northern Sinai</title>
+      </titleInfo>
+      <name type="personal" usage="primary" nameTitleGroup="1">
+         <namePart>Bar-Yosef, Ofer.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Phillips, James L.</namePart>
+      </name>
+      <name type="corporate">
+         <namePart>Universiṭah ha-ʻIvrit bi-Yerushalayim</namePart>
+         <namePart>Makhon le-arkheʼologyah.</namePart>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">bibliography</genre>
+      <originInfo script="Latn">
+         <place>
+            <placeTerm type="code" authority="marccountry">is</placeTerm>
+         </place>
+         <place>
+            <placeTerm type="text">Jerusalem</placeTerm>
+         </place>
+         <publisher>Institute of Archaeology, Hebrew University</publisher>
+         <dateIssued>1977</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <language>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+      </language>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <extent>269 p., 19 p. of plates : ill. ; 28 cm.</extent>
+      </physicalDescription>
+      <note type="statement of responsibility" altRepGroup="00" script="Latn">Ofer Bar-Yosef, James L. Phillips ; in collaboration with P. Goldberg ... [et al.].</note>
+      <note type="bibliography">Includes bibliographical references (p. 265-269).</note>
+      <subject>
+         <geographicCode authority="marcgac">f-ua---</geographicCode>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Archaeological expeditions</topic>
+      </subject>
+      <subject authority="lcsh">
+         <geographic>Sinai (Egypt)</geographic>
+         <topic>Antiquities</topic>
+      </subject>
+      <classification authority="lcc">DT137.S55 B374 1977</classification>
+      <location>
+         <physicalLocation>New York University Institute for the Study of the Ancient World 15 East 84th Street New York, NY  10028</physicalLocation>
+         <holdingSimple>
+            <copyInformation>
+               <subLocation>Oversize Collection</subLocation>
+            </copyInformation>
+         </holdingSimple>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>Qedem ; 7</title>
+         </titleInfo>
+      </relatedItem>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>Publications of the Institute of Archaeology, the Hebrew University of Jerusalem</title>
+         </titleInfo>
+      </relatedItem>
+      <recordInfo>
+         <descriptionStandard>aacr</descriptionStandard>
+         <recordContentSource authority="marcorg">IaU</recordContentSource>
+         <recordCreationDate encoding="marc">830928</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20131107112735.0</recordChangeDate>
+         <recordIdentifier source="NNU">002684717</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using MARC21slim2MODS3-4.xsl
+				(Revision 1.94 2014/02/21)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <titleInfo altRepGroup="01" script="Latn">
+         <title>Dyo meletemata</title>
+      </titleInfo>
+      <name type="personal" usage="primary" nameTitleGroup="1">
+         <namePart>Wifstrand, Albert</namePart>
+         <namePart type="date">1901-1964</namePart>
+         <role>
+            <roleTerm type="text">author.</roleTerm>
+         </role>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="rdacontent">text</genre>
+      <originInfo script="Latn">
+         <place>
+            <placeTerm type="code" authority="marccountry">cc</placeTerm>
+         </place>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo displayLabel="publisher" altRepGroup="02" script="Latn">
+         <place>
+            <placeTerm type="text">880-02Athena :[publisher not identified],1966</placeTerm>
+         </place>
+         <publisher>[publisher not identified],</publisher>
+         <dateIssued>1966</dateIssued>
+      </originInfo>
+      <language>
+         <languageTerm authority="iso639-2b" type="code">chi</languageTerm>
+      </language>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <extent>63 pages : 19 cm.</extent>
+         <form type="media" authority="rdamedia">unmediated</form>
+         <form type="carrier" authority="rdacarrier">volume</form>
+      </physicalDescription>
+      <note type="statement of responsibility" altRepGroup="00" script="Latn">Albert Wifstrand ; helleniké apódose, eisagogé Antone Mystakide.</note>
+      <subject>
+         <geographicCode authority="marcgac">e-gr---</geographicCode>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Civilization, Greco-Roman</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Greek philology</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Christian civilization</topic>
+      </subject>
+      <classification authority="lcc">DE80 .W54 1966</classification>
+      <location>
+         <physicalLocation>New York University Institute for the Study of the Ancient World 15 East 84th Street New York, NY  10028</physicalLocation>
+         <holdingSimple>
+            <copyInformation>
+               <subLocation>Small Collection</subLocation>
+            </copyInformation>
+         </holdingSimple>
+      </location>
+      <relatedItem type="series" altRepGroup="03" script="Latn">
+         <titleInfo>
+            <title>Hellenoskandinabike bibliotheke ; 4</title>
+         </titleInfo>
+      </relatedItem>
+      <titleInfo altRepGroup="01" script="Latn">
+         <title>ΔΥΟ ΜΕΛΕΤΗΜATA</title>
+      </titleInfo>
+      <note type="statement of responsibility" altRepGroup="00" script="Latn">Ελληνική απόδοση εισαωγωγή ΑΝΤΩΝΗ ΜΥΣΤΑΚΙΔΗ.</note>
+      <relatedItem type="series" altRepGroup="03" script="Latn">
+         <titleInfo>
+            <title>ΕΛΛΗΝΟΣΚΑΝΔΙΝΑΒΙΚΗ ΒΙΒΛΙΟΘΗΚΗ ; 4</title>
+         </titleInfo>
+      </relatedItem>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NNU</recordContentSource>
+         <recordCreationDate encoding="marc">131105</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20131106133638.0</recordChangeDate>
+         <recordIdentifier>003881029</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using MARC21slim2MODS3-4.xsl
+				(Revision 1.94 2014/02/21)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <titleInfo>
+         <nonSort>To </nonSort>
+         <title>diakopton dia mesou tōn aiōnōn</title>
+         <subTitle>me hepilogēn hanekdotōn hengraphōn symvolē eis tēn historian tēs Aigialeias</subTitle>
+      </titleInfo>
+      <name type="personal" usage="primary" nameTitleGroup="1">
+         <namePart>Papageōrgiou, Geōrgios Th. (Geōrgios Theodōrou)</namePart>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">bibliography</genre>
+      <genre authority="rdacontent">text</genre>
+      <originInfo script="Latn">
+         <place>
+            <placeTerm type="code" authority="marccountry">gr</placeTerm>
+         </place>
+         <dateIssued encoding="marc">1975</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo displayLabel="publisher">
+         <place>
+            <placeTerm type="text">Athēnai :publisher not identified,1975</placeTerm>
+         </place>
+         <publisher>publisher not identified,</publisher>
+         <dateIssued>1975.</dateIssued>
+      </originInfo>
+      <language>
+         <languageTerm authority="iso639-2b" type="code">gre</languageTerm>
+      </language>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <extent>81 pages, 7 unnumbered pages : illustrations, 21 cm.</extent>
+         <form type="media" authority="rdamedia">unmediated</form>
+         <form type="carrier" authority="rdacarrier">volume</form>
+      </physicalDescription>
+      <note type="statement of responsibility" altRepGroup="00" script="Latn">Geōrgiou Th. Papageōrgiou.</note>
+      <note type="bibliography">Includes bibliographical references and index.</note>
+      <subject>
+         <geographicCode authority="marcgac">e-gr---</geographicCode>
+      </subject>
+      <subject authority="lcsh">
+         <geographic>Aigialeia (Greece)</geographic>
+         <topic>History</topic>
+      </subject>
+      <subject authority="lcsh">
+         <geographic>Aigialeia (Greece)</geographic>
+         <topic>Description and travel</topic>
+      </subject>
+      <classification authority="lcc">DF901.A38 P37 1975</classification>
+      <location>
+         <physicalLocation>New York University Institute for the Study of the Ancient World 15 East 84th Street New York, NY  10028</physicalLocation>
+         <holdingSimple>
+            <copyInformation>
+               <subLocation>Small Collection</subLocation>
+            </copyInformation>
+         </holdingSimple>
+      </location>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NNU</recordContentSource>
+         <recordCreationDate encoding="marc">131106</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20131106101925.0</recordChangeDate>
+         <recordIdentifier>003881633</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using MARC21slim2MODS3-4.xsl
+				(Revision 1.94 2014/02/21)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <titleInfo>
+         <nonSort>To </nonSort>
+         <title>Aigaio stēn prōimē epochē tou sidērou</title>
+         <subTitle>praktika tou diethnous symposiou, Rhodos, 1-4 Noemvriou 2002</subTitle>
+      </titleInfo>
+      <name type="personal">
+         <namePart>Stampolidēs, Nikolaos Chr.</namePart>
+         <role>
+            <roleTerm type="text">ed.</roleTerm>
+         </role>
+      </name>
+      <name type="personal">
+         <namePart>Giannikourē, A.</namePart>
+         <role>
+            <roleTerm type="text">ed.</roleTerm>
+         </role>
+      </name>
+      <name type="corporate">
+         <namePart>Panepistēmio tēs Krētēs</namePart>
+      </name>
+      <name type="corporate">
+         <namePart>Greece</namePart>
+         <namePart>Archaiologiko Institouto Aigaiakōn Spoudōn.</namePart>
+      </name>
+      <name type="corporate">
+         <namePart>Greece</namePart>
+         <namePart>Hypourgeio Politismou.</namePart>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">bibliography</genre>
+      <genre authority="marcgt">conference publication</genre>
+      <originInfo script="Latn">
+         <place>
+            <placeTerm type="code" authority="marccountry">gr</placeTerm>
+         </place>
+         <place>
+            <placeTerm type="text">Athēna</placeTerm>
+         </place>
+         <publisher>Panepistēmio Krētēs</publisher>
+         <publisher>Hyp. Po., Archailogiko Institouto Aigaiakōn Spoudōn</publisher>
+         <dateIssued>2004</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <language>
+         <languageTerm authority="iso639-2b" type="code">gre</languageTerm>
+      </language>
+      <language>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+      </language>
+      <language>
+         <languageTerm authority="iso639-2b" type="code">ita</languageTerm>
+      </language>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <extent>xv, 542 p. : ill., maps, plans ; 29 cm.</extent>
+      </physicalDescription>
+      <tableOfContents>Krētē. Diataxē tōn hoikismōn kai hoi koinōniko-oikonomikes hallages stēn Krētē kata tēn Prōimē Epochē tou Sidērou / Sarro Wallace -- Metaschēmatismos tēs krētikēs koinōnias kata ta telē tēs 2ēs kai tis arches tēs 1ēs prochristianikēs chilietias / Napoleōn Xipharas -- Kydōnia tēs dytikēs Krētēs sta prōima chronia tou Sidērou / Maria Andreadakē-Vlazakē -- Emporikos rolos tēs kentirikēs Krētēs kata ton 9o kai 8o ai. p.Ch. / Elenē Goula -- Eleutherna tēs Prōimēs Epochēs tou Sidērou : scheseis me to Aigaio kai tēn anatolikē Mesogeio / Nikolaos Stampolidēs -- Mnēmes tēs aristokratias apo tēn Orthē Petra tēs geōmetrikēs Eleuthernas / Anagnōstēs Agelarakēs -- Vaso da filtro da Arkades e i contatti tra Creta e il centro Italia tirrenico / Giacomo Biondi -- Prōtogeōmetrikos oikismos stē Gria Vigla Moirōn stē notia Krētē / Antōnēs Vasilakēs -- Homērika stoicheia stēn akropolē Smariou / Despoina Chatzē-Vallianou -- Periptōsē prōimōn symposiōn hē aplōs hērōolatreias : geōmetrikē anakatalēpsē sto Chalasmeno Ierapetras / Metaxia Tsipopoulou -- Late Geometric ship from Khalasmenos / Michael Wedde -- Cemetery of Krya, district of Seteia : developments at the end of the Late Bronze Age and the beginning of the Eary Iron Age in east Crete / Athanasia Kanta, Kostis Davaras -- In merito alla classe dei cosidetti aryballio rodio cretesi / Lorenza Grasso, Lighea Pappalardo, Francesco Paolo Romano --</tableOfContents>
+      <tableOfContents>Anatoliko Aigaio. Apo ta nekrotapheia tēs archaias Ialysou : duo geōmetrikes taphes stēn Kremastē Rodou / Elenē Pharmakidou -- Hiero tēs Geōmetrikēs kai Archaikēs periodou stēn Hēraklēs tēs Kō : mia prōtē parousiasē / Elpida Skerlou -- Geōmetrikē nekropolē archaias Samou / Maria Viglakē-Sophianou -- Wooden stools dall'Heraion di Samo : alcune osservazioni / Antonella Pautasso -- Prōtogeōmetrikē keramikē apo tēn Chio / Aglaia Archontidou-Argyrē -- Northern Aegean in the Early Iron Age : an assessment of the present picture / Massimo Cultraro -- Samothrakē stēn Prōimē Epochē tou Sidērou / Dēmētrēs Matsas -- Makedonia. Prōimē Epochē tou Sidērou sto Nomo Dramas / Katerina Peristerē -- Akanthos stēn Prōimē Epochē tou Sidērou / Elenē Trakosopoulou-Salakidou -- Euchōria diakosmēmenē keramikē apo to nekrotapheio tēs archaias Mendēs / Sophia Moschonēsiōtē -- Panepistēmiakes anaskaphes sto Karampournaki Thessalonikēs kai hē parousia tōn Phoinikōn sto voreio Aigaio / Michalēs Tiverios -- Periochē tou Axiou stēn Prōimē Epochē tou Sidērou / Thōmē Savvopoulou -- Prōimē Epochē tou Sidērou stēn anatolikē parathermaikē zōnē : phaseis tēs Prōimēs Epochēs tou Sidērou stēn trapeza tēs Toumpas Thessalonikēs / Kōstas Souereph -- Tephrochrōmē trochēlatē keramikē tēs Epochēs tou Sidērou apo tēn Toumpa Thessalonikēs / Kōnstantoula Chavela -- Nekrotapheia tēs Prōimēs Epochēs tou Sidērou stē voreia Pieria / Giannēs Karliampas, Matthaios Besios, Sevē Triantaphyllou --</tableOfContents>
+      <tableOfContents>Kentrikē Hellada. Nea heurēmata tēs Hysterēs Epochēs tou Chalkou kai tēs Epochēs tou Sidērou stēn Halo / Zōē Malakasiōtē, Anna Mousiōnē -- Symvolē tou Ōrōpou stē meletē tōn hoikismōn tou Aigaiou tēs Prōimēs Epochēs tou Sidērou / Alexandros Mazarakēs Ainian -- Sul centauro di Lefkandi / Fabio Caruso -- Heleusina stēn Prōimē Epochē tou Sidērou / Kalliopē Papangelē -- Kyklades kai Kythēra. Kyklades stēn Prōimē Epochē tou Sidērou hōs tēn hysterē Archaikē epochē / Phōteinē N. Zapheiropoulou -- Andros kata tēn Prōimē Epochē tou Sidērou (100-600 p.Ch.) / Christina A. Televantou -- Tēnos kata tēn Prōimē Epochē tou Sidērou / Nota Kourou -- Despotiko : hē anakalypsē enos neou hierou / Giannos Kouragios -- Palaiokastro Kythērōn : geōmetrika kai archaika / Iōannēs E. Petrocheilos -- Varia. From tribe to state in the Greek Early Iron Age : the archaeological evidence from Lefkandi and Zagora / Alexandra Coucouzeli -- Chrēsē tou chrōmatos stēn anaglyphē keramikē / Eva Sēmantōnē-Bournia -- Apo ta sēmeia kerameōs stēn alphavētikē graphē : mythos kai archaiologikē martyria / Christos G. Doumas -- Epinikies giortes, agalmata nikētōn kai hē tautotēta tōn Aiginētōn / Elena Walter-Karydē.</tableOfContents>
+      <note type="statement of responsibility" altRepGroup="00" script="Latn">epimeleia, N.Chr. Stampolidēs, A. Giannikourē.</note>
+      <note>At head of title: Panepistēmio Krētēs, Hyp. Po., Archailogiko Institouto Aigaiakōn Spoudōn.</note>
+      <note type="bibliography">Bibliography: p. 520-542.</note>
+      <note type="language">Contributions chiefly in Greek, with four in English and four in Italian.</note>
+      <subject>
+         <geographicCode authority="marcgac">e-gr---</geographicCode>
+         <geographicCode authority="marcgac">a-tu---</geographicCode>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Iron age</topic>
+         <geographic>Aegean Sea Region</geographic>
+         <genre>Congresses</genre>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Excavations (Archaeology)</topic>
+         <geographic>Aegean Sea Region</geographic>
+         <genre>Congresses</genre>
+      </subject>
+      <subject authority="lcsh">
+         <geographic>Aegean Sea Region</geographic>
+         <topic>Antiquities</topic>
+         <genre>Congresses</genre>
+      </subject>
+      <subject authority="lcsh">
+         <geographic>Aegean Sea Region</geographic>
+         <topic>History</topic>
+         <genre>Congresses</genre>
+      </subject>
+      <classification authority="lcc">GN780.25 .A43 2004</classification>
+      <location>
+         <physicalLocation>New York University Institute for the Study of the Ancient World 15 East 84th Street New York, NY  10028</physicalLocation>
+         <holdingSimple>
+            <copyInformation>
+               <subLocation>Oversize Collection</subLocation>
+            </copyInformation>
+         </holdingSimple>
+      </location>
+      <identifier type="isbn">9607143345</identifier>
+      <identifier type="isbn">960214369X</identifier>
+      <identifier type="isbn">9789607143341</identifier>
+      <identifier type="oclc">61463992</identifier>
+      <recordInfo>
+         <descriptionStandard>aacr</descriptionStandard>
+         <recordContentSource authority="marcorg">CUY</recordContentSource>
+         <recordCreationDate encoding="marc">131105</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20131105142548.0</recordChangeDate>
+         <recordIdentifier source="OCoLC">003880964</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using MARC21slim2MODS3-4.xsl
+				(Revision 1.94 2014/02/21)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <titleInfo>
+         <title>Türkiyenin arkeoloji, epigrafi ve tarihî coğrafyası için bibliyografya</title>
+      </titleInfo>
+      <titleInfo type="alternative">
+         <title>Bibliyografya</title>
+      </titleInfo>
+      <name type="personal" usage="primary" nameTitleGroup="1">
+         <namePart>Mansel, Arif Müfid.</namePart>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">bibliography</genre>
+      <originInfo script="Latn">
+         <place>
+            <placeTerm type="code" authority="marccountry">tu</placeTerm>
+         </place>
+         <place>
+            <placeTerm type="text">Ankara</placeTerm>
+         </place>
+         <publisher>Türk Tarih Kurumu</publisher>
+         <dateIssued>1948</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <language>
+         <languageTerm authority="iso639-2b" type="code">tur</languageTerm>
+      </language>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <extent>xvi, 616 p. ; 25 cm.</extent>
+      </physicalDescription>
+      <note type="statement of responsibility" altRepGroup="00" script="Latn">Arif Müfid Mansel.</note>
+      <note>Includes index.</note>
+      <subject>
+         <geographicCode authority="marcgac">a-tu---</geographicCode>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Inscriptions</topic>
+         <geographic>Turkey</geographic>
+         <genre>Bibliography</genre>
+      </subject>
+      <subject authority="lcsh">
+         <geographic>Turkey</geographic>
+         <topic>Antiquities</topic>
+         <genre>Bibliography</genre>
+      </subject>
+      <subject authority="lcsh">
+         <geographic>Turkey</geographic>
+         <topic>Historical geography</topic>
+         <genre>Bibliography</genre>
+      </subject>
+      <classification authority="lcc">Z2857.A67 M36 1947</classification>
+      <location>
+         <physicalLocation>New York University Institute for the Study of the Ancient World 15 East 84th Street New York, NY  10028</physicalLocation>
+         <holdingSimple>
+            <copyInformation>
+               <subLocation>Small Collection</subLocation>
+            </copyInformation>
+         </holdingSimple>
+      </location>
+      <relatedItem type="otherFormat" displayLabel="Online version:">
+         <titleInfo>
+            <title>Türkiyenin arkeoloji, epigrafi ve tarihî coǧrafyasi ic̜in bibliografya</title>
+         </titleInfo>
+         <name>
+            <namePart>Mansel, Arif Müfid.</namePart>
+         </name>
+         <originInfo>
+            <publisher>Ankara : Türk Tarih Kurumu Basimevi, 1948</publisher>
+         </originInfo>
+         <identifier type="local">(OCoLC)580142051</identifier>
+      </relatedItem>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>Türk Tarih Kurumu yayınlarından. no. 1</title>
+            <partNumber>XII. seri</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="lccn">59030871</identifier>
+      <identifier type="oclc">3494482</identifier>
+      <recordInfo>
+         <descriptionStandard>aacr</descriptionStandard>
+         <recordContentSource authority="marcorg">DLC</recordContentSource>
+         <recordCreationDate encoding="marc">131105</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20131105144927.0</recordChangeDate>
+         <recordIdentifier source="OCoLC">003880971</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using MARC21slim2MODS3-4.xsl
+				(Revision 1.94 2014/02/21)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <titleInfo>
+         <nonSort>Das </nonSort>
+         <title>Fortleben des Heidentums in der altchristlichen Kirche</title>
+      </titleInfo>
+      <name type="personal" usage="primary" nameTitleGroup="1">
+         <namePart>Soltau, Wilhelm</namePart>
+         <namePart type="date">1846-1924</namePart>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">bibliography</genre>
+      <originInfo script="Latn">
+         <place>
+            <placeTerm type="code" authority="marccountry">gw</placeTerm>
+         </place>
+         <place>
+            <placeTerm type="text">Berlin</placeTerm>
+         </place>
+         <publisher>G. Reimer</publisher>
+         <dateIssued>1906</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <language>
+         <languageTerm authority="iso639-2b" type="code">ger</languageTerm>
+      </language>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <extent>xvi, 307 p. ; 24 cm.</extent>
+      </physicalDescription>
+      <note type="statement of responsibility" altRepGroup="00" script="Latn">von Wilhelm Soltau.</note>
+      <note type="bibliography">"Literaturübersicht": p. [298]-307.</note>
+      <subject authority="lcsh">
+         <topic>Paganism</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Christianity</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Church history</topic>
+         <temporal>Primitive and early church, ca. 30-600</temporal>
+      </subject>
+      <classification authority="lcc">BR135 .S65 1906</classification>
+      <location>
+         <physicalLocation>New York University Institute for the Study of the Ancient World 15 East 84th Street New York, NY  10028</physicalLocation>
+         <holdingSimple>
+            <copyInformation>
+               <subLocation>Small Collection</subLocation>
+            </copyInformation>
+         </holdingSimple>
+      </location>
+      <relatedItem type="otherFormat" displayLabel="Online version:">
+         <titleInfo>
+            <title>Fortleben des Heidentums in der altchristlichen Kirche</title>
+         </titleInfo>
+         <name>
+            <namePart>Soltau, Wilhelm, 1846-1924.</namePart>
+         </name>
+         <originInfo>
+            <publisher>Berlin, G. Reimer, 1906</publisher>
+         </originInfo>
+         <identifier type="local">(OCoLC)590780710</identifier>
+      </relatedItem>
+      <relatedItem type="otherFormat" displayLabel="Online version:">
+         <titleInfo>
+            <title>Fortleben des Heidentums in der altchristlichen Kirche</title>
+         </titleInfo>
+         <name>
+            <namePart>Soltau, Wilhelm, 1846-1924.</namePart>
+         </name>
+         <originInfo>
+            <publisher>Berlin, G. Reimer, 1906</publisher>
+         </originInfo>
+         <identifier type="local">(OCoLC)608910853</identifier>
+      </relatedItem>
+      <identifier type="lccn">24004686</identifier>
+      <identifier type="oclc">6401063</identifier>
+      <recordInfo>
+         <descriptionStandard>aacr</descriptionStandard>
+         <recordContentSource authority="marcorg">DLC</recordContentSource>
+         <recordCreationDate encoding="marc">131106</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20131106085300.0</recordChangeDate>
+         <recordIdentifier source="OCoLC">003881621</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using MARC21slim2MODS3-4.xsl
+				(Revision 1.94 2014/02/21)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <titleInfo>
+         <title>Commentarii critici ad Thucydidem pertinentes</title>
+      </titleInfo>
+      <titleInfo type="alternative">
+         <title>Comment. crit. ad Thucyd. Pertin</title>
+      </titleInfo>
+      <name type="personal" usage="primary" nameTitleGroup="1">
+         <namePart>Hude, Karl</namePart>
+         <namePart type="date">1860-1936</namePart>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">bibliography</genre>
+      <originInfo script="Latn">
+         <place>
+            <placeTerm type="code" authority="marccountry">dk</placeTerm>
+         </place>
+         <place>
+            <placeTerm type="text">Hauniae</placeTerm>
+         </place>
+         <publisher>Libraria gyldendaliana</publisher>
+         <dateIssued>1888</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <language>
+         <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
+      </language>
+      <language>
+         <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+      </language>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <extent>171 p. ; 23 cm.</extent>
+      </physicalDescription>
+      <note type="statement of responsibility" altRepGroup="00" script="Latn">scripsit Carolus Hude.</note>
+      <note>Originally presented as the author's thesis (doctoral)--University of Copenhagen.</note>
+      <note>"Insunt codd. Laur. et Vatic. librr. VII et VIII collationes."</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <subject>
+         <geographicCode authority="marcgac">e-gr---</geographicCode>
+      </subject>
+      <subject authority="lcsh">
+         <name type="personal">
+            <namePart>Thucydides</namePart>
+         </name>
+         <titleInfo>
+            <title>History of the Peloponnesian War</title>
+         </titleInfo>
+      </subject>
+      <subject authority="lcsh">
+         <name type="personal">
+            <namePart>Thucydides</namePart>
+         </name>
+         <titleInfo>
+            <title>History of the Peloponnesian War</title>
+         </titleInfo>
+         <topic>Criticism, Textual</topic>
+      </subject>
+      <subject authority="lcsh">
+         <name type="personal">
+            <namePart>Thucydides</namePart>
+         </name>
+         <topic>Criticism and interpretation</topic>
+      </subject>
+      <subject authority="lcsh">
+         <geographic>Greece</geographic>
+         <topic>History</topic>
+         <temporal>Peloponnesian War, 431-404 B.C</temporal>
+         <topic>Historiography</topic>
+      </subject>
+      <classification authority="lcc">PA4461 .H83 1888</classification>
+      <classification authority="ddc">888.2</classification>
+      <location>
+         <physicalLocation>New York University Institute for the Study of the Ancient World 15 East 84th Street New York, NY  10028</physicalLocation>
+         <holdingSimple>
+            <copyInformation>
+               <subLocation>Small Collection</subLocation>
+            </copyInformation>
+         </holdingSimple>
+      </location>
+      <identifier type="lccn">33022004</identifier>
+      <identifier type="oclc">14764210</identifier>
+      <recordInfo>
+         <descriptionStandard>aacr</descriptionStandard>
+         <recordContentSource authority="marcorg">DLC</recordContentSource>
+         <recordCreationDate encoding="marc">131106</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20131205114004.0</recordChangeDate>
+         <recordIdentifier source="OCoLC">003881622</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using MARC21slim2MODS3-4.xsl
+				(Revision 1.94 2014/02/21)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <titleInfo>
+         <nonSort>Hē N</nonSort>
+         <title>axos</title>
+         <subTitle>se haplē geōgraphikē, historikē kai geōlogikē episkopēsi</subTitle>
+      </titleInfo>
+      <name type="personal" usage="primary" nameTitleGroup="1">
+         <namePart>Melissēnos, Geōrgios M.</namePart>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">bibliography</genre>
+      <originInfo script="Latn">
+         <place>
+            <placeTerm type="code" authority="marccountry">gr</placeTerm>
+         </place>
+         <place>
+            <placeTerm type="text">Athēnai</placeTerm>
+         </place>
+         <publisher>[s.n.]</publisher>
+         <dateIssued>1958</dateIssued>
+         <edition>Ekd. 2, eikonographēmenē, anatheōremenē kai symplērōmenē.</edition>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <language>
+         <languageTerm authority="iso639-2b" type="code">gre</languageTerm>
+      </language>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <extent>198 p., [16] p. of plates : ill., folded map ; 21 cm.</extent>
+      </physicalDescription>
+      <note type="statement of responsibility" altRepGroup="00" script="Latn">Geōrgiou M. Melissēnou.</note>
+      <note type="bibliography">Includes bibliographical references (p. [193]-194).</note>
+      <subject>
+         <geographicCode authority="marcgac">e-gr---</geographicCode>
+      </subject>
+      <subject authority="lcsh">
+         <geographic>Naxos Island (Greece)</geographic>
+         <topic>Description and travel</topic>
+      </subject>
+      <subject authority="lcsh">
+         <geographic>Naxos Island (Greece)</geographic>
+         <topic>Antiquities</topic>
+      </subject>
+      <subject authority="lcsh">
+         <geographic>Naxos Island (Greece)</geographic>
+         <topic>History</topic>
+      </subject>
+      <classification authority="lcc">DF901.N3 M45 1958</classification>
+      <location>
+         <physicalLocation>New York University Institute for the Study of the Ancient World 15 East 84th Street New York, NY  10028</physicalLocation>
+         <holdingSimple>
+            <copyInformation>
+               <subLocation>Small Collection</subLocation>
+            </copyInformation>
+         </holdingSimple>
+      </location>
+      <relatedItem type="otherFormat" displayLabel="Online version:">
+         <titleInfo>
+            <title>Naxos</title>
+         </titleInfo>
+         <name>
+            <namePart>Melissēnos, Geōrgios M.</namePart>
+         </name>
+         <originInfo>
+            <publisher>Athēnai : M. Phrankoul/mae\s, 1958</publisher>
+            <edition>Ekd. 2, eikonographēmenē, anatheōr/m\emenē kai symplērōmenē</edition>
+         </originInfo>
+         <identifier type="local">(OCoLC)646944547</identifier>
+      </relatedItem>
+      <identifier type="oclc">26431319</identifier>
+      <recordInfo>
+         <descriptionStandard>aacr</descriptionStandard>
+         <recordContentSource authority="marcorg">CUY</recordContentSource>
+         <recordCreationDate encoding="marc">131106</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20131106093522.0</recordChangeDate>
+         <recordIdentifier source="OCoLC">003881627</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using MARC21slim2MODS3-4.xsl
+				(Revision 1.94 2014/02/21)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <titleInfo>
+         <nonSort>The </nonSort>
+         <title>bronze hoard from S. Maria in Paulis, Sardinia</title>
+      </titleInfo>
+      <titleInfo type="alternative">
+         <title>Bronze hoard from Santa Maria in Paulis, Sardinia</title>
+      </titleInfo>
+      <name type="corporate" nameTitleGroup="1">
+         <namePart>British Museum</namePart>
+         <namePart>Department of Greek and Roman Antiquities.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Macnamara, Ellen.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Ridgway, David.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Serra Ridgway, Francesca R.</namePart>
+      </name>
+      <name type="corporate">
+         <namePart>British Museum</namePart>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">bibliography</genre>
+      <originInfo script="Latn">
+         <place>
+            <placeTerm type="code" authority="marccountry">enk</placeTerm>
+         </place>
+         <place>
+            <placeTerm type="text">London</placeTerm>
+         </place>
+         <publisher>British Museum</publisher>
+         <dateIssued>1984</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <language>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+      </language>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <extent>viii, 46 p. : ill. ; 30 cm.</extent>
+      </physicalDescription>
+      <note type="statement of responsibility" altRepGroup="00" script="Latn">Ellen Macnamara, David Ridgway, and Francesca R. Ridgway.</note>
+      <note>Prepared by the museum's Dept. of Greek and Roman Antiquities.</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <subject>
+         <geographicCode authority="marcgac">e-it---</geographicCode>
+      </subject>
+      <subject authority="lcsh">
+         <name type="corporate">
+            <namePart>British Museum</namePart>
+         </name>
+         <genre>Catalogs</genre>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Bronzes, Ancient</topic>
+         <geographic>Italy</geographic>
+         <geographic>Sardinia</geographic>
+         <genre>Catalogs</genre>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Bronzes</topic>
+         <geographic>Italy</geographic>
+         <geographic>Sardinia</geographic>
+         <genre>Catalogs</genre>
+      </subject>
+      <subject authority="lcsh">
+         <geographic>Sardinia (Italy)</geographic>
+         <topic>Antiquities</topic>
+      </subject>
+      <classification authority="lcc">NK7952.A3 S27 1984</classification>
+      <location>
+         <physicalLocation>New York University Institute for the Study of the Ancient World 15 East 84th Street New York, NY  10028</physicalLocation>
+         <holdingSimple>
+            <copyInformation>
+               <subLocation>Oversize Collection</subLocation>
+            </copyInformation>
+         </holdingSimple>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>Occasional paper (British Museum) ; no. 45</title>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="isbn">0861590457 (pbk.)</identifier>
+      <identifier type="isbn">9780861590452 (pbk.)</identifier>
+      <identifier type="oclc">12822335</identifier>
+      <recordInfo>
+         <descriptionStandard>aacr</descriptionStandard>
+         <recordContentSource authority="marcorg">UIU</recordContentSource>
+         <recordCreationDate encoding="marc">131106</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20131106122239.0</recordChangeDate>
+         <recordIdentifier source="OCoLC">003881654</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using MARC21slim2MODS3-4.xsl
+				(Revision 1.94 2014/02/21)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <titleInfo>
+         <title>Notes sur le Désert Lybique</title>
+         <subTitle>"Cellia" et ses couvents</subTitle>
+      </titleInfo>
+      <titleInfo type="alternative">
+         <title>"Cellia" et ses couvents</title>
+      </titleInfo>
+      <name type="personal" usage="primary" nameTitleGroup="1">
+         <namePart>Ṭūsūn, ʻUmar</namePart>
+         <namePart type="termsOfAddress">Prince</namePart>
+         <namePart type="date">1872-1944</namePart>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">bibliography</genre>
+      <originInfo script="Latn">
+         <place>
+            <placeTerm type="code" authority="marccountry">ua</placeTerm>
+         </place>
+         <place>
+            <placeTerm type="text">Alexandrie</placeTerm>
+         </place>
+         <publisher>Société de publications égyptiennes</publisher>
+         <dateIssued>1935</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <language>
+         <languageTerm authority="iso639-2b" type="code">fre</languageTerm>
+      </language>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <extent>35 p., 10 leaves of plates : ill., 2 maps (1 col.), 2 plans ; 28 cm.</extent>
+      </physicalDescription>
+      <note type="statement of responsibility" altRepGroup="00" script="Latn">par le Prince Omar Toussoun.</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <subject>
+         <geographicCode authority="marcgac">f-ua---</geographicCode>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Monasteries</topic>
+         <geographic>Egypt</geographic>
+         <geographic>Kellia Site</geographic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Monasteries</topic>
+         <geographic>Egypt</geographic>
+         <geographic>Natrun Valley</geographic>
+      </subject>
+      <subject authority="lcsh">
+         <geographic>Kellia Site (Egypt)</geographic>
+      </subject>
+      <subject authority="lcsh">
+         <geographic>Natrun Valley (Egypt)</geographic>
+         <topic>Antiquities</topic>
+      </subject>
+      <classification authority="lcc">DT73.K47 T87 1935</classification>
+      <location>
+         <physicalLocation>New York University Institute for the Study of the Ancient World 15 East 84th Street New York, NY  10028</physicalLocation>
+         <holdingSimple>
+            <copyInformation>
+               <subLocation>Oversize Collection</subLocation>
+            </copyInformation>
+         </holdingSimple>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>Mémoires de la Société royale d'archéologie d'Alexandrie ; t. 7, 1</title>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">29133091</identifier>
+      <recordInfo>
+         <descriptionStandard>aacr</descriptionStandard>
+         <recordContentSource authority="marcorg">MNU</recordContentSource>
+         <recordCreationDate encoding="marc">131106</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20131106125602.0</recordChangeDate>
+         <recordIdentifier source="OCoLC">003881659</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using MARC21slim2MODS3-4.xsl
+				(Revision 1.94 2014/02/21)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <titleInfo>
+         <title>Bibliotheca Monteliana</title>
+         <subTitle>katalog över Oscar Montelius boksamling i Kungl. Vitterhets Historie och Antikvitets Akademiens bibliotek</subTitle>
+      </titleInfo>
+      <name type="personal">
+         <namePart>Lundqvist, Maja</namePart>
+         <role>
+            <roleTerm type="text">editor.</roleTerm>
+         </role>
+      </name>
+      <name type="corporate">
+         <namePart>Vitterhets-, historie- och antikvitetsakademien, Stockholm</namePart>
+         <namePart>Biblioteket.</namePart>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">bibliography</genre>
+      <genre authority="rdacontent">text-txt</genre>
+      <originInfo script="Latn">
+         <place>
+            <placeTerm type="code" authority="marccountry">sw</placeTerm>
+         </place>
+         <place>
+            <placeTerm type="text">Stockholm</placeTerm>
+         </place>
+         <publisher>I distribution hos Wahlström &amp; Widstrand</publisher>
+         <dateIssued>1943</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <language>
+         <languageTerm authority="iso639-2b" type="code">swe</languageTerm>
+      </language>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <extent>xlviii, 248 pages : illustrations, portrait ; 24 cm.</extent>
+         <form type="media" authority="rdamedia">unmediated</form>
+         <form type="carrier" authority="rdacarrier">volume</form>
+      </physicalDescription>
+      <note type="statement of responsibility" altRepGroup="00" script="Latn">redigerad av Maja Lundqvist ; med en inledning om Oscar Montelius som forskare av Nils Åberg.</note>
+      <note>Includes index.</note>
+      <subject authority="lcsh">
+         <name type="personal">
+            <namePart>Montelius, Oscar</namePart>
+            <namePart type="date">1843-1921</namePart>
+         </name>
+         <topic>Library</topic>
+         <genre>Catalogs</genre>
+      </subject>
+      <subject authority="lcsh">
+         <name type="corporate">
+            <namePart>Vitterhets-, historie- och antikvitetsakademien, Stockholm.</namePart>
+            <namePart>Biblioteket</namePart>
+         </name>
+         <genre>Catalogs</genre>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Antiquities</topic>
+         <genre>Bibliography</genre>
+      </subject>
+      <classification authority="lcc">Z5134 .B53 1943</classification>
+      <location>
+         <physicalLocation>New York University Institute for the Study of the Ancient World 15 East 84th Street New York, NY  10028</physicalLocation>
+         <holdingSimple>
+            <copyInformation>
+               <subLocation>Small Collection</subLocation>
+            </copyInformation>
+         </holdingSimple>
+      </location>
+      <relatedItem type="otherFormat" displayLabel="Online version:">
+         <titleInfo>
+            <title>Bibliotheca Monteliana</title>
+         </titleInfo>
+         <originInfo>
+            <publisher>Stockholm : Almqvist &amp; Wiksells : I distribution hos Wahlström &amp; Widstrand, 1943</publisher>
+         </originInfo>
+         <identifier type="local">(OCoLC)754743721</identifier>
+      </relatedItem>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>Kungl. Vitterhets historie och antikvitets akademiens handlingar ; d. 57</title>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">471463009</identifier>
+      <recordInfo>
+         <descriptionStandard>aacr</descriptionStandard>
+         <recordContentSource authority="marcorg">GZM</recordContentSource>
+         <recordCreationDate encoding="marc">131106</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20131106113021.0</recordChangeDate>
+         <recordIdentifier source="OCoLC">003881649</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using MARC21slim2MODS3-4.xsl
+				(Revision 1.94 2014/02/21)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <titleInfo>
+         <title>Q. Valerii Catvlli Carmina</title>
+      </titleInfo>
+      <name type="personal" usage="primary" nameTitleGroup="1">
+         <namePart>Catullus, Gaius Valerius.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Müller, Lucian</namePart>
+         <namePart type="date">1836-1898</namePart>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <originInfo script="Latn">
+         <place>
+            <placeTerm type="code" authority="marccountry">gw</placeTerm>
+         </place>
+         <place>
+            <placeTerm type="text">Lipsiae</placeTerm>
+         </place>
+         <publisher>In aedibvs B.G. Teubneri</publisher>
+         <dateIssued>1877</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <language>
+         <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
+      </language>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <extent>74 p. ; 18 cm.</extent>
+      </physicalDescription>
+      <note type="statement of responsibility" altRepGroup="00" script="Latn">Recensuit Lvcianvs Mveller.</note>
+      <classification authority="lcc">PA6105.S8 C3 1877</classification>
+      <location>
+         <physicalLocation>New York University Institute for the Study of the Ancient World 15 East 84th Street New York, NY  10028</physicalLocation>
+         <holdingSimple>
+            <copyInformation>
+               <subLocation>Small Collection</subLocation>
+            </copyInformation>
+         </holdingSimple>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>Bibliotheca scriptorum Graecorum et Romanorum Teubneriana</title>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">35772142</identifier>
+      <recordInfo>
+         <descriptionStandard>aacr</descriptionStandard>
+         <recordContentSource authority="marcorg">OWU</recordContentSource>
+         <recordCreationDate encoding="marc">131106</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20131106140511.0</recordChangeDate>
+         <recordIdentifier source="OCoLC">003881662</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using MARC21slim2MODS3-4.xsl
+				(Revision 1.94 2014/02/21)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <titleInfo>
+         <title>Rankes biographische Kunst und die Aufgaben des Biographien</title>
+         <subTitle>Rede zur Gedächtnisfeier des Stifters der Berliner Universität König Friedrich Wilhelms III in der Aula am 3. August 1912</subTitle>
+      </titleInfo>
+      <name type="personal" usage="primary" nameTitleGroup="1">
+         <namePart>Lenz, Max</namePart>
+         <namePart type="date">1850-1932</namePart>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">biography</genre>
+      <originInfo script="Latn">
+         <place>
+            <placeTerm type="code" authority="marccountry">gw</placeTerm>
+         </place>
+         <place>
+            <placeTerm type="text">Berlin</placeTerm>
+         </place>
+         <publisher>Universitäts-Buchdr. von G. Schade</publisher>
+         <dateIssued>1912</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <language>
+         <languageTerm authority="iso639-2b" type="code">ger</languageTerm>
+      </language>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <extent>19 p. ; 26 cm.</extent>
+      </physicalDescription>
+      <note type="statement of responsibility" altRepGroup="00" script="Latn">gehalten von Max Lenz.</note>
+      <subject authority="lcsh">
+         <name type="personal">
+            <namePart>Ranke, Leopold von</namePart>
+            <namePart type="date">1795-1886</namePart>
+         </name>
+      </subject>
+      <classification authority="lcc">D15.R3 L45 1912</classification>
+      <location>
+         <physicalLocation>New York University Institute for the Study of the Ancient World 15 East 84th Street New York, NY  10028</physicalLocation>
+         <holdingSimple>
+            <copyInformation>
+               <subLocation>Small Collection</subLocation>
+            </copyInformation>
+         </holdingSimple>
+      </location>
+      <identifier type="oclc">13068592</identifier>
+      <recordInfo>
+         <descriptionStandard>aacr</descriptionStandard>
+         <recordContentSource authority="marcorg">RCE</recordContentSource>
+         <recordCreationDate encoding="marc">131106</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20131106143037.0</recordChangeDate>
+         <recordIdentifier source="OCoLC">003881665</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using MARC21slim2MODS3-4.xsl
+				(Revision 1.94 2014/02/21)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <titleInfo>
+         <title>S. Caeciliae vitae ac martyrii illustriones</title>
+         <subTitle>Fidele veterum incisionum</subTitle>
+      </titleInfo>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">biography</genre>
+      <originInfo script="Latn">
+         <place>
+            <placeTerm type="code" authority="marccountry">it</placeTerm>
+         </place>
+         <place>
+            <placeTerm type="text">Romae</placeTerm>
+         </place>
+         <publisher>[s.l.]</publisher>
+         <dateIssued>1905</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <language>
+         <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
+      </language>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <extent>14 plates : facsi., 19 cm.</extent>
+      </physicalDescription>
+      <note type="statement of responsibility" altRepGroup="00" script="Latn"/>
+      <note>Explanation of each plate is on the opposite page.</note>
+      <subject authority="lcsh">
+         <name type="personal">
+            <namePart type="termsOfAddress">Saint</namePart>
+            <namePart>Cecilia</namePart>
+         </name>
+      </subject>
+      <classification authority="lcc">BX4700 .C5 1905</classification>
+      <location>
+         <physicalLocation>New York University Institute for the Study of the Ancient World 15 East 84th Street New York, NY  10028</physicalLocation>
+         <holdingSimple>
+            <copyInformation>
+               <subLocation>Small Collection</subLocation>
+            </copyInformation>
+         </holdingSimple>
+      </location>
+      <identifier type="oclc">52368379</identifier>
+      <recordInfo>
+         <descriptionStandard>aacr</descriptionStandard>
+         <recordContentSource authority="marcorg">NOC</recordContentSource>
+         <recordCreationDate encoding="marc">131106</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20131106142251.0</recordChangeDate>
+         <recordIdentifier source="OCoLC">003881663</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using MARC21slim2MODS3-4.xsl
+				(Revision 1.94 2014/02/21)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <titleInfo>
+         <title>Präparation zu Virgils Äneide</title>
+      </titleInfo>
+      <titleInfo type="alternative">
+         <title>Virgils Äneide</title>
+      </titleInfo>
+      <name type="personal" usage="primary" nameTitleGroup="1">
+         <namePart>Linden, Eugen</namePart>
+         <role>
+            <roleTerm type="text">author.</roleTerm>
+         </role>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="rdacontent">text</genre>
+      <originInfo script="Latn">
+         <place>
+            <placeTerm type="code" authority="marccountry">gw</placeTerm>
+         </place>
+         <dateIssued encoding="marc">1902</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo displayLabel="publisher">
+         <place>
+            <placeTerm type="text">Gotha :Friedrich Andreas Perthes,1902</placeTerm>
+         </place>
+         <publisher>Friedrich Andreas Perthes,</publisher>
+         <dateIssued>1902.</dateIssued>
+      </originInfo>
+      <language>
+         <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
+      </language>
+      <language>
+         <languageTerm authority="iso639-2b" type="code">ger</languageTerm>
+      </language>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <extent>[5] volumes ; 19 cm</extent>
+         <form type="media" authority="rdamedia">unmediated</form>
+         <form type="carrier" authority="rdacarrier">volume</form>
+      </physicalDescription>
+      <note type="statement of responsibility" altRepGroup="00" script="Latn">von Dr. Eugen Linden.</note>
+      <subject authority="lcsh">
+         <name type="personal">
+            <namePart>Virgil</namePart>
+         </name>
+         <topic>Language</topic>
+         <genre>Glossaries, vocabularies, etc</genre>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Latin language</topic>
+         <genre>Glossaries, vocabularies, etc</genre>
+      </subject>
+      <classification authority="lcc">PA6953 1902</classification>
+      <location>
+         <physicalLocation>New York University Institute for the Study of the Ancient World 15 East 84th Street New York, NY  10028</physicalLocation>
+         <holdingSimple>
+            <copyInformation>
+               <subLocation>Small Collection</subLocation>
+            </copyInformation>
+         </holdingSimple>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>Schulausgaben griechischer und lateinischer Klassiker</title>
+         </titleInfo>
+      </relatedItem>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NNU</recordContentSource>
+         <recordCreationDate encoding="marc">131106</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20131107154823.0</recordChangeDate>
+         <recordIdentifier>003881698</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using MARC21slim2MODS3-4.xsl
+				(Revision 1.94 2014/02/21)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <titleInfo>
+         <title>Kʻarashambi dambaranadashti nyowtʻakan mshakowytʻě (m.tʻ.a. III-I hazaramyakner)</title>
+         <subTitle>zhamanakavor tsʻowtsʻadrowtʻn katalog</subTitle>
+      </titleInfo>
+      <name type="personal">
+         <namePart>Pʻiliposyan, A. S. (Ashot)</namePart>
+         <role>
+            <roleTerm type="text">editor.</roleTerm>
+         </role>
+      </name>
+      <name type="corporate">
+         <namePart>Metsamor patmahnagitakan argelotsʻ-tʻangaran</namePart>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">catalog</genre>
+      <genre authority="rdacontent">text</genre>
+      <originInfo script="Latn">
+         <place>
+            <placeTerm type="code" authority="marccountry">ai</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2009</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo displayLabel="publisher">
+         <place>
+            <placeTerm type="text">Erevan :publisher not identified,[2009]</placeTerm>
+         </place>
+         <publisher>publisher not identified,</publisher>
+         <dateIssued>[2009]</dateIssued>
+      </originInfo>
+      <language>
+         <languageTerm authority="iso639-2b" type="code">arm</languageTerm>
+      </language>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <extent>49 pages : color illustrations ; 21 cm.</extent>
+         <form type="media" authority="rdamedia">unmediated</form>
+         <form type="carrier" authority="rdacarrier">volume</form>
+      </physicalDescription>
+      <note type="statement of responsibility" altRepGroup="00" script="Latn">kazmoghner, Ashot Pʻiliposyan ... [et al.].</note>
+      <note>At head of title: Metsamor patmahnagitakan argelotsʻ-tʻangaran.</note>
+      <subject>
+         <geographicCode authority="marcgac">a-ai---</geographicCode>
+         <geographicCode authority="marcgac">a-ir---</geographicCode>
+         <geographicCode authority="marcgac">a-tu---</geographicCode>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Tombs</topic>
+         <geographic>Armenia (Republic)</geographic>
+         <geographic>Kotaykʻi marz</geographic>
+         <genre>Exhibitions</genre>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Grave goods</topic>
+         <geographic>Armenia (Republic)</geographic>
+         <geographic>Kotaykʻi marz</geographic>
+         <genre>Exhibitions</genre>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Material culture</topic>
+         <geographic>Armenia (Republic)</geographic>
+         <geographic>Kotaykʻi marz</geographic>
+         <genre>Exhibitions</genre>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Bronze age</topic>
+         <geographic>Armenia (Republic)</geographic>
+         <geographic>Kotaykʻi marz</geographic>
+         <genre>Exhibitions</genre>
+      </subject>
+      <subject authority="lcsh">
+         <geographic>Kotaykʻi marz (Armenia)</geographic>
+         <topic>Antiquities</topic>
+         <genre>Exhibitions</genre>
+      </subject>
+      <subject authority="lcsh">
+         <geographic>Armenia</geographic>
+         <topic>Antiquities</topic>
+         <genre>Exhibitions</genre>
+      </subject>
+      <classification authority="lcc">DS167 .K37 2009</classification>
+      <location>
+         <physicalLocation>New York University Institute for the Study of the Ancient World 15 East 84th Street New York, NY  10028</physicalLocation>
+         <holdingSimple>
+            <copyInformation>
+               <subLocation>Small Collection</subLocation>
+            </copyInformation>
+         </holdingSimple>
+      </location>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NNU</recordContentSource>
+         <recordCreationDate encoding="marc">131108</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20131108141318.0</recordChangeDate>
+         <recordIdentifier>003882985</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using MARC21slim2MODS3-4.xsl
+				(Revision 1.94 2014/02/21)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <titleInfo altRepGroup="01" script="Latn">
+         <title>ΚΑRThΑΙΑ</title>
+         <subTitle>allote kai tōra</subTitle>
+      </titleInfo>
+      <name type="corporate" altRepGroup="03" script="Latn">
+         <namePart>YP.PO. Epitrpē Syntēreses kai Anádeixes Archaias Karthaias Keas</namePart>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="rdacontent">text</genre>
+      <originInfo script="Latn">
+         <place>
+            <placeTerm type="code" authority="marccountry">gr</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2004</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo displayLabel="publisher" altRepGroup="02" script="Latn">
+         <place>
+            <placeTerm type="text">880-02Athena :[publisher not identified],2004</placeTerm>
+         </place>
+         <publisher>[publisher not identified],</publisher>
+         <dateIssued>2004</dateIssued>
+      </originInfo>
+      <language>
+         <languageTerm authority="iso639-2b" type="code">gre</languageTerm>
+      </language>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <extent>39 pages : colored illustrations, colored maps ; 24 cm</extent>
+         <form type="media" authority="rdamedia">unmediated</form>
+         <form type="carrier" authority="rdacarrier">volume</form>
+      </physicalDescription>
+      <note type="statement of responsibility" altRepGroup="00" script="Latn">YP.PO. Epitrpē Syntēreses kai Anádeixes Archaias Karthaias Keas.</note>
+      <subject authority="lcsh">
+         <geographic>Kea Island (Greece)</geographic>
+         <topic>Antiquities</topic>
+      </subject>
+      <subject authority="lcsh">
+         <geographic>Kea Island (Greece)</geographic>
+         <topic>History</topic>
+      </subject>
+      <classification authority="lcc">DF901.K43 K3 2004</classification>
+      <location>
+         <physicalLocation>New York University Institute for the Study of the Ancient World 15 East 84th Street New York, NY  10028</physicalLocation>
+         <holdingSimple>
+            <copyInformation>
+               <subLocation>Small Collection</subLocation>
+            </copyInformation>
+         </holdingSimple>
+      </location>
+      <titleInfo altRepGroup="01" script="Latn">
+         <title>ΚΑΡΘΑΙΑ</title>
+         <subTitle>άλλοτε και τώρα</subTitle>
+      </titleInfo>
+      <note type="statement of responsibility" altRepGroup="00" script="Latn">ΥΠ.ΠΟ. Επιτροπή Συντήρησης και Ανάδειξης Αρχαίας Καρθαίας Κέας.</note>
+      <name type="corporate" altRepGroup="03" script="Latn">
+         <namePart>ΥΠ.ΠΟ. Επιτροπή Συντήρησης και Ανάδειξης Αρχαίας Καρθαίας Κέας</namePart>
+      </name>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NNU</recordContentSource>
+         <recordCreationDate encoding="marc">131108</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20131108145351.0</recordChangeDate>
+         <recordIdentifier>003883009</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using MARC21slim2MODS3-4.xsl
+				(Revision 1.94 2014/02/21)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <titleInfo altRepGroup="01" script="Latn">
+         <title>PERIKEOUSs EPITAPHIOS (THOUKYD. II, 34-46)</title>
+         <subTitle>KEIMENO, METAPHRASĒ, SCHOLIA, EPILEGOMENA</subTitle>
+      </titleInfo>
+      <name type="personal" usage="primary" nameTitleGroup="1">
+         <namePart>Thucydides.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Kakridis, Johannes Th.</namePart>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="rdacontent">text</genre>
+      <originInfo script="Latn" altRepGroup="02">
+         <place>
+            <placeTerm type="code" authority="marccountry">gr</placeTerm>
+         </place>
+         <dateIssued encoding="marc">1943</dateIssued>
+         <edition>III EKDOSĒ.</edition>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo displayLabel="publisher" altRepGroup="03" script="Latn">
+         <place>
+            <placeTerm type="text">880-03Athena :[publisher not identified],1943</placeTerm>
+         </place>
+         <publisher>[publisher not identified],</publisher>
+         <dateIssued>1943.</dateIssued>
+      </originInfo>
+      <language>
+         <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+      </language>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <extent>vii, 63 pages : 20 cm</extent>
+         <form type="media" authority="rdamedia">unmediated</form>
+         <form type="carrier" authority="rdacarrier">volume</form>
+      </physicalDescription>
+      <note type="statement of responsibility" altRepGroup="00" script="Latn">I.TH. KAKRIDĒ.</note>
+      <subject>
+         <geographicCode authority="marcgac">e-gr---</geographicCode>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Greece</topic>
+         <topic>History</topic>
+         <temporal>Peloponnesian War, 431-404 B.C</temporal>
+      </subject>
+      <subject authority="lcsh">
+         <geographic>Greece</geographic>
+         <topic>History</topic>
+         <temporal>Athenian supremacy, 479-431 B.C</temporal>
+      </subject>
+      <classification authority="lcc">PA4452.A32 1943</classification>
+      <location>
+         <physicalLocation>New York University Institute for the Study of the Ancient World 15 East 84th Street New York, NY  10028</physicalLocation>
+         <holdingSimple>
+            <copyInformation>
+               <subLocation>Small Collection</subLocation>
+            </copyInformation>
+         </holdingSimple>
+      </location>
+      <titleInfo altRepGroup="01" script="Latn">
+         <title>ΠEPIKΛEOYΣ EΠITAΦIOΣ (ΘΟΥΚΔ. II 34-46)</title>
+         <subTitle>ΚΕΙΜΕΝΟ ΜΕΤΑΦΡΑΣΗ ΣΧΟΛΙΑ ΕΠΙΛΕΓΟΜΕΝΑ</subTitle>
+      </titleInfo>
+      <note type="statement of responsibility" altRepGroup="00" script="Latn">Ι. Θ. ΚΑΚΡΙΔΗ.</note>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NNU</recordContentSource>
+         <recordCreationDate encoding="marc">131108</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20131108162122.0</recordChangeDate>
+         <recordIdentifier>003883084</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using MARC21slim2MODS3-4.xsl
+				(Revision 1.94 2014/02/21)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <titleInfo>
+         <title>Roman Caesarea</title>
+         <subTitle>an archaeological-topographical study</subTitle>
+      </titleInfo>
+      <name type="personal" usage="primary" nameTitleGroup="1">
+         <namePart>Levine, Lee I.</namePart>
+      </name>
+      <name type="corporate">
+         <namePart>Ḥevrah la-ḥaḳirat Erets-Yiśraʼel ṿe-ʻatiḳoteha</namePart>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">bibliography</genre>
+      <originInfo script="Latn">
+         <place>
+            <placeTerm type="code" authority="marccountry">is</placeTerm>
+         </place>
+         <place>
+            <placeTerm type="text">Jerusalem</placeTerm>
+         </place>
+         <publisher>Institute of Archaeology, Hebrew University of Jerusalem : [orders to be sent to the Israel Exploration Society]</publisher>
+         <dateIssued>1975</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <language>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+      </language>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <extent>56 p., [8] pages of plates : ill., maps. ; 28 cm.</extent>
+      </physicalDescription>
+      <note type="statement of responsibility" altRepGroup="00" script="Latn">Lee I. Levine.</note>
+      <note type="bibliography">Includes bibliographical references (p. 49-56).</note>
+      <subject>
+         <geographicCode authority="marcgac">a-is---</geographicCode>
+      </subject>
+      <subject authority="lcsh">
+         <geographic>Caesarea (Israel)</geographic>
+      </subject>
+      <classification authority="lcc">DS110.C13 L49 1975</classification>
+      <classification authority="ddc">937/.6</classification>
+      <location>
+         <physicalLocation>New York University Institute for the Study of the Ancient World 15 East 84th Street New York, NY  10028</physicalLocation>
+         <holdingSimple>
+            <copyInformation>
+               <subLocation>Oversize Collection</subLocation>
+            </copyInformation>
+         </holdingSimple>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>Qedem ; 2</title>
+         </titleInfo>
+      </relatedItem>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>Publications of the Institute of Archaeology, the Hebrew University of Jerusalem</title>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="lccn">76359140</identifier>
+      <recordInfo>
+         <descriptionStandard>aacr</descriptionStandard>
+         <recordContentSource authority="marcorg">DLC</recordContentSource>
+         <recordCreationDate encoding="marc">760707</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20131107114028.0</recordChangeDate>
+         <recordIdentifier source="NNU">002493923</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using MARC21slim2MODS3-4.xsl
+				(Revision 1.94 2014/02/21)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <titleInfo>
+         <title>Antikes Kupfer im Timna-Tal</title>
+         <subTitle>4000 Jahre Bergbau und Verhüttung in der Arabah (Israel)</subTitle>
+      </titleInfo>
+      <name type="personal">
+         <namePart>Conrad, Hans Günter</namePart>
+         <role>
+            <roleTerm type="text">ed.</roleTerm>
+         </role>
+      </name>
+      <name type="personal">
+         <namePart>Rothenberg, Benno</namePart>
+         <role>
+            <roleTerm type="text">ed.</roleTerm>
+         </role>
+      </name>
+      <name type="personal">
+         <namePart>Kroker, Werner</namePart>
+         <role>
+            <roleTerm type="text">ed.</roleTerm>
+         </role>
+      </name>
+      <name type="corporate">
+         <namePart>Vereinigung der Freunde von Kunst und Kultur im Bergbau</namePart>
+      </name>
+      <name type="corporate">
+         <namePart>Deutsches Bergbau-Museum Bochum</namePart>
+      </name>
+      <name type="corporate">
+         <namePart>Muzeʼon ha-arets (Tel Aviv, Israel)</namePart>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">bibliography</genre>
+      <originInfo script="Latn">
+         <place>
+            <placeTerm type="code" authority="marccountry">gw</placeTerm>
+         </place>
+         <place>
+            <placeTerm type="text">Bochum</placeTerm>
+         </place>
+         <publisher>[Vereinigung der Freunde von Kunst und Kultur im Bergbau e. V.]</publisher>
+         <dateIssued>1980</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <language>
+         <languageTerm authority="iso639-2b" type="code">ger</languageTerm>
+      </language>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <extent>236 p., 34 folded leaves of plates : ill. (some col.), maps, plans ; 30 cm.</extent>
+      </physicalDescription>
+      <note type="statement of responsibility" altRepGroup="00" script="Latn">Bearbeiter, Hans Günther Conrad, Beno Rothenberg ; Schriftleitung, Werner Kroker.</note>
+      <note>"Herausgeber: Vereinigung der Freunde von Kunst und Kultur im Bergbau e. V. Deutsches Bergbau-Museum Bochum. Institute of Mining and Metals in the Biblical World (The Arabah Expedition, Museum Haaretz Tel-Aviv)"--Half-t.p. verso.</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <subject>
+         <geographicCode authority="marcgac">a-is---</geographicCode>
+         <geographicCode authority="marcgac">a-jo---</geographicCode>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Copper mines and mining</topic>
+         <geographic>Arabah Valley (Israel and Jordan)</geographic>
+         <topic>History</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Copper mines and mining</topic>
+         <geographic>Israel</geographic>
+         <geographic>Timna Site</geographic>
+         <topic>History</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Copper smelting</topic>
+         <geographic>Arabah Valley (Israel and Jordan)</geographic>
+         <topic>History</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Copper smelting</topic>
+         <geographic>Israel</geographic>
+         <geographic>Timna Site</geographic>
+         <topic>History</topic>
+      </subject>
+      <subject authority="lcsh">
+         <geographic>Arabah Valley (Israel and Jordan)</geographic>
+         <topic>Antiquities</topic>
+      </subject>
+      <subject authority="lcsh">
+         <geographic>Timna Site (Israel)</geographic>
+         <topic>Antiquities</topic>
+      </subject>
+      <classification authority="lcc">GN778.32.I75 A58 1980</classification>
+      <location>
+         <physicalLocation>New York University Institute for the Study of the Ancient World 15 East 84th Street New York, NY  10028</physicalLocation>
+         <holdingSimple>
+            <copyInformation>
+               <subLocation>Oversize Collection</subLocation>
+            </copyInformation>
+         </holdingSimple>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>Anschnitt. 1</title>
+            <partName>Beiheft</partName>
+         </titleInfo>
+      </relatedItem>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>Veröffentlichungen aus dem Deutschen Bergbau-Museum Bochum ; Nr. 20</title>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="isbn">392153318X</identifier>
+      <recordInfo>
+         <descriptionStandard>aacr</descriptionStandard>
+         <recordContentSource authority="marcorg">NIC</recordContentSource>
+         <recordCreationDate encoding="marc">860612</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20131105090136.0</recordChangeDate>
+         <recordIdentifier source="NNU">002766835</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using MARC21slim2MODS3-4.xsl
+				(Revision 1.94 2014/02/21)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <titleInfo>
+         <title>Metallgefässe und Gefässuntersätze der Bronzezeit, der geometrischen und archaischen Periode auf Cypern</title>
+         <subTitle>mit einem Anhang der bronzezeitlichen Schwertfunde auf Cypern</subTitle>
+      </titleInfo>
+      <name type="personal" usage="primary" nameTitleGroup="1">
+         <namePart>Matthäus, Hartmut.</namePart>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">bibliography</genre>
+      <originInfo script="Latn">
+         <place>
+            <placeTerm type="code" authority="marccountry">gw</placeTerm>
+         </place>
+         <place>
+            <placeTerm type="text">München</placeTerm>
+         </place>
+         <publisher>C.H. Beck</publisher>
+         <dateIssued>c1985</dateIssued>
+         <dateIssued encoding="marc">1985</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <language>
+         <languageTerm authority="iso639-2b" type="code">ger</languageTerm>
+      </language>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <extent>xiii, 383 p., 143 p. of plates (some folded) : ill., maps ; 29 cm.</extent>
+      </physicalDescription>
+      <note type="statement of responsibility" altRepGroup="00" script="Latn">von Hartmut Matthäus.</note>
+      <note type="bibliography">Includes bibliographical references and indexes.</note>
+      <subject>
+         <geographicCode authority="marcgac">a-cy---</geographicCode>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Implements, utensils, etc</topic>
+         <geographic>Cyprus</geographic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Art metal-work, Ancient</topic>
+         <geographic>Cyprus</geographic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Stands (Furniture)</topic>
+         <geographic>Cyprus</geographic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Swords</topic>
+         <geographic>Cyprus</geographic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Bronze age</topic>
+         <geographic>Cyprus</geographic>
+      </subject>
+      <subject authority="lcsh">
+         <geographic>Cyprus</geographic>
+         <topic>Antiquities</topic>
+      </subject>
+      <classification authority="lcc">DS54.3 .M38 1985</classification>
+      <location>
+         <physicalLocation>New York University Institute for the Study of the Ancient World 15 East 84th Street New York, NY  10028</physicalLocation>
+         <holdingSimple>
+            <copyInformation>
+               <subLocation>Oversize Collection</subLocation>
+            </copyInformation>
+         </holdingSimple>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>Prähistorische Bronzefunde. Bd. 8</title>
+            <partNumber>Abteilung II</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="isbn">3406301517</identifier>
+      <recordInfo>
+         <descriptionStandard>aacr</descriptionStandard>
+         <recordContentSource authority="marcorg">NNMM</recordContentSource>
+         <recordCreationDate encoding="marc">860702</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20131105104452.0</recordChangeDate>
+         <recordIdentifier source="NNU">002770069</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using MARC21slim2MODS3-4.xsl
+				(Revision 1.94 2014/02/21)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <titleInfo>
+         <title>Rimskiĭ skulʹpturnyĭ portret III veka i khudozhestvennai͡a kulʹtura togo vremeni</title>
+      </titleInfo>
+      <titleInfo type="alternative">
+         <title>Rimskiĭ skulʹpturnyĭ portret III veka</title>
+      </titleInfo>
+      <titleInfo type="alternative">
+         <title>Rimskiĭ skulʹpturnyĭ portret tretʹego veka i khudozhestvennai͡a kulʹtura togo vremeni</title>
+      </titleInfo>
+      <titleInfo type="alternative">
+         <title>Rimskiĭ skulʹpturnyĭ portret 3-go veka i khudozhestvennai͡a kulʹtura togo vremeni</title>
+      </titleInfo>
+      <name type="personal" usage="primary" nameTitleGroup="1">
+         <namePart>Sokolov, Gleb Ivanovich.</namePart>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">bibliography</genre>
+      <originInfo script="Latn">
+         <place>
+            <placeTerm type="code" authority="marccountry">ru</placeTerm>
+         </place>
+         <place>
+            <placeTerm type="text">Moskva</placeTerm>
+         </place>
+         <publisher>"Iskusstvo,"</publisher>
+         <dateIssued>1983</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <language>
+         <languageTerm authority="iso639-2b" type="code">rus</languageTerm>
+      </language>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <extent>154 p., [126] p. of plates : ill. (some col.) ; 29 cm.</extent>
+      </physicalDescription>
+      <note type="statement of responsibility" altRepGroup="00" script="Latn">G.I. Sokolov.</note>
+      <note type="bibliography">Bibliography: p. [141]-148.</note>
+      <subject>
+         <geographicCode authority="marcgac">aw-----</geographicCode>
+         <geographicCode authority="marcgac">e------</geographicCode>
+         <geographicCode authority="marcgac">ff-----</geographicCode>
+         <geographicCode authority="marcgac">mm-----</geographicCode>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Portrait sculpture, Roman</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Civilization, Greco-Roman</topic>
+      </subject>
+      <classification authority="lcc">NB1296.3 .S64 1983</classification>
+      <classification authority="ddc" edition="19">733/.5</classification>
+      <location>
+         <physicalLocation>New York University Institute for the Study of the Ancient World 15 East 84th Street New York, NY  10028</physicalLocation>
+         <holdingSimple>
+            <copyInformation>
+               <subLocation>Oversize Collection</subLocation>
+            </copyInformation>
+         </holdingSimple>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>Iz istorii mirovogo iskusstva</title>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="lccn">83187167</identifier>
+      <recordInfo>
+         <descriptionStandard>aacr</descriptionStandard>
+         <recordContentSource authority="marcorg"/>
+         <recordCreationDate encoding="marc">870612</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20131104113503.0</recordChangeDate>
+         <recordIdentifier source="NNU">002821905</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using MARC21slim2MODS3-4.xsl
+				(Revision 1.94 2014/02/21)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <titleInfo>
+         <title>Grundzüge und Chrestomathie der Papyruskunde</title>
+      </titleInfo>
+      <name type="personal">
+         <namePart>Mitteis, Ludwig</namePart>
+         <namePart type="date">1859-1921</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Wilcken, Ulrich</namePart>
+         <namePart type="date">1862-1944</namePart>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">bibliography</genre>
+      <originInfo script="Latn">
+         <place>
+            <placeTerm type="code" authority="marccountry">gw</placeTerm>
+         </place>
+         <place>
+            <placeTerm type="text">Leipzig</placeTerm>
+         </place>
+         <place>
+            <placeTerm type="text">Berlin</placeTerm>
+         </place>
+         <publisher>B.G. Teubner</publisher>
+         <dateIssued>1912</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <language>
+         <languageTerm authority="iso639-2b" type="code">ger</languageTerm>
+      </language>
+      <language>
+         <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+      </language>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <extent>2 v. in 4 v. ; 25 cm.</extent>
+      </physicalDescription>
+      <note type="statement of responsibility" altRepGroup="00" script="Latn">von L. Mitteis und U. Wilcken.</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <subject authority="lcsh">
+         <topic>Manuscripts, Greek (Papyri)</topic>
+      </subject>
+      <classification authority="lcc">PA3341 .G77 1912</classification>
+      <location>
+         <physicalLocation>New York University Institute for the Study of the Ancient World 15 East 84th Street New York, NY  10028</physicalLocation>
+         <holdingSimple>
+            <copyInformation>
+               <subLocation>Small Collection</subLocation>
+            </copyInformation>
+         </holdingSimple>
+      </location>
+      <identifier type="lccn">12011674</identifier>
+      <recordInfo>
+         <descriptionStandard>aacr</descriptionStandard>
+         <recordContentSource authority="marcorg"/>
+         <recordCreationDate encoding="marc">890623</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20131104150506.0</recordChangeDate>
+         <recordIdentifier source="NNU">002350606</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using MARC21slim2MODS3-4.xsl
+				(Revision 1.94 2014/02/21)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <titleInfo>
+         <nonSort>The </nonSort>
+         <title>promise of the land</title>
+         <subTitle>the inheritance of the land of Canaan by the Israelites</subTitle>
+      </titleInfo>
+      <name type="personal" usage="primary" nameTitleGroup="1">
+         <namePart>Weinfeld, Moshe.</namePart>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">bibliography</genre>
+      <originInfo script="Latn">
+         <place>
+            <placeTerm type="code" authority="marccountry">cau</placeTerm>
+         </place>
+         <place>
+            <placeTerm type="text">Berkeley</placeTerm>
+         </place>
+         <publisher>University of California Press</publisher>
+         <dateIssued>1993</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <language>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+      </language>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <extent>xxi, 327 p. : maps ; 21 cm.</extent>
+      </physicalDescription>
+      <note type="statement of responsibility" altRepGroup="00" script="Latn">Moshe Weinfeld.</note>
+      <note type="bibliography">Includes bibliographical references and index.</note>
+      <subject>
+         <geographicCode authority="marcgac">a-is---</geographicCode>
+      </subject>
+      <subject authority="lcsh">
+         <titleInfo>
+            <title>Bible</title>
+            <partName>O.T</partName>
+         </titleInfo>
+         <topic>Historiography</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Palestine in the Bible</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Gentiles in the Old Testament</topic>
+      </subject>
+      <subject authority="lcsh">
+         <geographic>Palestine</geographic>
+         <topic>Boundaries</topic>
+         <topic>Biblical teaching</topic>
+      </subject>
+      <classification authority="lcc">BS1199.P26 W45 1993</classification>
+      <classification authority="ddc" edition="20">221.9/5</classification>
+      <location>
+         <physicalLocation>New York University Institute for the Study of the Ancient World 15 East 84th Street New York, NY  10028</physicalLocation>
+         <holdingSimple>
+            <copyInformation>
+               <subLocation>Small Collection</subLocation>
+            </copyInformation>
+         </holdingSimple>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>Taubman lectures in Jewish studies</title>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="isbn">0520075102</identifier>
+      <identifier type="lccn">91019827</identifier>
+      <recordInfo>
+         <descriptionStandard>aacr</descriptionStandard>
+         <recordContentSource authority="marcorg">DLC</recordContentSource>
+         <recordCreationDate encoding="marc">940323</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20131108161904.0</recordChangeDate>
+         <recordIdentifier source="NNU">002139671</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using MARC21slim2MODS3-4.xsl
+				(Revision 1.94 2014/02/21)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <titleInfo altRepGroup="02" script="Latn">
+         <title>Perakim be-toledot ha-kehunah ve-ha-leviyah</title>
+         <subTitle>ʻiyyunim ba-reshimot she-be-divrey Hayamim ve-ʻEzra u-Neḥemyah</subTitle>
+      </titleInfo>
+      <titleInfo type="alternative">
+         <title>Chapters in the history of the priests and Levites</title>
+      </titleInfo>
+      <titleInfo type="alternative">
+         <title>Chapters in the history of the priests and Levites</title>
+      </titleInfo>
+      <name type="personal" usage="primary" altRepGroup="01" script="Latn" nameTitleGroup="1">
+         <namePart>Liver, Jacob</namePart>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">bibliography</genre>
+      <originInfo script="Latn" altRepGroup="03">
+         <place>
+            <placeTerm type="code" authority="marccountry">is</placeTerm>
+         </place>
+         <place>
+            <placeTerm type="text">Yerushalayim</placeTerm>
+         </place>
+         <publisher>Hotsʼat sefarim al shem Y.L. Magnes, ha-Unitersiṭah ha-ʻIvrit</publisher>
+         <dateIssued>729 [1968]</dateIssued>
+         <dateIssued encoding="marc">1968</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo script="Latn" altRepGroup="03">
+         <place>
+            <placeTerm type="text">ירושלים :</placeTerm>
+         </place>
+         <publisher>הוצאת הספרים ע״ש י״ל מאגנס, האוניברסיטה העברית,</publisher>
+         <dateIssued>תשמ״ז.</dateIssued>
+      </originInfo>
+      <language>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+      </language>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <extent>135, xi p. ; 25 cm.</extent>
+      </physicalDescription>
+      <note type="statement of responsibility" altRepGroup="00" script="Latn">meʼet Yakob Liver.</note>
+      <note>Title on added t.p.: Chapters in the history of the priests and Levites : studies in the lists of Chronicles and Ezra and Nehemiah.</note>
+      <note>English summary: xi p. at end.</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <subject authority="lcsh">
+         <titleInfo>
+            <title>Bible</title>
+            <partName>O.T. Chronicles, 1st, XXIII-XXVI</partName>
+         </titleInfo>
+         <topic>Criticism, interpretation, etc</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Priests, Jewish</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Levites</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Worship in the Bible</topic>
+      </subject>
+      <classification authority="lcc">BS1199.P7 L58 1968</classification>
+      <location>
+         <physicalLocation>New York University Institute for the Study of the Ancient World 15 East 84th Street New York, NY  10028</physicalLocation>
+         <holdingSimple>
+            <copyInformation>
+               <subLocation>Small Collection</subLocation>
+            </copyInformation>
+         </holdingSimple>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>Sidrat sefarim le-ḥeḳer ha-Miḳra mi-yesodo shel S. Sh. Peri</title>
+         </titleInfo>
+      </relatedItem>
+      <name type="personal" usage="primary" altRepGroup="01" script="Latn" nameTitleGroup="1">
+         <namePart>יעקב ליוור.</namePart>
+      </name>
+      <titleInfo altRepGroup="02" script="Latn">
+         <title>פרקים בתולדות הכהונה והלוייה</title>
+         <subTitle>עיונים ברשימות שבדברי הימים ועזרא ונחמיה</subTitle>
+      </titleInfo>
+      <note type="statement of responsibility" altRepGroup="00" script="Latn">מאת יעקב ליוור.</note>
+      <relatedItem type="series" altRepGroup="04" script="Latn">
+         <titleInfo>
+            <title>סדרת ספרים לחקר המקרא מיסודו של ס.ש. פרי</title>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="lccn">73950710</identifier>
+      <recordInfo>
+         <descriptionStandard>aacr</descriptionStandard>
+         <recordContentSource authority="marcorg"/>
+         <recordCreationDate encoding="marc">940616</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20131108151617.0</recordChangeDate>
+         <recordIdentifier source="NNU">002153250</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using MARC21slim2MODS3-4.xsl
+				(Revision 1.94 2014/02/21)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <titleInfo>
+         <nonSort>The </nonSort>
+         <title>architecture of Mampsis</title>
+         <subTitle>final report</subTitle>
+      </titleInfo>
+      <name type="personal" usage="primary" nameTitleGroup="1">
+         <namePart>Negev, Avraham.</namePart>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">bibliography</genre>
+      <originInfo script="Latn">
+         <place>
+            <placeTerm type="code" authority="marccountry">is</placeTerm>
+         </place>
+         <place>
+            <placeTerm type="text">Jerusalem</placeTerm>
+         </place>
+         <publisher>Institute of Archaeology, Hebrew University of Jerusalem</publisher>
+         <dateIssued>1988-</dateIssued>
+         <dateIssued encoding="marc" point="start">1988</dateIssued>
+         <dateIssued encoding="marc" point="end">9999</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <language>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+      </language>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <extent>v. : ill. ; 29 cm.</extent>
+      </physicalDescription>
+      <tableOfContents>v.1. Middle and late Nabatean Periods -- v.2 Late Roman and Byzantine periods.</tableOfContents>
+      <note type="statement of responsibility" altRepGroup="00" script="Latn">Avraham Negev.</note>
+      <note>Added t.p. in Hebrew.</note>
+      <note type="bibliography">Includes bibliographical references (p. xv-[xviii]).</note>
+      <subject>
+         <geographicCode authority="marcgac">a-is---</geographicCode>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Nabataeans</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Excavations (Archaeology)</topic>
+         <geographic>Israel</geographic>
+         <geographic>Mampsis (Extinct city)</geographic>
+      </subject>
+      <subject authority="lcsh">
+         <geographic>Mampsis (Extinct city)</geographic>
+      </subject>
+      <subject authority="lcsh">
+         <geographic>Israel</geographic>
+         <topic>Antiquities</topic>
+      </subject>
+      <subject authority="lcsh">
+         <geographic>Negev (Israel)</geographic>
+         <topic>Antiquities</topic>
+      </subject>
+      <classification authority="lcc">DS110.M28 N45 1988</classification>
+      <location>
+         <physicalLocation>New York University Institute for the Study of the Ancient World 15 East 84th Street New York, NY  10028</physicalLocation>
+         <holdingSimple>
+            <copyInformation>
+               <subLocation>Oversize Collection</subLocation>
+            </copyInformation>
+         </holdingSimple>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>Qedem ; 26</title>
+         </titleInfo>
+      </relatedItem>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>Publications of the Institute of Archaeology, the Hebrew University of Jerusalem</title>
+         </titleInfo>
+      </relatedItem>
+      <recordInfo>
+         <descriptionStandard>aacr</descriptionStandard>
+         <recordContentSource authority="marcorg"/>
+         <recordCreationDate encoding="marc">890302</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20131106120409.0</recordChangeDate>
+         <recordIdentifier source="NNU">002965073</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using MARC21slim2MODS3-4.xsl
+				(Revision 1.94 2014/02/21)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <titleInfo>
+         <title>Nabataean coins</title>
+      </titleInfo>
+      <name type="personal" usage="primary" nameTitleGroup="1">
+         <namePart>Meshorer, Yaʻaḳov</namePart>
+         <namePart type="date">1935-2004</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Levine, I. H.</namePart>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">bibliography</genre>
+      <originInfo script="Latn">
+         <place>
+            <placeTerm type="code" authority="marccountry">is</placeTerm>
+         </place>
+         <place>
+            <placeTerm type="text">Jerusalem]</placeTerm>
+         </place>
+         <publisher>Institute of Archaeology, Hebrew University of Jerusalem</publisher>
+         <publisher>Distributed by the Israel Exploration Society</publisher>
+         <dateIssued>1975</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <language>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+      </language>
+      <language objectPart="translation">
+         <languageTerm authority="iso639-2b" type="code">heb</languageTerm>
+      </language>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <extent>111 p., [8] p. of plates : ill. ; 29 cm.</extent>
+      </physicalDescription>
+      <note type="statement of responsibility" altRepGroup="00" script="Latn">Yaʻakov Meshorer ; English translation, I. H. Levine.</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <subject authority="lcsh">
+         <topic>Coins, Nabataean</topic>
+      </subject>
+      <classification authority="lcc">CJ1397 .M47 1975</classification>
+      <classification authority="ddc">737.4/9/3948</classification>
+      <location>
+         <physicalLocation>New York University Institute for the Study of the Ancient World 15 East 84th Street New York, NY  10028</physicalLocation>
+         <holdingSimple>
+            <copyInformation>
+               <subLocation>Oversize Collection</subLocation>
+            </copyInformation>
+         </holdingSimple>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>Publications of the Institute of Archaeology, the Hebrew University of Jerusalem</title>
+         </titleInfo>
+      </relatedItem>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>Qedem ; 3</title>
+         </titleInfo>
+      </relatedItem>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>Publications of the Institute of Archaeology, the Hebrew University of Jerusalem</title>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="lccn">79315378</identifier>
+      <identifier type="oclc">ocm02480924</identifier>
+      <recordInfo>
+         <descriptionStandard>aacr</descriptionStandard>
+         <recordContentSource authority="marcorg">DLC</recordContentSource>
+         <recordCreationDate encoding="marc">790928</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20131107113840.0</recordChangeDate>
+         <recordIdentifier source="NNU">000748488</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using MARC21slim2MODS3-4.xsl
+				(Revision 1.94 2014/02/21)</recordOrigin>
+      </recordInfo>
+   </mods>
+</modsCollection>
