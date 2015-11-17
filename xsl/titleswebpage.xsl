@@ -74,7 +74,9 @@
     <xsl:template match="marc:record">
         <p class="citation">
             <xsl:attribute name="id">seq<xsl:value-of select="count(preceding-sibling::marc:record)+1"/></xsl:attribute>
-            <xsl:call-template name="do-title"/>
+            <xsl:call-template name="do-with-writing-systems">
+                <xsl:with-param name="marc-node" select="marc:datafield[@tag=$marc-title]"/>
+            </xsl:call-template>
             <xsl:apply-templates select="marc:datafield[@tag=$marc-edition]"/>
             <xsl:apply-templates select="marc:datafield[@tag=$marc-series]"/>
             <xsl:apply-templates select="marc:datafield[@tag=$marc-imprint or (@tag=$marc-production and @ind2!='4')]"/>
@@ -86,7 +88,7 @@
     
     <!-- authors etc. -->
     <!-- not used? --> 
-    <xsl:template match="marc:datafield[@tag=$marc-authors or @tag=$marc-persname]">
+    <!--<xsl:template match="marc:datafield[@tag=$marc-authors or @tag=$marc-persname]">
         
         <xsl:variable name="this" select="tre:strippunct(tre:normalize-punctuation(marc:subfield[@code='a']))"/>
         <xsl:if test="$loglevel='debug'">
@@ -192,9 +194,26 @@
                 <xsl:value-of select="$normal"/>
             </xsl:otherwise>
         </xsl:choose>
-    </xsl:template>
+    </xsl:template> -->
     
+    <xsl:template name="do-with-writing-systems">
+        <xsl:param name="marc-node" as="node()"/>
+        <xsl:variable name="use-node" as="nodes()">
+            <xsl:choose>
+                <xsl:when test="//marc:datafield[@tag=$marc-parallel and starts-with(marc:subfield[@code='6'], $marc-node/@tag)]">
+                    <xsl:sequence select="//marc:datafield[@tag=$marc-parallel and starts-with(marc:subfield[@code='6'], $marc-node/@tag)][1]"/>
+                </xsl:when>
+                <xsl:otherwise>
+                    <xsl:sequence select="$marc-node[1]"/>
+                </xsl:otherwise>
+            </xsl:choose>
+        </xsl:variable>
+        <xsl:apply-templates select="$use-node" />
+    </xsl:template>
     <!-- titles -->
+    <xsl:template match="marc:datafield[@tag=$marc-title] | marc:datafield[@tag=$marc-parallel and starts-with(marc:subfield[@code='6'], $marc-title)]">
+        <xsl:call-template name="do-title"/>
+    </xsl:template>    
     <xsl:template name="do-title">
         <xsl:variable name="title-node" as="node()">
             <xsl:choose>
