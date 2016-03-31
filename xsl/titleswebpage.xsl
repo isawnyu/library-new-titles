@@ -210,6 +210,7 @@
             <xsl:if test="marc:subfield[@code='a' or @code='b']">
                 <span class="title">
                     <xsl:apply-templates select="marc:subfield[@code='a' or @code='b']" mode="titles"/>
+                    <xsl:apply-templates select="marc:subfield[@code='n']" mode="titles"/>
                 </span><xsl:copy-of select="$internal-punct"/>
             </xsl:if>
             <xsl:if test="marc:subfield[@code='c']">
@@ -220,10 +221,10 @@
         </xsl:for-each><br />
     </xsl:template>
     
-    <xsl:template match="marc:subfield[@code='a' or @code='b' or @code='c']" mode="titles">
+    <xsl:template match="marc:subfield[@code='a' or @code='b' or @code='c' or @code='n']" mode="titles">
         <xsl:variable name="normed" select="normalize-unicode(., 'NFC')"/>
         <xsl:variable name="clean" select="tre:normalize-punctuation($normed)"/>
-        <xsl:if test="@code='b' and ../marc:subfield[@code='a']">
+        <xsl:if test="@code='n' or (@code='b' and ../marc:subfield[@code='a'])">
             <xsl:text> </xsl:text>
         </xsl:if>
         <xsl:variable name="ready">
