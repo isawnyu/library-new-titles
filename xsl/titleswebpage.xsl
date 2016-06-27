@@ -198,10 +198,10 @@
     
     <xsl:template name="do-with-writing-systems">
         <xsl:param name="marc-node" as="node()"/>
-        <xsl:variable name="use-node" as="nodes()">
+        <xsl:variable name="use-node" as="node()+">
             <xsl:choose>
-                <xsl:when test="//marc:datafield[@tag=$marc-parallel and starts-with(marc:subfield[@code='6'], $marc-node/@tag)]">
-                    <xsl:sequence select="//marc:datafield[@tag=$marc-parallel and starts-with(marc:subfield[@code='6'], $marc-node/@tag)][1]"/>
+                <xsl:when test="../marc:datafield[@tag=$marc-parallel and starts-with(marc:subfield[@code='6'], $marc-node/@tag)]">
+                    <xsl:sequence select="../marc:datafield[@tag=$marc-parallel and starts-with(marc:subfield[@code='6'], $marc-node/@tag)][1]"/>
                 </xsl:when>
                 <xsl:otherwise>
                     <xsl:sequence select="$marc-node[1]"/>
@@ -212,7 +212,9 @@
     </xsl:template>
     <!-- titles -->
     <xsl:template match="marc:datafield[@tag=$marc-title] | marc:datafield[@tag=$marc-parallel and starts-with(marc:subfield[@code='6'], $marc-title)]">
-        <xsl:call-template name="do-title"/>
+        <xsl:for-each select="..">
+            <xsl:call-template name="do-title"/>            
+        </xsl:for-each>
     </xsl:template>    
     <xsl:template name="do-title">
         <xsl:variable name="title-node" as="node()">
