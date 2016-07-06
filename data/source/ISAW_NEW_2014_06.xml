@@ -1,781 +1,2992 @@
-﻿<?xml version="1.0"?>
+<?xml version="1.0"?>
 <printout>
  <ROW>
-  <DATE_ADDED>20140122</DATE_ADDED>
-  <BSN>003925626</BSN>
-  <BIB_TITLE>  Early Italian sigillata : the chronological framework and trade patterns : proceedings of the First International ROCT-Congress, Leuven, May 7 and 8, 1999 / edited by Jeroen Poblome ... [et al.].</BIB_TITLE>
-  <BIB_AUTHOR>  Poblome, J. (Jeroen) ed.</BIB_AUTHOR>
-  <PUB_DATE>2004</PUB_DATE>
-  <Z13_IMPRINT>Leuven ; Dudley, MA : Peeters, 2004.</Z13_IMPRINT>
-  <CALL_NUMBER> HD9616.I82 I58 1999</CALL_NUMBER>
-  <BARCODE>31154050695863</BARCODE>
- </ROW>
- <ROW>
-  <DATE_ADDED>20140123</DATE_ADDED>
-  <BSN>003926100</BSN>
-  <BIB_TITLE>  Duo diaplanētika phainomena tō 468 p.Ch. = Two interplanetary phenomena of 468 B.C. / hypo Spyr. N. Marinatou.</BIB_TITLE>
-  <BIB_AUTHOR>  Xanthakis, John N., 1904-</BIB_AUTHOR>
-  <PUB_DATE>1963</PUB_DATE>
-  <CALL_NUMBER> AS202 .A355 t.24, ar.4</CALL_NUMBER>
-  <Z30_NOTE_INTERNAL>Astrom</Z30_NOTE_INTERNAL>
-  <BARCODE>31154050222783</BARCODE>
- </ROW>
- <ROW>
-  <DATE_ADDED>20140131</DATE_ADDED>
-  <BSN>003929413</BSN>
-  <BIB_TITLE>   Chu di chu tu zhan guo jian ce (shi si zhong) = Excavated warring states bamboo strip manuscripts from the Chu Region : fourteen collections / Chen Wei deng zhu. //   楚地出土戰國簡册(十四種) = Excavated warring states bamboo strip manuscripts from the Chu Region : fourteen collections / 陳偉等著.</BIB_TITLE>
+  <DATE_ADDED>20140625</DATE_ADDED>
+  <BSN>004006861</BSN>
+  <BIB_TITLE>   Sanmenxia Nanjiaokou / Henan Sheng wen wu kao gu yan jiu suo bian zhu. //   三门峡南交口 / 河南省文物考古研究所编著.</BIB_TITLE>
   <PUB_DATE>2009</PUB_DATE>
-  <Z13_IMPRINT>04 Beijing : Jing ji ke xue chu ban she, 2009.</Z13_IMPRINT>
-  <CALL_NUMBER> PL2448 .C48 2009</CALL_NUMBER>
-  <BARCODE>31154050642527</BARCODE>
+  <Z13_IMPRINT>04 Beijing : Ke xue chu ban she, 2009.</Z13_IMPRINT>
+  <CALL_NUMBER> DS797.44.S266 H46 2009</CALL_NUMBER>
+  <BARCODE>31154050708948</BARCODE>
  </ROW>
  <ROW>
-  <DATE_ADDED>20140131</DATE_ADDED>
-  <BSN>003929425</BSN>
-  <BIB_TITLE>   Zhangjiashan Han mu zhu jian (er si qi hao mu) : (shi wen xiu ding ben) / Zhangjiashan er si qi hao Han mu zhu jian zheng li xiao zu. //   張家山漢墓竹簡 (二四七號墓) : (釋文修訂本) / 張家山二四七號漢墓竹簡整理小組.</BIB_TITLE>
+  <DATE_ADDED>20140625</DATE_ADDED>
+  <BSN>004006870</BSN>
+  <BIB_TITLE>   Panlongcheng : Chang Jiang zhong you de qing tong wen ming / Hubei Sheng bo wu guan bian = Panlongcheng : bronze civilization in the middle reaches of the Yangtze / Hubei Provincial Museum. //   盘龙城 : 长江中游的青铜文明 / 湖北省博物馆编 = Panlongcheng : bronze civilization in the middle reaches of the Yangtze / Hubei Provincial Museum.</BIB_TITLE>
+  <PUB_DATE>2007</PUB_DATE>
+  <Z13_IMPRINT>05 Beijing : Wen wu chu ban she, 2007.</Z13_IMPRINT>
+  <CALL_NUMBER> NK7983.22 .P26 2007</CALL_NUMBER>
+  <BARCODE>31154050708955</BARCODE>
+ </ROW>
+<ROW>
+  <DATE_ADDED>20140609</DATE_ADDED>
+  <BSN>003999529</BSN>
+  <BIB_TITLE>   Lanzhou Honggu Xiahaishi : xin shi qi shi dai yi zhi fa jue bao gao / Gansu Sheng wen wu kao gu yan jiu suo bian zhu ; Zhao Jianlong, Yang Huifu, Xie Yan zhu bian. //   兰州红古下海石 : 新石器时代遗址发掘报告 / 甘肃省文物考古研究所编著 ; 赵建龙, 杨惠福, 谢焱主编.</BIB_TITLE>
+  <BIB_AUTHOR>  Zhao, Jianlong  //  Xie, Yan  //  Yang, Huifu </BIB_AUTHOR>
+  <PUB_DATE>2008</PUB_DATE>
+  <Z13_IMPRINT>04 Beijing : Ke xue chu ban she, 2008.</Z13_IMPRINT>
+  <CALL_NUMBER> GN776.32.C6 L36 2008</CALL_NUMBER>
+  <BARCODE>31154050707346</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20140609</DATE_ADDED>
+  <BSN>003569625</BSN>
+  <BIB_TITLE>   Hake yi zhi : 2003-2008 nian kao gu fa jue bao gao / Zhongguo she hui ke xue yuan kao gu yan jiu suo ... [et al.] bian zhu. //   哈克遗址 : 2003-2008年考古发掘报告 / 中国社会科学院考古研究所 ... [et al.]编著.</BIB_TITLE>
+  <PUB_DATE>2010</PUB_DATE>
+  <Z13_IMPRINT>03 Beijing : Wen wu chu ban she, 2010.</Z13_IMPRINT>
+  <CALL_NUMBER> DS797.54.H858 H34 2010</CALL_NUMBER>
+  <BARCODE>31154050707361</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20140609</DATE_ADDED>
+  <BSN>003999551</BSN>
+  <BIB_TITLE>   Yin xu wang bu ci de fen lei yu duan dai / Huang Tianshu zhu. //   殷墟王卜辞的分类与断代 / 黃天树著.</BIB_TITLE>
+  <PUB_DATE>2007</PUB_DATE>
+  <Z13_IMPRINT>04 Beijing : Ke xue chu ban she, 2007.</Z13_IMPRINT>
+  <CALL_NUMBER> PL2457.A5 H84 2007</CALL_NUMBER>
+  <BARCODE>31154050707379</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20140609</DATE_ADDED>
+  <BSN>003999590</BSN>
+  <BIB_TITLE>   Wan qi Ba Shu qing tong qi ji shu yan jiu ji bing qi ban wen gong yi tan tao / Yao Zhihui zhu. //   晚期巴蜀青铜器技术研究及兵器斑纹工艺探讨 / 姚智辉著.</BIB_TITLE>
+  <PUB_DATE>2006</PUB_DATE>
+  <CALL_NUMBER> NK6683 .Y26 2006</CALL_NUMBER>
+  <BARCODE>31154050707387</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20140609</DATE_ADDED>
+  <BSN>003999601</BSN>
+  <BIB_TITLE>   Zhenjiang chu tu Wuguo qing tong qi / Yang Zhenghong, Xiao Menglong zhu bian. //   镇江出土吴国青铜器 / 杨正宏, 肖梦龙主编.</BIB_TITLE>
+  <BIB_AUTHOR>  Yang, Zhenghong </BIB_AUTHOR>
+  <PUB_DATE>2008</PUB_DATE>
+  <Z13_IMPRINT>03 Beijing : Wen wu chu ban she, 2008.</Z13_IMPRINT>
+  <CALL_NUMBER> NK7983.22 .Z45 2008</CALL_NUMBER>
+  <BARCODE>31154050707395</BARCODE>
+ </ROW>
+<ROW>
+  <DATE_ADDED>20140617</DATE_ADDED>
+  <BSN>004002704</BSN>
+  <BIB_TITLE>   Shu wen hua / Song Zhimin zhu. //   蜀文化 / 宋治民著.</BIB_TITLE>
+  <PUB_DATE>2008</PUB_DATE>
+  <Z13_IMPRINT>04 Beijing Shi : Wen wu chu ban she, 2008.</Z13_IMPRINT>
+  <CALL_NUMBER> DS793.S8 S767 2008</CALL_NUMBER>
+  <BARCODE>31154050708328</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20140617</DATE_ADDED>
+  <BSN>004002724</BSN>
+  <BIB_TITLE>   懸泉漢簡研究 / 郝樹聲, 張德芳著. //   Xuanquan Han jian yan jiu / Hao Shusheng, Zhang Defang zhu.</BIB_TITLE>
+  <BIB_AUTHOR>  Zhang, Defang </BIB_AUTHOR>
+  <PUB_DATE>2009</PUB_DATE>
+  <Z13_IMPRINT>04 Lanzhou : Gansu ren min chu ban she, 2009.</Z13_IMPRINT>
+  <CALL_NUMBER> PL2447 .H37 2009</CALL_NUMBER>
+  <BARCODE>31154050708344</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20140617</DATE_ADDED>
+  <BSN>004002733</BSN>
+  <BIB_TITLE>  Extraction &amp; control : studies in honor of Matthew W. Stolper / edited by Michael Kozuh, Wouter F.M. Henkelman, Charles E. Jones, and Christopher Woods.</BIB_TITLE>
+  <BIB_AUTHOR>  Stolper, Matthew W. honoree. //  Woods, Christopher, 1968- editor of compilation. //  Jones, Charles E. (Charles Ellwood), 1955- editor of compilation. //  Henkelman, Wouter editor of compilation. //  Kozuh, Michael, editor of compilation.</BIB_AUTHOR>
+  <PUB_DATE>2014</PUB_DATE>
+  <CALL_NUMBER> DS275 .E98 2014</CALL_NUMBER>
+  <BARCODE>31154050650892</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20140617</DATE_ADDED>
+  <BSN>004002730</BSN>
+  <BIB_TITLE>   Xian Qin liang Han kao gu lun cong / Huang Zhanyue zhu. //   先秦两汉考古论丛 / 黄展岳著.</BIB_TITLE>
+  <PUB_DATE>2008</PUB_DATE>
+  <Z13_IMPRINT>04 Beijing : Ke xue chu ban she, 2008.</Z13_IMPRINT>
+  <CALL_NUMBER> DS741.65 .H74 2008</CALL_NUMBER>
+  <BARCODE>31154050708351</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20140627</DATE_ADDED>
+  <BSN>004008353</BSN>
+  <BIB_TITLE>  The Cyropædia : or, Institution of Cyrus, and the Hellenics, or, Grecian history / literally translated from the Greek of Xenophon by J.S. Watson and Henry Dale.</BIB_TITLE>
+  <BIB_AUTHOR>  Watson, J. S. (John Selby), 1804-1884 tr. //  Dale, Henry, 1812-1894 tr.</BIB_AUTHOR>
+  <PUB_DATE>1886</PUB_DATE>
+  <Z13_IMPRINT>London : G. Bell, 1886.</Z13_IMPRINT>
+  <CALL_NUMBER> PA4495.A4 W38 1886</CALL_NUMBER>
+  <Z30_NOTE_INTERNAL>Tadmor</Z30_NOTE_INTERNAL>
+  <BARCODE>31154050235363</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20140627</DATE_ADDED>
+  <BSN>004008361</BSN>
+  <BIB_TITLE>   Shi ke zhuan wen bian / Shang Chengzuo bian zhu. //   石刻篆文編 / 商承祚編著.</BIB_TITLE>
+  <PUB_DATE>1996</PUB_DATE>
+  <Z13_IMPRINT>04 Beijing : Zhonghua shu ju, 1996.</Z13_IMPRINT>
+  <CALL_NUMBER> PL2447 .S54 1996</CALL_NUMBER>
+  <BARCODE>31154050709268</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20140630</DATE_ADDED>
+  <BSN>004008398</BSN>
+  <BIB_TITLE>  Verheissung und Gesetz : Untersuchungen zum sogenannten Bund im Alten Testament / Ernst Kutsch.</BIB_TITLE>
+  <PUB_DATE>1973</PUB_DATE>
+  <Z13_IMPRINT>Berlin ; New York : W. de Gruyter, 1973.</Z13_IMPRINT>
+  <CALL_NUMBER> BS410 .Z5 vol.131</CALL_NUMBER>
+  <Z30_NOTE_INTERNAL>Tadmor</Z30_NOTE_INTERNAL>
+  <BARCODE>31154050651593</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20140630</DATE_ADDED>
+  <BSN>004008441</BSN>
+  <BIB_TITLE>  A philological and literary treatise on the Old Testament divine names 'El, AElôah, AElohîm, and Yhwh / by A. Murtonen.</BIB_TITLE>
+  <PUB_DATE>1952</PUB_DATE>
+  <Z13_IMPRINT>Helsinki : Suomalaisen Kirjallisuuden Seuran Kirjapainon Oy, 1952.</Z13_IMPRINT>
+  <CALL_NUMBER> BT180.N2 M87 1952</CALL_NUMBER>
+  <Z30_NOTE_INTERNAL>Tadmor</Z30_NOTE_INTERNAL>
+  <BARCODE>31154050235389</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20140619</DATE_ADDED>
+  <BSN>004003619</BSN>
+  <BIB_TITLE>   Cong chu tu jian bo kan Si Meng xue pai de nei sheng wai wang si xiang / Xie Yaoting zhu. //   从出土简帛看思孟学派的内圣外王思想 / 谢耀亭著.</BIB_TITLE>
+  <PUB_DATE>2011</PUB_DATE>
+  <Z13_IMPRINT>04 Beijing : Ke xue chu ban she, 2011.</Z13_IMPRINT>
+  <CALL_NUMBER> B127.C65 X55 2011</CALL_NUMBER>
+  <BARCODE>31154050708518</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20140619</DATE_ADDED>
+  <BSN>004003625</BSN>
+  <BIB_TITLE>   Han Tang li shi yu chu tu wen xian / Wang Su zhu. //   汉唐历史与出土文献 / 王素著.</BIB_TITLE>
+  <PUB_DATE>2011</PUB_DATE>
+  <Z13_IMPRINT>04 Beijing : Gu gong chu ban she, 2011.</Z13_IMPRINT>
+  <CALL_NUMBER> DS747.38 .W36 2011</CALL_NUMBER>
+  <BARCODE>31154050708526</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20140619</DATE_ADDED>
+  <BSN>004003632</BSN>
+  <BIB_TITLE>   Zhangjiashan Han jian "Gai lu" yan jiu / Shao Hong zhu. //   張家山漢簡《蓋盧》研究 / 邵鴻著.</BIB_TITLE>
+  <PUB_DATE>2007</PUB_DATE>
+  <Z13_IMPRINT>05 Beijing : Wen wu chu ban she, 2007.</Z13_IMPRINT>
+  <CALL_NUMBER> PL2447 .S34 2007</CALL_NUMBER>
+  <BARCODE>31154050708534</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20140619</DATE_ADDED>
+  <BSN>004003647</BSN>
+  <BIB_TITLE>   Ceng hou yi mu zhu jian shi wen bu zheng ji che ma zhi du yan jiu / Xiao Shengzhong zhu. //   曾侯乙墓竹簡釋文補正曁車馬制度研究 / 蕭聖中著.</BIB_TITLE>
+  <PUB_DATE>2011</PUB_DATE>
+  <CALL_NUMBER> PL2447 .X42 2011</CALL_NUMBER>
+  <BARCODE>31154050708542</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20140619</DATE_ADDED>
+  <BSN>004003661</BSN>
+  <BIB_TITLE>   Dong feng xi jian : Zhongguo xi bei shi qian wen hua zhi jin cheng / Li Shuicheng zhu. //   东风西渐 : 中国西北史前文化之进程 / 李水城著.</BIB_TITLE>
+  <PUB_DATE>2009</PUB_DATE>
+  <Z13_IMPRINT>05 Beijing : Wen wu chu ban she : Xin hua shu dian jing xiao, 2009.</Z13_IMPRINT>
+  <CALL_NUMBER> GN855.C6 L523 2009</CALL_NUMBER>
+  <BARCODE>31154050708559</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20140619</DATE_ADDED>
+  <BSN>004003684</BSN>
+  <BIB_TITLE>   Menggu min zu fu shi wen hua / Su Tingling, Chen Hong bian zhu. //   蒙古民族服饰文化 / 苏婷玲, 陈红编著.</BIB_TITLE>
+  <PUB_DATE>2008</PUB_DATE>
+  <Z13_IMPRINT>04 Beijing Shi : Wen wu chu ban she, 2008.</Z13_IMPRINT>
+  <CALL_NUMBER> GT1555 .S83 2008</CALL_NUMBER>
+  <BARCODE>31154050708575</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20140618</DATE_ADDED>
+  <BSN>004002967</BSN>
+  <BIB_TITLE>   Zhou Qin wen hua yan jiu lun ji / Zhang Tian'en zhu. //   周秦文化研究论集 / 张天恩著.</BIB_TITLE>
+  <PUB_DATE>2009</PUB_DATE>
+  <Z13_IMPRINT>04 Beijing : Ke xue chu ban she, 2009.</Z13_IMPRINT>
+  <CALL_NUMBER> DS741.65 .Z433 2009</CALL_NUMBER>
+  <BARCODE>31154050708385</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20140618</DATE_ADDED>
+  <BSN>004003044</BSN>
+  <BIB_TITLE>   Zhou wen hua ji xiang guan yi cun de fa jue yu yan jiu / Hu Qianying zhu. //   周文化及相关遗存的发掘与研究 / 胡谦盈著.</BIB_TITLE>
+  <PUB_DATE>2010</PUB_DATE>
+  <Z13_IMPRINT>04 Beijing : Ke xue chu ban she, 2010.</Z13_IMPRINT>
+  <CALL_NUMBER> DS747 .H83 2010</CALL_NUMBER>
+  <BARCODE>31154050708401</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20140618</DATE_ADDED>
+  <BSN>004003085</BSN>
+  <BIB_TITLE>  Digging beyond the Tigris / Linda Braidwood.</BIB_TITLE>
+  <PUB_DATE>1959</PUB_DATE>
+  <Z13_IMPRINT>New York ; London : Abelard-Schuman, c1959.</Z13_IMPRINT>
+  <CALL_NUMBER> DS70.5.J3 B7 1959</CALL_NUMBER>
+  <Z30_NOTE_INTERNAL>Tadmor</Z30_NOTE_INTERNAL>
+  <BARCODE>31154050650926</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20140618</DATE_ADDED>
+  <BSN>004003113</BSN>
+  <BIB_TITLE>  In remembrance of me : feasting with the dead in the ancient Middle East / edited by Virginia Rimmer Herrmann and J. David Schloen ; with new photography by Anna R. Ressman.</BIB_TITLE>
+  <BIB_AUTHOR>  Herrmann, Virginia Rimmer, editor. //  Ressman, Anna R., photographer. //  Schloen, J. David, 1962- editor.</BIB_AUTHOR>
+  <PUB_DATE>2014</PUB_DATE>
+  <CALL_NUMBER> GT3170 .I62 2014</CALL_NUMBER>
+  <BARCODE>31154050650934</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20140618</DATE_ADDED>
+  <BSN>004003127</BSN>
+  <BIB_TITLE>  Der Steinbock als Herrschaftszeichen des Augustus / Simonetta Terio.</BIB_TITLE>
+  <PUB_DATE>2006</PUB_DATE>
+  <Z13_IMPRINT>Münster : Aschendorff, c2006.</Z13_IMPRINT>
+  <CALL_NUMBER> DG279 .T47 2006</CALL_NUMBER>
+  <BARCODE>31154050650942</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20140618</DATE_ADDED>
+  <BSN>004003125</BSN>
+  <BIB_TITLE>   Zhou dao : feng jian shi dai de guan dao / Lei Jinhao zhu. //   周道 : 封建时代的官道 / 雷晋豪著.</BIB_TITLE>
+  <PUB_DATE>2011</PUB_DATE>
+  <CALL_NUMBER> DS747.13 L44 2011</CALL_NUMBER>
+  <BARCODE>31154050708427</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20140618</DATE_ADDED>
+  <BSN>004003134</BSN>
+  <BIB_TITLE>   Xian Qin shi qi de Nan Hai dao min : hai wan sha qiu yi zhi yan jiu / Xiao Yiting zhu. //   先秦时期的南海岛民 : 海湾沙丘遗址硏究 / 肖一亭著.</BIB_TITLE>
+  <PUB_DATE>2004</PUB_DATE>
+  <Z13_IMPRINT>05 Beijing : Wen wu chu ban she, 2004.</Z13_IMPRINT>
+  <CALL_NUMBER> DS793.H3 X53 2004</CALL_NUMBER>
+  <BARCODE>31154050708435</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20140618</DATE_ADDED>
+  <BSN>003359763</BSN>
+  <BIB_TITLE>   Zhengzhou Shang dai tong qi jiao cang / Henan Sheng wen wu kao gu yan jiu suo, Zhengzhou Shi wen wu kao gu yan jiu suo bian zhu. //   郑州商代铜器窖藏 / 河南省文物考古硏究所, 郑州市文物考古硏究所编著.</BIB_TITLE>
+  <PUB_DATE>1999</PUB_DATE>
+  <Z13_IMPRINT>03 Beijing : Ke xue chu ban she, 1999.</Z13_IMPRINT>
+  <CALL_NUMBER> DS797.44.Z444 Z44 1999</CALL_NUMBER>
+  <BARCODE>31154050708443</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20140618</DATE_ADDED>
+  <BSN>004003145</BSN>
+  <BIB_TITLE>  Die Literatur der Babylonier und Assyrer : ein Überblick / von Otto Weber.</BIB_TITLE>
+  <PUB_DATE>1907</PUB_DATE>
+  <Z13_IMPRINT>Leipzig : J.C. Hinrichs, 1907.</Z13_IMPRINT>
+  <CALL_NUMBER> PJ3601 .W43 1907</CALL_NUMBER>
+  <Z30_NOTE_INTERNAL>Tadmor</Z30_NOTE_INTERNAL>
+  <BARCODE>31154050650959</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20140618</DATE_ADDED>
+  <BSN>004003165</BSN>
+  <BIB_TITLE>   Zhongguo gu dai fo diao : Fo zao xiang yang shi yu feng ge / Jin Weinuo. //   中國古代佛雕 : 佛造像樣式與風格/ 金維諾.</BIB_TITLE>
+  <PUB_DATE>2002</PUB_DATE>
+  <Z13_IMPRINT>05 Beijing : Wen wu chu ban she, 2002.</Z13_IMPRINT>
+  <CALL_NUMBER> NB1912.B83 J564 2002</CALL_NUMBER>
+  <BARCODE>31154050708468</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20140618</DATE_ADDED>
+  <BSN>004003175</BSN>
+  <BIB_TITLE>   Henan Sheng wen wu zhi / Henan Sheng wen wu ju bian. //   河南省文物志 / 河南省文物局编.</BIB_TITLE>
+  <PUB_DATE>2009</PUB_DATE>
+  <Z13_IMPRINT>03 Beijing : Wen wu chu ban she, 2009.</Z13_IMPRINT>
+  <CALL_NUMBER> DS793.H5 H65 2009</CALL_NUMBER>
+  <VOLUME_INFO>v.1</VOLUME_INFO>
+  <BARCODE>31154050708476</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20140620</DATE_ADDED>
+  <BSN>004004553</BSN>
+  <BIB_TITLE>   Minning Cun Xi Xia mu di / Ningxia wen wu kao gu yan jiu suo bian zhu. //   闽宁村西夏墓地 / 宁夏文物考古研究所编著.</BIB_TITLE>
+  <PUB_DATE>2004</PUB_DATE>
+  <Z13_IMPRINT>03 Beijing : Ke xue chu ban she, 2004.</Z13_IMPRINT>
+  <CALL_NUMBER> DS797.64.M56 M56 2004</CALL_NUMBER>
+  <BARCODE>31154050708674</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20140620</DATE_ADDED>
+  <BSN>004004566</BSN>
+  <BIB_TITLE>   Si chou zhi lu gu yi zhi bao hu / Li Zuixiong bian zhu. //   絲绸之路古遺址保护 / 李最雄编著.</BIB_TITLE>
+  <PUB_DATE>2003</PUB_DATE>
+  <Z13_IMPRINT>04 Beijing : Ke xue chu ban she, 2003.</Z13_IMPRINT>
+  <CALL_NUMBER> DS793.K2 L58 2003</CALL_NUMBER>
+  <BARCODE>31154050708690</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20140620</DATE_ADDED>
+  <BSN>004004577</BSN>
+  <BIB_TITLE>  Sacred sites and ways : studies in the topography of the Gospels / by Gustaf Dalman ; authorised translation by Paul P. Levertoff.</BIB_TITLE>
+  <BIB_AUTHOR>  Levertoff, Paul P. (Paul Philip), 1878- tr.</BIB_AUTHOR>
+  <PUB_DATE>1935</PUB_DATE>
+  <Z13_IMPRINT>London : Society for Promoting Christian Knowledge ; New York : Macmillan, 1935.</Z13_IMPRINT>
+  <CALL_NUMBER> DS104.3 .D3513 1935</CALL_NUMBER>
+  <Z30_NOTE_INTERNAL>Tadmor</Z30_NOTE_INTERNAL>
+  <BARCODE>31154050651064</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20140620</DATE_ADDED>
+  <BSN>004003852</BSN>
+  <BIB_TITLE>   Tulufan chu tu wen shu ren ming di ming suo yin / Li Fang ; Wang Su bian. //   吐魯番出土文書人名地名索引 / 李方 ; 王素編.</BIB_TITLE>
+  <BIB_AUTHOR>  Wang, Su </BIB_AUTHOR>
+  <PUB_DATE>1996</PUB_DATE>
+  <Z13_IMPRINT>03 Beijing : Wen wu chu ban she, 1996.</Z13_IMPRINT>
+  <CALL_NUMBER> DS797.84.T858 T82 1996</CALL_NUMBER>
+  <BARCODE>31154050708724</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20140630</DATE_ADDED>
+  <BSN>004008602</BSN>
+  <BIB_TITLE>  Das Priester- und Beamtentum der altbabylonischen Kontrakte : mit einer Zusammenstellung sämtlicher Kontrakte der I. Dynastie von Babylon in Regestenform : ein Beitrag zur altbabylonischen Kulturgeschichte / von Ernest Lindl.</BIB_TITLE>
+  <PUB_DATE>1913</PUB_DATE>
+  <Z13_IMPRINT>Paderborn : F. Schöningh, 1913.</Z13_IMPRINT>
+  <CALL_NUMBER> PJ3189 .L56 1913</CALL_NUMBER>
+  <Z30_NOTE_INTERNAL>Tadmor</Z30_NOTE_INTERNAL>
+  <BARCODE>31154050651668</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20140625</DATE_ADDED>
+  <BSN>003444658</BSN>
+  <BIB_TITLE>  Institutions and European trade : merchant guilds, 1000-1800 / Sheilagh Ogilvie.</BIB_TITLE>
+  <PUB_DATE>2011</PUB_DATE>
+  <CALL_NUMBER> HF3495 .O45 2011</CALL_NUMBER>
+  <BARCODE>31154050651395</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20140625</DATE_ADDED>
+  <BSN>004006998</BSN>
+  <BIB_TITLE>   Qin zao qi qing tong qi ke ji kao gu xue yan jiu / Jia Lajiang bian zhu. //   秦早期青铜器科技考古学研究 / 贾腊江编著.</BIB_TITLE>
+  <PUB_DATE>2011</PUB_DATE>
+  <Z13_IMPRINT>04 Beijing : Ke xue chu ban she, 2011.</Z13_IMPRINT>
+  <CALL_NUMBER> NK7983.22 .J53 2011</CALL_NUMBER>
+  <BARCODE>31154050708963</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20140618</DATE_ADDED>
+  <BSN>004002949</BSN>
+  <BIB_TITLE>   Zhanguo Qin Han shi qi Yun Gui gao yuan kao gu xue wen hua yan jiu / Yang Yong zhu. //   战国秦汉时期云贵高原考古学文化研究 / 杨勇著.</BIB_TITLE>
+  <PUB_DATE>2011</PUB_DATE>
+  <Z13_IMPRINT>04 Beijing : Ke xue chu ban she, 2011.</Z13_IMPRINT>
+  <CALL_NUMBER> DS793.Y8 Y366 2011</CALL_NUMBER>
+  <BARCODE>31154050708377</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20140609</DATE_ADDED>
+  <BSN>003276338</BSN>
+  <BIB_TITLE>   Zhengzhou Song Jin bi hua mu / Zhengzhou Shi wen wu kao gu yan jiu suo bian zhu = The Song-Jin period mural tombs in Zhengzhou / Zhengzhou municipal institute of cultural relics and archaeology. //   郑州宋金壁画墓 / 郑州市文物考古研究所编著 = The Song-Jin period mural tombs in Zhengzhou / Zhengzhou municipal institute of cultural relics and archaeology.</BIB_TITLE>
+  <PUB_DATE>2005</PUB_DATE>
+  <Z13_IMPRINT>03 Beijing : Ke xue chu ban she, 2005.</Z13_IMPRINT>
+  <CALL_NUMBER> ND2850.Z43 Z44 2005</CALL_NUMBER>
+  <BARCODE>31154050707353</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20140609</DATE_ADDED>
+  <BSN>003999653</BSN>
+  <BIB_TITLE>  The Earlier Egyptian passive : voice and perspective / Andréas Stauder.</BIB_TITLE>
+  <PUB_DATE>2014</PUB_DATE>
+  <Z13_IMPRINT>Hamburg : Widmaier, 2014.</Z13_IMPRINT>
+  <CALL_NUMBER> PJ1181 .S73 2014</CALL_NUMBER>
+  <BARCODE>31154050650660</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20140617</DATE_ADDED>
+  <BSN>004002706</BSN>
+  <BIB_TITLE>   Zhouyuan / Chen Quanfang, Chen Min zhu. //   周原 / 陈全方, 陈敏著.</BIB_TITLE>
+  <BIB_AUTHOR>  Chen, Min, 1968- </BIB_AUTHOR>
+  <PUB_DATE>2007</PUB_DATE>
+  <Z13_IMPRINT>04 Beijing : Wen wu chu ban she, 2007.</Z13_IMPRINT>
+  <CALL_NUMBER> DS797.68.B36 C482 2007</CALL_NUMBER>
+  <BARCODE>31154050708336</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20140627</DATE_ADDED>
+  <BSN>004008260</BSN>
+  <BIB_TITLE>  The Old Testament in the light of the ancient East : manual of Biblical archaeology / by Alfred Jeremias.</BIB_TITLE>
+  <PUB_DATE>1911</PUB_DATE>
+  <Z13_IMPRINT>New York : Putnam ; London : Williams &amp; Norgate, 1911.</Z13_IMPRINT>
+  <CALL_NUMBER> BS1180 .J3513 1911</CALL_NUMBER>
+  <VOLUME_INFO>v.2</VOLUME_INFO>
+  <Z30_NOTE_INTERNAL>Tadmor</Z30_NOTE_INTERNAL>
+  <BARCODE>31154050235348</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20140627</DATE_ADDED>
+  <BSN>004008315</BSN>
+  <BIB_TITLE>  The IVP Bible background commentary : Old Testament / John H. Walton, Victor H. Matthews, &amp; Mark W. Chavalas.</BIB_TITLE>
+  <BIB_AUTHOR>  Matthews, Victor Harold author. //  Chavalas, Mark W. (Mark William), 1954- author.</BIB_AUTHOR>
+  <PUB_DATE>2000</PUB_DATE>
+  <Z13_IMPRINT>Downers Grove, Ill. : InterVarsity Press, ©2000.</Z13_IMPRINT>
+  <CALL_NUMBER> BS1151.2 .W35 2000</CALL_NUMBER>
+  <Z30_NOTE_INTERNAL>Tadmor</Z30_NOTE_INTERNAL>
+  <BARCODE>31154050651544</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20140627</DATE_ADDED>
+  <BSN>004008323</BSN>
+  <BIB_TITLE>  The Museum of Islamic Art : a short guide / by Mohamed Mostafa ; [translated into English by Fatma M. Mostafa ; English translation has been revised by K.A.C. Creswell].</BIB_TITLE>
+  <BIB_AUTHOR>  Muṣṭafá, Muḥammad, 1903-</BIB_AUTHOR>
+  <PUB_DATE>1979</PUB_DATE>
+  <Z13_IMPRINT>Cairo : General Egyptian Book Organization, 1979.</Z13_IMPRINT>
+  <CALL_NUMBER> N6264.E3 M38 1979</CALL_NUMBER>
+  <Z30_NOTE_INTERNAL>Tadmor</Z30_NOTE_INTERNAL>
+  <BARCODE>31154050651551</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20140618</DATE_ADDED>
+  <BSN>004002940</BSN>
+  <BIB_TITLE>   Zhongguo xi bei di qu xian Qin shi qi de zi ran huan jing yu wen hua fa zhan / Han Jianye zhu. //   中国西北地区先秦时期的自然环境与文化发展 / 韩建业著.</BIB_TITLE>
+  <PUB_DATE>2008</PUB_DATE>
+  <Z13_IMPRINT>04 Beijing : Wen wu chu ban she, 2008.</Z13_IMPRINT>
+  <CALL_NUMBER> DS793.N6 H33 2008</CALL_NUMBER>
+  <BARCODE>31154050708369</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20140627</DATE_ADDED>
+  <BSN>004008342</BSN>
+  <BIB_TITLE>   Chongqing ku qu kao gu bao gao ji, 2001 juan / Chongqing Shi wen wu ju, Chongqing Shi yi min ju bian. //   重庆库区考古报告集, 2001卷 / 重庆市文物局, 重庆市移民局编.</BIB_TITLE>
+  <PUB_DATE>2007</PUB_DATE>
+  <Z13_IMPRINT>03 Beijing : Ke xue chu ban she, 2007.</Z13_IMPRINT>
+  <CALL_NUMBER> DS796.C59247 C48 2007</CALL_NUMBER>
+  <VOLUME_INFO>v.1</VOLUME_INFO>
+  <BARCODE>31154050709177</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20140627</DATE_ADDED>
+  <BSN>004008348</BSN>
+  <BIB_TITLE>   Chongqing ku qu kao gu bao gao ji, 2000 juan / Chongqing Shi wen wu ju, Chongqing Shi yi min ju bian. //   重庆库区考古报告集, 2000卷 / 重庆市文物局, 重庆市移民局编.</BIB_TITLE>
+  <PUB_DATE>2007</PUB_DATE>
+  <Z13_IMPRINT>03 Beijing : Ke xue chu ban she, 2007.</Z13_IMPRINT>
+  <CALL_NUMBER> DS796.C59247 C479 2007</CALL_NUMBER>
+  <VOLUME_INFO>v.1</VOLUME_INFO>
+  <BARCODE>31154050709201</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20140627</DATE_ADDED>
+  <BSN>004008351</BSN>
+  <BIB_TITLE>   Wenjia Shan / Zhejiang Sheng wen wu kao gu yan jiu suo bian zhu. //   文家山 / 浙江省文物考古研究所编著.</BIB_TITLE>
+  <PUB_DATE>2011</PUB_DATE>
+  <Z13_IMPRINT>03 Beijing : Wen wu chu ban she, 2011.</Z13_IMPRINT>
+  <CALL_NUMBER> GN776.2.L52 W456 2011</CALL_NUMBER>
+  <BARCODE>31154050709227</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20140627</DATE_ADDED>
+  <BSN>004008356</BSN>
+  <BIB_TITLE>   Wuzhong bei jiao Bei Wei Tang mu / Ningxia wen wu kao gu yan jiu suo, Wuzhong Shi wen wu guan li suo bian zhu. //   吴忠北郊北魏唐墓 / 宁夏文物考古研究所, 吴忠市文物管理所编著.</BIB_TITLE>
+  <PUB_DATE>2009</PUB_DATE>
+  <Z13_IMPRINT>03 Beijing : Wen wu chu ban she, 2009.</Z13_IMPRINT>
+  <CALL_NUMBER> DS797.64.W89 W89 2009</CALL_NUMBER>
+  <BARCODE>31154050709243</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20140627</DATE_ADDED>
+  <BSN>003424241</BSN>
+  <BIB_TITLE>   Yiyang Chu mu / Yiyang Shi wen wu guan li chu, Yiyang Shi bo wu guan bian zhu. //   益阳楚墓 / 益阳市文物管理处, 益阳市博物馆编著.</BIB_TITLE>
+  <PUB_DATE>2008</PUB_DATE>
+  <Z13_IMPRINT>03 Beijing : Wen wu chu ban she, 2008.</Z13_IMPRINT>
+  <CALL_NUMBER> DS797.52.Y547 .Y57 2008</CALL_NUMBER>
+  <BARCODE>31154050709235</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20140630</DATE_ADDED>
+  <BSN>002776742</BSN>
+  <BIB_TITLE>  Bibel und Alter Orient : altorientalische Beiträge zum Alten Testament / von Wolfram von Soden ; herausgegeben von Hans-Peter Müller.</BIB_TITLE>
+  <BIB_AUTHOR>  Müller, Hans-Peter, 1934-2004, ed.</BIB_AUTHOR>
+  <PUB_DATE>1985</PUB_DATE>
+  <Z13_IMPRINT>Berlin ; New York : W. de Gruyter, 1985.</Z13_IMPRINT>
+  <CALL_NUMBER> BS410 .Z5 vol.162</CALL_NUMBER>
+  <Z30_NOTE_INTERNAL>Tadmor</Z30_NOTE_INTERNAL>
+  <BARCODE>31154050651627</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20140630</DATE_ADDED>
+  <BSN>004008411</BSN>
+  <BIB_TITLE>  Building inscriptions of the Neo-Babylonian empire. Part 1, Nabopolassar and Nebuchadnezzar / by Stephen Langdon.</BIB_TITLE>
+  <PUB_DATE>1905</PUB_DATE>
+  <Z13_IMPRINT>Paris : E. Leroux, 1905.</Z13_IMPRINT>
+  <CALL_NUMBER> PJ3833.N3 L36 1905</CALL_NUMBER>
+  <Z30_NOTE_INTERNAL>Tadmor</Z30_NOTE_INTERNAL>
+  <BARCODE>31154050651635</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20140630</DATE_ADDED>
+  <BSN>004008434</BSN>
+  <BIB_TITLE>  A commentary on Derech ereẓ zuta / Daniel Sperber.</BIB_TITLE>
+  <PUB_DATE>1990</PUB_DATE>
+  <Z13_IMPRINT>Ramat-Gan, Israel : Bar-Ilan University Press, [1990-]</Z13_IMPRINT>
+  <CALL_NUMBER> BM506.4.D6 S64 1990</CALL_NUMBER>
+  <Z30_NOTE_INTERNAL>Tadmor</Z30_NOTE_INTERNAL>
+  <BARCODE>31154050651650</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20140630</DATE_ADDED>
+  <BSN>002836612</BSN>
+  <BIB_TITLE>  Studies in third millennium history / by T. Burton-Brown.</BIB_TITLE>
+  <PUB_DATE>1946</PUB_DATE>
+  <Z13_IMPRINT>London : Luzac, 1946.</Z13_IMPRINT>
+  <CALL_NUMBER> D65 .B8 1946</CALL_NUMBER>
+  <Z30_NOTE_INTERNAL>Tadmor</Z30_NOTE_INTERNAL>
+  <BARCODE>31154050235371</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20140606</DATE_ADDED>
+  <BSN>003424242</BSN>
+  <BIB_TITLE>   Qin Han - Luoma wen ming zhan / Zhongguo guo jia wen wu ju, Yidali wen hua yi chan yu yi shu huo dong bu bian = Qin-Han and Roman civilizations / State Administration of Culture Heritage, China, Ministero per i beni e le attività culturali, Italy. //   秦漢-羅馬文明展 / 中国国家文物局, 意大利文化遗产与艺术活动部编 = Qin-Han and Roman civilizations / State Administration of Culture Heritage, China, Ministero per i beni e le attività culturali, Italy.</BIB_TITLE>
+  <PUB_DATE>2009</PUB_DATE>
+  <Z13_IMPRINT>03 Beijing : Wen wu chu ban she, 2009.</Z13_IMPRINT>
+  <CALL_NUMBER> N7343.23 Q25 2009</CALL_NUMBER>
+  <BARCODE>31154050707262</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20140606</DATE_ADDED>
+  <BSN>003676397</BSN>
+  <BIB_TITLE>   Mengguguo Haotengte Sumu Wubu'er Habuqile san hao si fang xing yi zhi fa jue bao gao (2006 nian) / Zhongguo Nei Menggu Zizhiqu wen wu kao gu yan jiu suo, Mengguguo you mu wen hua yan jiu guo ji xue yuan, Mengguguo guo jia bo wu guan bian ; zhu bian Tala, Enhetubuxin. //   蒙古国浩腾特苏木乌布尔哈布其勒三号四方形遗址发掘报告 (2006年) / 中国内蒙古自治区文物考古研究所, 蒙古国游牧文化研究国际学院, 蒙古国国家博物馆编 ; 主编 塔拉, 恩和图布信.</BIB_TITLE>
+  <BIB_AUTHOR>  Ėnkhtu̇vshin, B. (Batboldyn), 1952- </BIB_AUTHOR>
+  <PUB_DATE>2008</PUB_DATE>
+  <Z13_IMPRINT>04 Beijing Shi : Wen wu chu ban she, 2008.</Z13_IMPRINT>
+  <CALL_NUMBER> DS798.3 .M46 2008</CALL_NUMBER>
+  <BARCODE>31154050707270</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20140606</DATE_ADDED>
+  <BSN>003676398</BSN>
+  <BIB_TITLE>   Mengguguo gu dai you mu min zu wen hua yi cun kao gu diao cha bao gao : 2005-2006 nian / Zhongguo Nei Menggu Zizhiqu wen wu kao gu yan jiu suo, Mengguguo you mu wen hua yan jiu guo ji xue yuan, Mengguguo guo jia bo wu guan bian ; zhu bian Tala, Enhetubuxin. //   蒙古国古代游牧民族文化遗存考古调查报告 : 2005-2006年 / 中国内蒙古自治区文物考古研究所, 蒙古国游牧文化研究国际学院, 蒙古国国家博物馆编 ; 主编 塔拉, 恩和图布信.</BIB_TITLE>
+  <BIB_AUTHOR>  Ėnkhtu̇vshin, B. (Batboldyn), 1952- </BIB_AUTHOR>
+  <PUB_DATE>2008</PUB_DATE>
+  <Z13_IMPRINT>04 Beijing : Wen wu chu ban she, 2008.</Z13_IMPRINT>
+  <CALL_NUMBER> DS798.3 .M464 2008</CALL_NUMBER>
+  <BARCODE>31154050707288</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20140618</DATE_ADDED>
+  <BSN>004003036</BSN>
+  <BIB_TITLE>   Xian Qin kao gu yan jiu : ju luo xing tai, ren di guan xi yu zao qi Zhongguo / Han Jianye zhu. //   先秦考古研究 : 聚落形态, 人地关系与早期中国 / 韩建业著.</BIB_TITLE>
+  <PUB_DATE>2013</PUB_DATE>
+  <CALL_NUMBER> DS741.65 .H364 2013</CALL_NUMBER>
+  <BARCODE>31154050708393</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20140618</DATE_ADDED>
+  <BSN>004003050</BSN>
+  <BIB_TITLE>   Xian Qin Dongjiang Sanjiaozhou tao qi yan jiu = Pottery research of pre-Qin Dynasty of the Dongjiang River Delta / Lou Xinli zhu. //   先秦东江三角洲陶器研究 = Pottery research of pre-Qin Dynasty of the Dongjiang River Delta / 娄欣利著.</BIB_TITLE>
+  <PUB_DATE>2010</PUB_DATE>
+  <Z13_IMPRINT>04 Beijing : Ke xue chu ban she, 2010.</Z13_IMPRINT>
+  <CALL_NUMBER> NK4166.D66 L68 2010</CALL_NUMBER>
+  <BARCODE>31154050708419</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20140618</DATE_ADDED>
+  <BSN>004003152</BSN>
+  <BIB_TITLE>   Tian yi you feng : Zhongguo gu dai fang zhi pin bao hu xiu fu lun wen ji = Divine garments with seams : Thesis collection on Chinese ancient textile conservation and restoration / Zhongguo wen hua yi chan yan jiu yuan bian. //   天衣有缝 : 中国古代纺织品保护修复论文集 = Divine garments with seams : Thesis collection on Chinese ancient textile conservation and restoration / 中国文化遗产研究院编.</BIB_TITLE>
+  <PUB_DATE>2009</PUB_DATE>
+  <Z13_IMPRINT>04 Beijing : Wen wu chu ban she, 2009.</Z13_IMPRINT>
+  <CALL_NUMBER> NK8804.5 .T53 2009</CALL_NUMBER>
+  <BARCODE>31154050708450</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20140620</DATE_ADDED>
+  <BSN>004004550</BSN>
+  <BIB_TITLE>   Guyuan Kai cheng mu di / Ningxia wen wu kao gu yan jiu suo bian zhu. //   固原开城墓地 / 宁夏文物考古研究所编著.</BIB_TITLE>
+  <PUB_DATE>2006</PUB_DATE>
+  <Z13_IMPRINT>03 Beijing : Ke xue chu ban she, 2006.</Z13_IMPRINT>
+  <CALL_NUMBER> DS797.64.G89 G845 2006</CALL_NUMBER>
+  <BARCODE>31154050708666</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20140620</DATE_ADDED>
+  <BSN>004004560</BSN>
+  <BIB_TITLE>   Sanxia gu dai ju luo xing tai yan jiu / Cai Jinying zhu. //   三峡古代聚落形态研究 / 蔡金英著.</BIB_TITLE>
+  <PUB_DATE>2011</PUB_DATE>
+  <Z13_IMPRINT>04 Beijing : Ke xue chu ban she, 2011.</Z13_IMPRINT>
+  <CALL_NUMBER> DS793.Y3 C35 2011</CALL_NUMBER>
+  <BARCODE>31154050708682</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20140620</DATE_ADDED>
+  <BSN>004004578</BSN>
+  <BIB_TITLE>   Xinjiang Hetian Diqu fo ta qiang xian jia gu gong cheng bao gao / Xinjiang Weiwu'er Zizhiqu wen wu gu ji bao hu zhong xin bian. //   新疆和田地区佛塔抢险加固工程报告 / 新疆维吾尔自治区文物古迹保护中心编.</BIB_TITLE>
+  <PUB_DATE>2012</PUB_DATE>
+  <CALL_NUMBER> DS797.84.H673 X55 2012</CALL_NUMBER>
+  <BARCODE>31154050708708</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20140620</DATE_ADDED>
+  <BSN>004004588</BSN>
+  <BIB_TITLE>  Ancient Mesopotamia : humankind's long journey into civilization / by Petr Charvát.</BIB_TITLE>
+  <PUB_DATE>1993</PUB_DATE>
+  <Z13_IMPRINT>Prague : Oriental Institute, 1993.</Z13_IMPRINT>
+  <CALL_NUMBER> DS70.7 .C47 1993</CALL_NUMBER>
+  <Z30_NOTE_INTERNAL>Tadmor</Z30_NOTE_INTERNAL>
+  <BARCODE>31154050651080</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20140620</DATE_ADDED>
+  <BSN>004004601</BSN>
+  <BIB_TITLE>  Sinai and Palestine, in connection with their history / by Arthur Penrhyn Stanley.</BIB_TITLE>
+  <PUB_DATE>1905</PUB_DATE>
+  <Z13_IMPRINT>London : J. Murray, 1905.</Z13_IMPRINT>
+  <CALL_NUMBER> DS107 .S787 1905</CALL_NUMBER>
+  <Z30_NOTE_INTERNAL>Tadmor</Z30_NOTE_INTERNAL>
+  <BARCODE>31154050235330</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20140620</DATE_ADDED>
+  <BSN>002747122</BSN>
+  <BIB_TITLE>  In the world of Sumer : an autobiography / Samuel Noah Kramer.</BIB_TITLE>
+  <PUB_DATE>1986</PUB_DATE>
+  <Z13_IMPRINT>Detroit : Wayne State University Press, 1986.</Z13_IMPRINT>
+  <CALL_NUMBER> PJ3164.K73 A3 1986</CALL_NUMBER>
+  <Z30_NOTE_INTERNAL>Tadmor</Z30_NOTE_INTERNAL>
+  <BARCODE>31154050651114</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20140620</DATE_ADDED>
+  <BSN>004004652</BSN>
+  <BIB_TITLE>  The passing of the empires : 850 B.C. to 330 B.C. / by G. Maspero ; edited by A.H. Sayce ; translated by M.L. McClure.</BIB_TITLE>
+  <BIB_AUTHOR>  Sayce, A. H. (Archibald Henry), 1845-1933 ed. //  McClure, M. L., -1918, tr.</BIB_AUTHOR>
+  <PUB_DATE>1900</PUB_DATE>
+  <Z13_IMPRINT>London : Society for Promoting Christian Knowledge, 1900.</Z13_IMPRINT>
+  <CALL_NUMBER> DS62 .M41513 1900b</CALL_NUMBER>
+  <Z30_NOTE_INTERNAL>Tadmor</Z30_NOTE_INTERNAL>
+  <BARCODE>31154050651148</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20140620</DATE_ADDED>
+  <BSN>004004657</BSN>
+  <BIB_TITLE>   Luoyang Wangcheng guang chang dong Zhou mu / Luoyang Shi wen wu gong zuo dui bian zhu. //   洛阳王城广场东周墓 / 洛阳市文物工作队编著.</BIB_TITLE>
+  <PUB_DATE>2009</PUB_DATE>
+  <Z13_IMPRINT>03 Beijing : Wen wu chu ban she, 2009.</Z13_IMPRINT>
+  <CALL_NUMBER> DS797.44.L84 L93 2009</CALL_NUMBER>
+  <BARCODE>31154050708716</BARCODE>
+ </ROW>
+  <ROW>
+  <DATE_ADDED>20140618</DATE_ADDED>
+  <BSN>002618307</BSN>
+  <BIB_TITLE>  A history of Sumer and Akkad : an account of the early races of Babylonia from prehistoric times to the foundation of the Babylonian monarchy / by Leonard W. King.</BIB_TITLE>
+  <PUB_DATE>1910</PUB_DATE>
+  <Z13_IMPRINT>London : Chatto &amp; Windus, 1910.</Z13_IMPRINT>
+  <CALL_NUMBER> DS71 .K535 1910</CALL_NUMBER>
+  <Z30_NOTE_INTERNAL>Tadmor</Z30_NOTE_INTERNAL>
+  <BARCODE>31154050235207</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20140630</DATE_ADDED>
+  <BSN>001815417</BSN>
+  <BIB_TITLE>  Divine war in the Old Testament and in the ancient Near East / Sa-Moon Kang.</BIB_TITLE>
+  <PUB_DATE>1989</PUB_DATE>
+  <Z13_IMPRINT>Berlin ; New York : W. de Gruyter, 1989.</Z13_IMPRINT>
+  <CALL_NUMBER> BS410 .Z5 vol.177</CALL_NUMBER>
+  <Z30_NOTE_INTERNAL>Tadmor</Z30_NOTE_INTERNAL>
+  <BARCODE>31154050651585</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20140610</DATE_ADDED>
+  <BSN>003999821</BSN>
+  <BIB_TITLE>  Plano-convex bricks and the methods of their employment ; The treatment of clay tablets in the field / by P. Delougaz.</BIB_TITLE>
+  <PUB_DATE>1933</PUB_DATE>
+  <Z13_IMPRINT>Chicago : University of Chicago Press, 1933.</Z13_IMPRINT>
+  <CALL_NUMBER> TP826.5.I72 D45 1933</CALL_NUMBER>
+  <Z30_NOTE_INTERNAL>Tadmor</Z30_NOTE_INTERNAL>
+  <BARCODE>31154050235124</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20140610</DATE_ADDED>
+  <BSN>003999843</BSN>
+  <BIB_TITLE>   Shang wen ming de xing cheng / Zhang Weilian zhu. //   商文明的形成 / 张渭莲著.</BIB_TITLE>
+  <PUB_DATE>2008</PUB_DATE>
+  <Z13_IMPRINT>04 Beijing : Wen wu chu ban she, 2008.</Z13_IMPRINT>
+  <CALL_NUMBER> DS744 .Z43 2008</CALL_NUMBER>
+  <BARCODE>31154050707577</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20140610</DATE_ADDED>
+  <BSN>003999866</BSN>
+  <BIB_TITLE>  The scepter and the star : the messiahs of the Dead Sea Scrolls and other ancient literature / by John J. Collins.</BIB_TITLE>
+  <PUB_DATE>1995</PUB_DATE>
+  <Z13_IMPRINT>New York : Doubleday, [1995]</Z13_IMPRINT>
+  <CALL_NUMBER> BM487 .C57 1995b</CALL_NUMBER>
+  <Z30_NOTE_INTERNAL>Tadmor</Z30_NOTE_INTERNAL>
+  <BARCODE>31154050650710</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20140610</DATE_ADDED>
+  <BSN>003999873</BSN>
+  <BIB_TITLE>   Duo wei shi yu : Shang wang chao yu Zhongguo zao qi wen ming yan jiu / Jing Zhichun, Tang Jigen, Gaodao qianyi bian. //   多维视域 : 商王朝与中国早期文明研究 / 荊志淳, 唐际根, 高嶋谦一编.</BIB_TITLE>
+  <BIB_AUTHOR>  Jing, Zhichun  //  Takashima, Ken'ichi, 1939-  //  Tang, Jigen </BIB_AUTHOR>
+  <PUB_DATE>2009</PUB_DATE>
+  <Z13_IMPRINT>04 Beijing : Ke xue chu ban she, 2009.</Z13_IMPRINT>
+  <CALL_NUMBER> DS744 .D86 2008</CALL_NUMBER>
+  <BARCODE>31154050707601</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20140610</DATE_ADDED>
+  <BSN>003999894</BSN>
+  <BIB_TITLE>   Zhongguo wen ming qi yuan yan jiu yao lan / Zhongguo she hui ke xue yuan kao gu yan jiu suo, Zhongguo she hui ke xue yuan gu dai wen ming yan jiu zhong xin. //   中国文明起源硏究要览 / 中国社会科学院考古硏究所, 中国社会科学院古代文明硏究中心.</BIB_TITLE>
+  <PUB_DATE>2003</PUB_DATE>
+  <Z13_IMPRINT>03 Beijing : Wen wu chu ban she, 2003.</Z13_IMPRINT>
+  <CALL_NUMBER> DS721 .Z5558 2003</CALL_NUMBER>
+  <BARCODE>31154050707619</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20140606</DATE_ADDED>
+  <BSN>003998830</BSN>
+  <BIB_TITLE>   Menggu min zu zhan lu wen hua / Zhang Tong. //   蒙古民族毡庐文化 / 张彤编著.</BIB_TITLE>
+  <PUB_DATE>2008</PUB_DATE>
+  <CALL_NUMBER> DS731.M64 Z42 2008</CALL_NUMBER>
+  <BARCODE>31154050707296</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20140606</DATE_ADDED>
+  <BSN>003998834</BSN>
+  <BIB_TITLE>   Menggu min zu you le wen hua / Zheng Hongkui, Guo Qing, Chen Liqin bian zhu. //   蒙古民族游乐文化 / 郑宏奎, 国庆, 陈丽琴编著.</BIB_TITLE>
+  <BIB_AUTHOR>  Chen, Liqin </BIB_AUTHOR>
+  <PUB_DATE>2008</PUB_DATE>
+  <Z13_IMPRINT>04 Beijing : Wen wu chu ban she, 2008.</Z13_IMPRINT>
+  <CALL_NUMBER> DS731.M64 Z536 2008</CALL_NUMBER>
+  <BARCODE>31154050707304</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20140619</DATE_ADDED>
+  <BSN>004003864</BSN>
+  <BIB_TITLE>   Zhangjiakou gu tao ci ji cui / Zhangjiakou Shi wen wu kao gu yan jiu suo bian zhu. //   张家口古陶瓷集萃 / 张家口市文物考古研究所编著.</BIB_TITLE>
+  <PUB_DATE>2008</PUB_DATE>
+  <Z13_IMPRINT>03 Beijing : Ke xue chu ban she, 2008.</Z13_IMPRINT>
+  <CALL_NUMBER> NK4166.Z424 Z43 2008</CALL_NUMBER>
+  <BARCODE>31154050708625</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20140619</DATE_ADDED>
+  <BSN>004003876</BSN>
+  <BIB_TITLE>   Xuzhou Cui Dao gu ju shang yuan xiu shan gong cheng bao gao / Sun Tongyi, Sun Jiding bian zhu. //   徐州崔焘故居上院修缮工程报告 / 孙统义,孙继鼎编著.</BIB_TITLE>
+  <PUB_DATE>2012</PUB_DATE>
+  <Z13_IMPRINT>04 Beijing : Ke xue chu ban she, 2012.</Z13_IMPRINT>
+  <CALL_NUMBER> NA7450.X89 S86 2012</CALL_NUMBER>
+  <BARCODE>31154050708633</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20140619</DATE_ADDED>
+  <BSN>004003899</BSN>
+  <BIB_TITLE>   Yu zhen jin sheng : yu qi, jin yin qi kao gu xue yan jiu / Lu Zhaoyin zhu. //   玉振金声 : 玉器・金银器考古学研究 / 卢兆荫著.</BIB_TITLE>
+  <PUB_DATE>2007</PUB_DATE>
+  <Z13_IMPRINT>05 Beijing : Ke xue chu ban she, 2007.</Z13_IMPRINT>
+  <CALL_NUMBER> NK5750.2.C6 L798 2007</CALL_NUMBER>
+  <BARCODE>31154050708658</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20140625</DATE_ADDED>
+  <BSN>004007016</BSN>
+  <BIB_TITLE>  "Gilgamesh, Enkidu and the Netherworld" and the Sumerian Gilgamesh cycle / by Alhena Gadotti.</BIB_TITLE>
+  <PUB_DATE>2014</PUB_DATE>
+  <CALL_NUMBER> PJ3771.G6 G23 2014</CALL_NUMBER>
+  <BARCODE>31154050651411</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20140625</DATE_ADDED>
+  <BSN>003569512</BSN>
+  <BIB_TITLE>   Chaoyang Yuantaizi : Zhan guo Xi Han yi zhi he Xi Zhou zhi shi liu guo shi qi mu zang / Liaoning Sheng wen wu kao gu yan jiu suo, Chaoyang Shi bo wu guan bian ; Wang Chengsheng bian zhu. //   朝阳袁台子 : 战国西汉遗址和西周至十六国时期墓葬 / 辽宁省文物考古研究所, 朝阳市博物馆编 ; 王成生编著.</BIB_TITLE>
+  <PUB_DATE>2010</PUB_DATE>
+  <Z13_IMPRINT>04 Beijing : Wen wu chu ban she, 2010.</Z13_IMPRINT>
+  <CALL_NUMBER> DS797.62.C536 C534 2010</CALL_NUMBER>
+  <BARCODE>31154050708971</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20140625</DATE_ADDED>
+  <BSN>003416874</BSN>
+  <BIB_TITLE>  Der römische Kaiser und das Land am Nil : Kaiserverehrung und Kaiserkult in Alexandria und Ägypten von Augustus bis Caracalla (30 v. Chr. - 217 n. Chr.) / Stefan Pfeiffer.</BIB_TITLE>
+  <PUB_DATE>2010</PUB_DATE>
+  <Z13_IMPRINT>Stuttgart : Franz Steiner Verlag, 2010.</Z13_IMPRINT>
+  <CALL_NUMBER> DG124 .P355 2010</CALL_NUMBER>
+  <BARCODE>31154050651403</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20140609</DATE_ADDED>
+  <BSN>003275744</BSN>
+  <BIB_TITLE>   Gansu si chou zhi lu wen ming = Civilization along the Silk Road within Gansu / Gansu Sheng bo wu guan bian ; Han Bowen zhu bian. //   甘肅絲綢之路文明 = Civilization along the Silk Road within Gansu / 甘肃省博物馆编 ; 韩博文主编.</BIB_TITLE>
+  <BIB_AUTHOR>  Han, Bowen </BIB_AUTHOR>
+  <PUB_DATE>2008</PUB_DATE>
+  <CALL_NUMBER> DS793.K2 G36 2008</CALL_NUMBER>
+  <BARCODE>31154050707338</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20140617</DATE_ADDED>
+  <BSN>003998868</BSN>
+  <BIB_TITLE>  Papers on Italian urbanism in the first millennium B.C. / edited by Elizabeth C. Robinson ; with contributions by P.A.J. Attema ... [et al.].</BIB_TITLE>
+  <BIB_AUTHOR>  Robinson, Elizabeth C., ed.</BIB_AUTHOR>
+  <PUB_DATE>2014</PUB_DATE>
+  <Z13_IMPRINT>Portsmouth, R.I. : Journal of Roman Archaeology, 2014.</Z13_IMPRINT>
+  <CALL_NUMBER> DG81 .P37 2014</CALL_NUMBER>
+  <BARCODE>31154050650876</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20140610</DATE_ADDED>
+  <BSN>003999846</BSN>
+  <BIB_TITLE>   Yinxu gong dian qu jian zhu ji zhi yan jiu / Du Jinpeng zhu. //   殷墟宮殿区建筑基址研究 / 杜金鹏著.</BIB_TITLE>
+  <PUB_DATE>2010</PUB_DATE>
+  <Z13_IMPRINT>04 Beijing : Ke xue chu ban she, 2010.</Z13_IMPRINT>
+  <CALL_NUMBER> D8 2010 DS744.2</CALL_NUMBER>
+  <BARCODE>31154050707585</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20140610</DATE_ADDED>
+  <BSN>003999857</BSN>
+  <BIB_TITLE>   Tu shuo Yinxu jia gu wen / Han Jiantang zhu ; Han Jiantang cha tu. //   图说殷墟甲骨文 / 韩鉴堂著 ; 韩鉴堂插图.</BIB_TITLE>
+  <PUB_DATE>2009</PUB_DATE>
+  <Z13_IMPRINT>04 Beijing : Wen wu chu ban she, 2009.</Z13_IMPRINT>
+  <CALL_NUMBER> PL2457.A5 H36 2009</CALL_NUMBER>
+  <BARCODE>31154050707593</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20140610</DATE_ADDED>
+  <BSN>003999879</BSN>
+  <BIB_TITLE>  From the land of the Bible : guide to the exhibition, 26 October - 31 December, 1954.</BIB_TITLE>
+  <PUB_DATE>1954</PUB_DATE>
+  <Z13_IMPRINT>[London] : Office of the exhibition From the land of the Bible, [1954]</Z13_IMPRINT>
+  <CALL_NUMBER> DS111 .B75 1954</CALL_NUMBER>
+  <Z30_NOTE_INTERNAL>Tadmor</Z30_NOTE_INTERNAL>
+  <BARCODE>31154050650728</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20140606</DATE_ADDED>
+  <BSN>003998708</BSN>
+  <BIB_TITLE>   Zhongguo mei shu jian cang shi gao = Aoutline [sic] history of the Chinese art appreciation and collection / Liang Jiang zhu. //   中国美术鉴藏史稿 = Aoutline [sic] history of the Chinese art appreciation and collection / 梁江著.</BIB_TITLE>
+  <PUB_DATE>2009</PUB_DATE>
+  <Z13_IMPRINT>04 Beijing : Wen wu chu ban she, 2009.</Z13_IMPRINT>
+  <CALL_NUMBER> N7485.C6 L55 2009</CALL_NUMBER>
+  <BARCODE>31154050707221</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20140606</DATE_ADDED>
+  <BSN>003998722</BSN>
+  <BIB_TITLE>   Shanxi Fo jiao yi shu / Li Song zhu. //   陕西佛教艺术 / 李凇著.</BIB_TITLE>
+  <PUB_DATE>2008</PUB_DATE>
+  <CALL_NUMBER> N8193.C6 L4 2008</CALL_NUMBER>
+  <BARCODE>31154050707239</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20140606</DATE_ADDED>
+  <BSN>003998726</BSN>
+  <BIB_TITLE>   Nei Menggu dong bu (Chifeng) qu yu kao gu diao cha jie duan xing bao gao / Chifeng Zhong Mei lian he kao gu yan jiu xiang mu [bian zhu] = Regional archeology in Eastern Inner Mongolia : a methodological exploration / The Chifeng International Collaborative Archeological Research Project. //   內蒙古东部 (赤峰) 区域考古调查阶段性报告 / 赤峰中美联合考古硏究项目 [编著] = Regional archeology in Eastern Inner Mongolia : a methodological exploration / The Chifeng International Collaborative Archeological Research Project.</BIB_TITLE>
+  <PUB_DATE>2003</PUB_DATE>
+  <Z13_IMPRINT>03 Beijing : Ke xue chu ban she, 2003.</Z13_IMPRINT>
+  <CALL_NUMBER> DS797.54.C484 N43 2003</CALL_NUMBER>
+  <BARCODE>31154050707247</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20140606</DATE_ADDED>
+  <BSN>003998780</BSN>
+  <BIB_TITLE>   Ningxia gu ren lei xue yan jiu bao gao ji / Han kang xin, tan jing ze zhu. //   宁夏古人类学研究报告集 / 韩康信,谭婧泽著.</BIB_TITLE>
+  <BIB_AUTHOR>  Tan, Jingze, 1966-  author.</BIB_AUTHOR>
+  <PUB_DATE>2009</PUB_DATE>
+  <CALL_NUMBER> GN776.C5 H26 2009</CALL_NUMBER>
+  <BARCODE>31154050707254</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20140617</DATE_ADDED>
+  <BSN>001744299</BSN>
+  <BIB_TITLE>  The Aramaeans : their ancient history, culture, religion / by Edward Lipiński.</BIB_TITLE>
+  <PUB_DATE>2000</PUB_DATE>
+  <Z13_IMPRINT>Leuven ; Sterling, Va. : Peeters, 2000.</Z13_IMPRINT>
+  <CALL_NUMBER> DS59.A7 L57 2000</CALL_NUMBER>
+  <Z30_NOTE_INTERNAL>Tadmor</Z30_NOTE_INTERNAL>
+  <BARCODE>31154050650884</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20140627</DATE_ADDED>
+  <BSN>000735558</BSN>
+  <BIB_TITLE>  The land that I will show you : essays on the history and archaeology of the ancient Near East in honour of J. Maxwell Miller / edited by J. Andrew Dearman and M. Patrick Graham.</BIB_TITLE>
+  <BIB_AUTHOR>  Miller, J. Maxwell (James Maxwell), 1937- //  Graham, M. Patrick (Matt Patrick), 1950- ed. //  Dearman, J. Andrew (John Andrew), 1951- ed.</BIB_AUTHOR>
+  <PUB_DATE>2001</PUB_DATE>
+  <Z13_IMPRINT>Sheffield, England : Sheffield Academic Press, c2001.</Z13_IMPRINT>
+  <CALL_NUMBER> DS111 .L348 2001</CALL_NUMBER>
+  <Z30_NOTE_INTERNAL>Tadmor</Z30_NOTE_INTERNAL>
+  <BARCODE>31154050651569</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20140630</DATE_ADDED>
+  <BSN>001242499</BSN>
+  <BIB_TITLE>  Der Chronist in seiner Mitwelt / Joel Weinberg.</BIB_TITLE>
+  <PUB_DATE>1996</PUB_DATE>
+  <Z13_IMPRINT>New York ; Berlin : W. de Gruyter, 1996.</Z13_IMPRINT>
+  <CALL_NUMBER> BS410 .Z5 vol.239</CALL_NUMBER>
+  <Z30_NOTE_INTERNAL>Tadmor</Z30_NOTE_INTERNAL>
+  <BARCODE>31154050651577</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20140630</DATE_ADDED>
+  <BSN>002398279</BSN>
+  <BIB_TITLE>  Prophetic conflict : its effect upon Israelite religion / James L. Crenshaw.</BIB_TITLE>
+  <PUB_DATE>1971</PUB_DATE>
+  <Z13_IMPRINT>Berlin ; New York : W. de Gruyter, 1971.</Z13_IMPRINT>
+  <CALL_NUMBER> BS410 .Z5 vol.124</CALL_NUMBER>
+  <Z30_NOTE_INTERNAL>Tadmor</Z30_NOTE_INTERNAL>
+  <BARCODE>31154050651601</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20140630</DATE_ADDED>
+  <BSN>002458447</BSN>
+  <BIB_TITLE>  Myth in Old Testament interpretation / J.W. Rogerson.</BIB_TITLE>
+  <PUB_DATE>1974</PUB_DATE>
+  <Z13_IMPRINT>Berlin ; New York : W. de Gruyter, 1974.</Z13_IMPRINT>
+  <CALL_NUMBER> BS410 .Z5 vol.134</CALL_NUMBER>
+  <Z30_NOTE_INTERNAL>Tadmor</Z30_NOTE_INTERNAL>
+  <BARCODE>31154050651619</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20140619</DATE_ADDED>
+  <BSN>003384928</BSN>
+  <BIB_TITLE>  Origins of agriculture in western Central Asia : an environmental-archaeological study / David R. Harris ; with contributions from Eleni Asouti ... [et al.].</BIB_TITLE>
+  <PUB_DATE>2010</PUB_DATE>
+  <Z13_IMPRINT>Philadelphia : Published for the University of Pennsylvania Museum of Archaeology and Anthropology b</Z13_IMPRINT>
+  <CALL_NUMBER> GN855.T85 H37 2010</CALL_NUMBER>
+  <BARCODE>31154050650967</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20140619</DATE_ADDED>
+  <BSN>003428239</BSN>
+  <BIB_TITLE>  Botanical aspects of environment and economy at Gordion, Turkey / Naomi F. Miller.</BIB_TITLE>
+  <PUB_DATE>2010</PUB_DATE>
+  <Z13_IMPRINT>Philadelphia : Published for the University of Pennsylvania Museum of Archaeology and Anthropology b</Z13_IMPRINT>
+  <CALL_NUMBER> DS156.G6 M55 2010</CALL_NUMBER>
+  <BARCODE>31154050650975</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20140619</DATE_ADDED>
+  <BSN>003597064</BSN>
+  <BIB_TITLE>   Dunhuang shi ku zao xiang si xiang yan jiu = A study of the thoughts in the images in Mogao Caves at Dunhuang / Lai Pengju zhu. //   敦煌石窟造像思想研究 = A study of the thoughts in the images in Mogao Caves at Dunhuang / 賴鵬舉著.</BIB_TITLE>
+  <PUB_DATE>2009</PUB_DATE>
+  <Z13_IMPRINT>04 Beijing Shi : Wen wu chu ban she, 2009.</Z13_IMPRINT>
+  <CALL_NUMBER> NB1912.B83 L27 2009</CALL_NUMBER>
+  <BARCODE>31154050708567</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20140612</DATE_ADDED>
+  <BSN>004000664</BSN>
+  <BIB_TITLE>  İstanbul Arkeoloji Müzelerinde bulunan Sumer edebî tablet ve parçaları = Sumerian literary tablets and fragments in the Archaeological Museum of Istanbul / Muazzez Çiğ, Hatice Kızılyay ; giriş ve katalog, Samuel Noah Kramer.</BIB_TITLE>
+  <BIB_AUTHOR>  Kızılyay, H. (Hatice) //  Kramer, Samuel Noah, 1897-1990.</BIB_AUTHOR>
+  <PUB_DATE>1969</PUB_DATE>
+  <Z13_IMPRINT>Ankara : Türk Tarih Kurumu Basımevi, 1969-</Z13_IMPRINT>
+  <CALL_NUMBER> PJ4053.I8 C54 1969</CALL_NUMBER>
+  <VOLUME_INFO>v.1</VOLUME_INFO>
+  <Z30_NOTE_INTERNAL>Tadmor</Z30_NOTE_INTERNAL>
+  <BARCODE>31154050650843</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20140612</DATE_ADDED>
+  <BSN>004000665</BSN>
+  <BIB_TITLE>   Shanxi Shende Si ta chu tu wen xian : Shanxi Sheng Tongchuan Shi Yaozhou Qu bo wu guan cang pin / zhu bian Huang Zheng ; fu zhu bian Wang Xuemei. //   陝西神德寺塔出土文獻 : 陝西省銅川市耀州區博物館藏品 / 主編黄征 ; 副主编王雪梅.</BIB_TITLE>
+  <BIB_AUTHOR>  Wang, Xuemei </BIB_AUTHOR>
+  <PUB_DATE>2012</PUB_DATE>
+  <Z13_IMPRINT>05 Nanjing Shi : Feng huang chu ban she, 2012.</Z13_IMPRINT>
+  <CALL_NUMBER> DS797.68.T6 S536 2012</CALL_NUMBER>
+  <VOLUME_INFO>v.1</VOLUME_INFO>
+  <BARCODE>31154050707841</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20140612</DATE_ADDED>
+  <BSN>004000669</BSN>
+  <BIB_TITLE>   Xin Zhongguo chu tu mu zhi / Zhongguo wen wu yan jiu suo, Beijing shi ke yi shu bo wu guan bian. //   新中國出土墓誌 / 中國文物硏究所.</BIB_TITLE>
+  <PUB_DATE>1994</PUB_DATE>
+  <Z13_IMPRINT>03 [Beijing] : Wen wu chu ban she, 1994-</Z13_IMPRINT>
+  <CALL_NUMBER> PN6297.C45 X533 1994</CALL_NUMBER>
+  <VOLUME_INFO>v.1:no.2:pt.1</VOLUME_INFO>
+  <BARCODE>31154050707874</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20140620</DATE_ADDED>
+  <BSN>002470222</BSN>
+  <BIB_TITLE>  Roman Palestine, 200-400, money and prices / Daniel Sperber.</BIB_TITLE>
+  <PUB_DATE>1974</PUB_DATE>
+  <Z13_IMPRINT>Ramat-Gan : Bar-Ilan University, 1974.</Z13_IMPRINT>
+  <CALL_NUMBER> HG237 .S6 1974</CALL_NUMBER>
+  <Z30_NOTE_INTERNAL>Tadmor</Z30_NOTE_INTERNAL>
+  <BARCODE>31154050651072</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20140620</DATE_ADDED>
+  <BSN>001189825</BSN>
+  <BIB_TITLE>  L'armée et l'organisation militaire de l'Assyrie : d'après les lettres des Sargonides trouvées à Ninive / Florence Malbran-Labat.</BIB_TITLE>
+  <PUB_DATE>1982</PUB_DATE>
+  <Z13_IMPRINT>Genève : Droz, 1982.</Z13_IMPRINT>
+  <CALL_NUMBER> U31 .M35 1982</CALL_NUMBER>
+  <Z30_NOTE_INTERNAL>Tadmor</Z30_NOTE_INTERNAL>
+  <BARCODE>31154050651098</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20140620</DATE_ADDED>
+  <BSN>002534322</BSN>
+  <BIB_TITLE>  The megalith builders / Euan MacKie.</BIB_TITLE>
+  <PUB_DATE>1977</PUB_DATE>
+  <Z13_IMPRINT>Oxford : Phaidon, 1977.</Z13_IMPRINT>
+  <CALL_NUMBER> GN790 .M3 1977</CALL_NUMBER>
+  <Z30_NOTE_INTERNAL>Tadmor</Z30_NOTE_INTERNAL>
+  <BARCODE>31154050651106</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20140620</DATE_ADDED>
+  <BSN>002569883</BSN>
+  <BIB_TITLE>  Roman Palestine, 200-400, the land : crisis and change in agrarian society as reflected in rabbinic sources / Daniel Sperber.</BIB_TITLE>
+  <PUB_DATE>1978</PUB_DATE>
+  <Z13_IMPRINT>Ramat-Gan : Bar-Ilan University, 1978.</Z13_IMPRINT>
+  <CALL_NUMBER> DS123.5 .S63 1978</CALL_NUMBER>
+  <Z30_NOTE_INTERNAL>Tadmor</Z30_NOTE_INTERNAL>
+  <BARCODE>31154050651130</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20140620</DATE_ADDED>
+  <BSN>002520180</BSN>
+  <BIB_TITLE>  Middle East archaeology / Sir Leonard Woolley.</BIB_TITLE>
+  <PUB_DATE>1949</PUB_DATE>
+  <Z13_IMPRINT>London ; New York : Oxford University Press, 1949.</Z13_IMPRINT>
+  <CALL_NUMBER> DS56 .W6 1949</CALL_NUMBER>
+  <Z30_NOTE_INTERNAL>Tadmor</Z30_NOTE_INTERNAL>
+  <BARCODE>31154050651155</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20140620</DATE_ADDED>
+  <BSN>001499871</BSN>
+  <BIB_TITLE>  From epic to canon : history and literature in ancient Israel / Frank Moore Cross.</BIB_TITLE>
+  <PUB_DATE>1998</PUB_DATE>
+  <Z13_IMPRINT>Baltimore ; London : Johns Hopkins University press, 1998.</Z13_IMPRINT>
+  <CALL_NUMBER> BS1171.2 .C77 1998</CALL_NUMBER>
+  <Z30_NOTE_INTERNAL>Tadmor</Z30_NOTE_INTERNAL>
+  <BARCODE>31154050651163</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20140609</DATE_ADDED>
+  <BSN>001585772</BSN>
+  <BIB_TITLE>  History and historical writing in ancient Israel : studies in biblical historiography / by Tomoo Ishida.</BIB_TITLE>
+  <PUB_DATE>1999</PUB_DATE>
+  <Z13_IMPRINT>Leiden ; Boston : Brill, 1999.</Z13_IMPRINT>
+  <CALL_NUMBER> DS121.3 .I75 1999</CALL_NUMBER>
+  <Z30_NOTE_INTERNAL>Tadmor</Z30_NOTE_INTERNAL>
+  <BARCODE>31154050650678</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20140609</DATE_ADDED>
+  <BSN>000909802</BSN>
+  <BIB_TITLE>  Biblical ideas of nationality : ancient and modern / Steven Grosby.</BIB_TITLE>
+  <PUB_DATE>2002</PUB_DATE>
+  <Z13_IMPRINT>Winona Lake, Ind. : Eisenbrauns, 2002.</Z13_IMPRINT>
+  <CALL_NUMBER> BS1199.N3 G76 2002</CALL_NUMBER>
+  <Z30_NOTE_INTERNAL>Tadmor</Z30_NOTE_INTERNAL>
+  <BARCODE>31154050650694</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20140609</DATE_ADDED>
+  <BSN>003999734</BSN>
+  <BIB_TITLE>   Dong Hu, Wuhuan, Xianbei yan jiu ji cheng / zhu bian : Sun Hai Lin Xinjian. //   东胡、乌桓、鲜卑研究集成 / 主编：孙海, 蔺新建.</BIB_TITLE>
+  <BIB_AUTHOR>  Sun, Hai  //  Lin, Xinjian </BIB_AUTHOR>
+  <PUB_DATE>2010</PUB_DATE>
+  <Z13_IMPRINT>04 Zhengzhou : Zhongzhou gu ji chu ban she, 2010.</Z13_IMPRINT>
+  <CALL_NUMBER> DS748.17 .D66 2010</CALL_NUMBER>
+  <VOLUME_INFO>v.12</VOLUME_INFO>
+  <BARCODE>31154050707510</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20140609</DATE_ADDED>
+  <BSN>003999761</BSN>
+  <BIB_TITLE>   Menggu min zu yin shi wen hua / Feng Xueqin, Alatanbaolige bian zhu. //   蒙古民族饮食文化 / 冯雪琴, 阿拉坦宝力格编著.</BIB_TITLE>
+  <PUB_DATE>2008</PUB_DATE>
+  <Z13_IMPRINT>04 Beijing Shi : Wen wu chu ban she, 2008.</Z13_IMPRINT>
+  <CALL_NUMBER> GT2853.M65 F45 2008</CALL_NUMBER>
+  <BARCODE>31154050707528</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20140609</DATE_ADDED>
+  <BSN>003999747</BSN>
+  <BIB_TITLE>  The Hyksos reconsidered / by Robert M. Engberg.</BIB_TITLE>
+  <PUB_DATE>1939</PUB_DATE>
+  <Z13_IMPRINT>Chicago : University of Chicago Press, 1939.</Z13_IMPRINT>
+  <CALL_NUMBER> DT86 .E54 1939</CALL_NUMBER>
+  <Z30_NOTE_INTERNAL>Tadmor</Z30_NOTE_INTERNAL>
+  <BARCODE>31154050650702</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20140609</DATE_ADDED>
+  <BSN>003999769</BSN>
+  <BIB_TITLE>   Zeng guo qing tong qi / Hubei Sheng wen wu kao gu yan jiu suo bian. //   曾国青铜器 / 湖北省文物考古研究所编.</BIB_TITLE>
+  <PUB_DATE>2007</PUB_DATE>
+  <Z13_IMPRINT>03 Beijing : Wen wu chu ban she, 2007.</Z13_IMPRINT>
+  <CALL_NUMBER> DS797.48.S85 Z47 2007</CALL_NUMBER>
+  <BARCODE>31154050707536</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20140609</DATE_ADDED>
+  <BSN>003105274</BSN>
+  <BIB_TITLE>   Zhangjiapo xi Zhou yu qi / Zhongguo she hui ke xue yuan kao gu yan jiu suo bian zhu. //   张家坡西周玉器 / 中国社会科学院考古研究所编著.</BIB_TITLE>
+  <PUB_DATE>2007</PUB_DATE>
+  <Z13_IMPRINT>03 Beijing : Wen wu chu ban she, 2007.</Z13_IMPRINT>
+  <CALL_NUMBER> DS797.68.Z474 Z47 2007</CALL_NUMBER>
+  <BARCODE>31154050707544</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20140610</DATE_ADDED>
+  <BSN>003999777</BSN>
+  <BIB_TITLE>   Shang xi mu zang yan jiu = A study of Shang burial system / Gao Xiangping zhu. //   商系墓葬研究 = A study of Shang burial system / 郜向平著.</BIB_TITLE>
+  <PUB_DATE>2011</PUB_DATE>
+  <Z13_IMPRINT>04 Beijing : Ke xue chu ban she, 2011.</Z13_IMPRINT>
+  <CALL_NUMBER> GT3283.A2 G36 2011</CALL_NUMBER>
+  <BARCODE>31154050707551</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20140610</DATE_ADDED>
+  <BSN>003999825</BSN>
+  <BIB_TITLE>   Shang Zhou shi qi che ma mai zang yan jiu / Wu Xiaoyun zhu. //   商周时期车马埋葬研究 / 吴晓筠著.</BIB_TITLE>
+  <PUB_DATE>2009</PUB_DATE>
+  <Z13_IMPRINT>04 Beijing : Ke xue chu ban she, 2009.</Z13_IMPRINT>
+  <CALL_NUMBER> GT3283.A2 W828 2009</CALL_NUMBER>
+  <BARCODE>31154050707569</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20140623</DATE_ADDED>
+  <BSN>000289991</BSN>
+  <BIB_TITLE>   Tang Jiemin tai zi mu fa jue bao gao = Tomb of Prince Jiemin of Tang dynasty / Shanxi Sheng kao gu yan jiu suo, Fuping Xian wen wu guan li wei yuan hui bian zhu. //   唐节愍太子墓发掘报告 = Tomb of Prince Jiemin of Tang dynasty / 陕西省考古硏究所, 富平县文物管理委员会编著.</BIB_TITLE>
+  <PUB_DATE>2004</PUB_DATE>
+  <Z13_IMPRINT>03 Beijing : Ke xue chu ban she, 2004.</Z13_IMPRINT>
+  <CALL_NUMBER> DS797.68.F844 T36 2004</CALL_NUMBER>
+  <BARCODE>31154050708849</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20140606</DATE_ADDED>
+  <BSN>003998850</BSN>
+  <BIB_TITLE>   Menggu min zu an ma wen hua / Heqiyeletu, Hasiqimuge bian zhu. //   蒙古民族鞍马文化 / 贺其叶勒图, 哈斯其木格编著.</BIB_TITLE>
+  <PUB_DATE>2008</PUB_DATE>
+  <Z13_IMPRINT>04 Beijing : Wen wu chu ban she, 2008.</Z13_IMPRINT>
+  <CALL_NUMBER> DS731.M64 H475 2008</CALL_NUMBER>
+  <BARCODE>31154050707312</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20140606</DATE_ADDED>
+  <BSN>003998856</BSN>
+  <BIB_TITLE>   Menggu min zu zong jiao wen hua / Tie Da, Qing Batu bian zhu. //   蒙古民族宗教文化 / 铁达, 庆巴图编著.</BIB_TITLE>
+  <BIB_AUTHOR>  Qing, Batu </BIB_AUTHOR>
+  <PUB_DATE>2008</PUB_DATE>
+  <Z13_IMPRINT>04 Beijing Shi : Wen wu chu ban she, 2008.</Z13_IMPRINT>
+  <CALL_NUMBER> BQ649.I7 T54 2008</CALL_NUMBER>
+  <BARCODE>31154050707320</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20140619</DATE_ADDED>
+  <BSN>003996062</BSN>
+  <BIB_TITLE>   Dunhuang Mogao Ku bei qu shi ku / Peng Jinzhang, Wang Jianjun ; Dunhuang yan jiu yuan bian. //   敦煌莫高窟北区石窟 / 彭金章, 王建军 ; 敦煌硏究院编.</BIB_TITLE>
+  <BIB_AUTHOR>  Peng, Jinzhang, 1937-  //  Wang, Jianjun </BIB_AUTHOR>
+  <PUB_DATE>2000</PUB_DATE>
+  <Z13_IMPRINT>03 Beijing : Wen wu chu ban she, 2000-&lt;2004&gt;</Z13_IMPRINT>
+  <CALL_NUMBER> DS797.28.D863 D84 2004</CALL_NUMBER>
+  <VOLUME_INFO>v.3</VOLUME_INFO>
+  <BARCODE>31154050708617</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20140619</DATE_ADDED>
+  <BSN>004003881</BSN>
+  <BIB_TITLE>   Yuanqu Pendi ju luo kao gu yan jiu / Zhongguo guo jia bo wu guan kao gu bu bian zhu. //   垣曲盆地聚落考古研究 / 中国国家博物馆考古部编著.</BIB_TITLE>
+  <PUB_DATE>2007</PUB_DATE>
+  <Z13_IMPRINT>03 Beijing : Ke xue chu ban she, 2007.</Z13_IMPRINT>
+  <CALL_NUMBER> DS797.75.Y826 Y77 2007</CALL_NUMBER>
+  <BARCODE>31154050708641</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20140605</DATE_ADDED>
+  <BSN>003997558</BSN>
+  <BIB_TITLE>   Yide tai zi mu bi hua / zhu bian Shen Qinyan ; zhuan gao Shen Qinyan, Fan Shuying. //   懿德太子墓壁画 / 主编申秦雁 ; 撰稿申秦燕, 范淑英.</BIB_TITLE>
+  <BIB_AUTHOR>  Shen, Qinyan  //  Fan, Shuying </BIB_AUTHOR>
+  <PUB_DATE>2002</PUB_DATE>
+  <Z13_IMPRINT>03 Beijing : Wen wu chu ban she, 2002.</Z13_IMPRINT>
+  <CALL_NUMBER> ND2849.S47 Y537 2002</CALL_NUMBER>
+  <BARCODE>31154050707197</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20140605</DATE_ADDED>
+  <BSN>003997528</BSN>
+  <BIB_TITLE>  Life and death of a rural village in Garamantian times : archaeological investigations in the oasis of Fewet (Libyan Sahara) / edited by Lucia Mori, with contributions by F. Alhaique [and 28 others], with foreword by S. di Lernia and comments by D.J. Matthingly and M. Liverani.</BIB_TITLE>
+  <BIB_AUTHOR>  Mori, Lucia. //  Turjiman, M. //  Ramazzotti, Marco. //  Castorina, Francesca. //  Pelosi, Antonello. //  Manzi, Giorgio. //  Di Vincenzo, Fabio. //  Tafuri, Mary Anne. //  Ricci, Francesca. //  Putzolu, Cristina. //  Castelli, Roberto. //  Cancellieri, Emanuele. //  Barbato, Luisa. //  Liverani, Mario. //  Alhaique, F. (Francesca) //  Buldrini, Fabrizio. //  Bosi, Giovanna. //  Mercuri, Anna Maria. //  Verità, Marco. //  Vignola, Pietro. //  Bernasconi, Andrea. //  Guglielmi, Vittoria. //  Groppelli, Gianluca. //  Bruni, Silvia. //  Lemorini, Cristina. //  Ottomano, Caterina. //  Gatto, Maria Carmela. //  Zampetti, Daniela. //  Zerboni, Andrea. //  Cremaschi, Mauro.</BIB_AUTHOR>
+  <PUB_DATE>2013</PUB_DATE>
+  <CALL_NUMBER> DT228 .L55 2013</CALL_NUMBER>
+  <Z30_NOTE_INTERNAL>White Levy Program</Z30_NOTE_INTERNAL>
+  <BARCODE>31154050654985</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20140605</DATE_ADDED>
+  <BSN>002806950</BSN>
+  <BIB_TITLE>  Biblical and related studies presented to Samuel Iwry / edited by Ann Kort and Scott Morschauser.</BIB_TITLE>
+  <BIB_AUTHOR>  Kort, Ann ed. //  Iwry, Samuel honoree. //  Morschauser, Scott ed.</BIB_AUTHOR>
+  <PUB_DATE>1985</PUB_DATE>
+  <Z13_IMPRINT>Winona Lake, Ind. : Eisenbrauns, 1985.</Z13_IMPRINT>
+  <CALL_NUMBER> BS1192 .B435 1985</CALL_NUMBER>
+  <Z30_NOTE_INTERNAL>Tadmor</Z30_NOTE_INTERNAL>
+  <BARCODE>31154050650645</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20140605</DATE_ADDED>
+  <BSN>003997585</BSN>
+  <BIB_TITLE>   Zhanghuai tai zi mu bi hua / zhu bian Zhang Mingqia ; zhuan gao Zhang Mingqia, Fan Shuying. //   章怀太子墓壁画 / 主编张铭洽 ; 撰稿张铭洽, 范淑英.</BIB_TITLE>
+  <BIB_AUTHOR>  Zhang, Mingqia  //  Fan, Shuying </BIB_AUTHOR>
+  <PUB_DATE>2002</PUB_DATE>
+  <Z13_IMPRINT>03 Beijing : Wen wu chu ban she, 2002.</Z13_IMPRINT>
+  <CALL_NUMBER> ND2849.S47 Z43 2002</CALL_NUMBER>
+  <BARCODE>31154050707205</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20140605</DATE_ADDED>
+  <BSN>003997595</BSN>
+  <BIB_TITLE>   Ci Xian Wanzhang Bei chao bi hua mu / Zhongguo she hui ke xue yuan kao gu yan jiu suo, Hebei Sheng wen wu yan jiu suo bian zhu. //   磁县湾漳北朝壁画墓 / 中国社会科学院考古硏究所, 河北省文物硏究所编著.</BIB_TITLE>
+  <PUB_DATE>2003</PUB_DATE>
+  <Z13_IMPRINT>03 Beijing : Ke xue chu ban she, 2003.</Z13_IMPRINT>
+  <CALL_NUMBER> ND2849.H43 C53 2003</CALL_NUMBER>
+  <BARCODE>31154050707213</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20140609</DATE_ADDED>
+  <BSN>001502745</BSN>
+  <BIB_TITLE>  Mari and the Bible / by Abraham Malamat.</BIB_TITLE>
+  <PUB_DATE>1998</PUB_DATE>
+  <Z13_IMPRINT>Leiden ; Boston : Brill, 1998.</Z13_IMPRINT>
+  <CALL_NUMBER> DS99.M3 M343 1998</CALL_NUMBER>
+  <Z30_NOTE_INTERNAL>Tadmor</Z30_NOTE_INTERNAL>
+  <BARCODE>31154050650686</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20140625</DATE_ADDED>
+  <BSN>004007040</BSN>
+  <BIB_TITLE>   Sanxingdui yu nan si lu : Zhongguo xi nan di qu de qing tong wen hua / Xiao Xianjin zhu bian. //   三星堆与南丝路 : 中国西南地区的青铜文化 / 肖先进主编.</BIB_TITLE>
+  <BIB_AUTHOR>  Xiao, Xianjin </BIB_AUTHOR>
+  <PUB_DATE>2007</PUB_DATE>
+  <Z13_IMPRINT>04 Beijing : Wen wu chu ban she, 2007.</Z13_IMPRINT>
+  <CALL_NUMBER> NK7983.A3 S98 2007</CALL_NUMBER>
+  <BARCODE>31154050708997</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20140616</DATE_ADDED>
+  <BSN>004002438</BSN>
+  <BIB_TITLE>   Jian bo yi ji yu xue shu shi / Li Xueqin zhu. //   简帛佚籍与学术史 / 李学勤著.</BIB_TITLE>
+  <PUB_DATE>2001</PUB_DATE>
+  <Z13_IMPRINT>04 Nanchang Shi : Jiangxi jiao yu chu ban she, 2001.</Z13_IMPRINT>
+  <CALL_NUMBER> PL2447 .L582 2001</CALL_NUMBER>
+  <BARCODE>31154050708195</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20140616</DATE_ADDED>
+  <BSN>004002464</BSN>
+  <BIB_TITLE>   Xian Qin liang Han kao gu xue lun cong / Chen Gongrou zhu. //   先秦兩漢考古學論叢 / 陳公柔著.</BIB_TITLE>
+  <PUB_DATE>2005</PUB_DATE>
+  <Z13_IMPRINT>04 Beijing : Wen wu chu ban she, 2005.</Z13_IMPRINT>
+  <CALL_NUMBER> DS741.65 .C395 2005</CALL_NUMBER>
+  <BARCODE>31154050708203</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20140604</DATE_ADDED>
+  <BSN>003996070</BSN>
+  <BIB_TITLE>   商周金文辭彙釋 / 董蓮池編著. //   Shang Zhou jin wen ci hui shi / Dong Lianchi bian zhu.</BIB_TITLE>
+  <PUB_DATE>2013</PUB_DATE>
+  <Z13_IMPRINT>04 Beijing : Zuo jia chu ban she, 2013.</Z13_IMPRINT>
+  <CALL_NUMBER> PL2447 .D66 2013</CALL_NUMBER>
+  <VOLUME_INFO>v.1</VOLUME_INFO>
+  <BARCODE>31154050707007</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20140604</DATE_ADDED>
+  <BSN>003996072</BSN>
+  <BIB_TITLE>  A companion to sport and spectacle in Greek and Roman antiquity / edited by Paul Christesen and Donald G. Kyle.</BIB_TITLE>
+  <BIB_AUTHOR>  Christesen, Paul, 1966- contributor, editor of compilation. //  Kyle, Donald G. contributor, editor of compilation.</BIB_AUTHOR>
+  <PUB_DATE>2014</PUB_DATE>
+  <CALL_NUMBER> GV21 .C66 2014</CALL_NUMBER>
+  <BARCODE>31154050650439</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20140604</DATE_ADDED>
+  <BSN>003996100</BSN>
+  <BIB_TITLE>  State letters of Assyria : a transliteration and translation of 355 official Assyrian letters dating from the Sargonid period (722-625 B.C.) / by Robert H. Pfeiffer.</BIB_TITLE>
+  <BIB_AUTHOR>  Harper, Robert Francis, 1864-1914. Assyrian and Babylonian letters.</BIB_AUTHOR>
+  <PUB_DATE>1935</PUB_DATE>
+  <Z13_IMPRINT>New Haven, Conn. : American Oriental Society, 1935.</Z13_IMPRINT>
+  <CALL_NUMBER> PJ3889 .P4 1935</CALL_NUMBER>
+  <Z30_NOTE_INTERNAL>Tadmor</Z30_NOTE_INTERNAL>
+  <BARCODE>31154050650454</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20140604</DATE_ADDED>
+  <BSN>003996106</BSN>
+  <BIB_TITLE>  Parfümrezepte und kultische Texte aus Assur / E. Ebeling.</BIB_TITLE>
+  <PUB_DATE>1950</PUB_DATE>
+  <Z13_IMPRINT>Roma : Pontificium Institutum Biblicum, 1950.</Z13_IMPRINT>
+  <CALL_NUMBER> PJ3721.A69 E25 1950</CALL_NUMBER>
+  <Z30_NOTE_INTERNAL>Tadmor</Z30_NOTE_INTERNAL>
+  <BARCODE>31154050650462</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20140604</DATE_ADDED>
+  <BSN>003996111</BSN>
+  <BIB_TITLE>   Fo tuo zhi guang : Yindu yu Zhong Ya fo jiao sheng ji / Chao Huashan zhu. //   佛陀之光 : 印度与中亚佛教胜迹 / 晁华山著.</BIB_TITLE>
+  <PUB_DATE>2001</PUB_DATE>
+  <Z13_IMPRINT>05 Beijing : Wen wu chu ban she, 2001.</Z13_IMPRINT>
+  <CALL_NUMBER> N8193.C6 C48 2001</CALL_NUMBER>
+  <BARCODE>31154050707031</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20140604</DATE_ADDED>
+  <BSN>003996114</BSN>
+  <BIB_TITLE>   Dunhuang fo ying / Wu Jian deng zhu. //   敦煌佛影 / 吴健等著.</BIB_TITLE>
+  <PUB_DATE>2008</PUB_DATE>
+  <Z13_IMPRINT>04 Beijing Shi : Wen wu chu ban she, 2008.</Z13_IMPRINT>
+  <CALL_NUMBER> N8193.C6 W78 2008</CALL_NUMBER>
+  <BARCODE>31154050707049</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20140604</DATE_ADDED>
+  <BSN>003996119</BSN>
+  <BIB_TITLE>   Da mo cang zhen : tan suo xiao shi de gu wen ming--Juyan wen hua / Zheng Xu, Jingxuan, Yafei. //   大漠藏珍 : 探索消失的古文明--居延文化 / 政旭, 璟萱, 娅菲.</BIB_TITLE>
+  <BIB_AUTHOR>  Ya, Fei </BIB_AUTHOR>
+  <PUB_DATE>2007</PUB_DATE>
+  <Z13_IMPRINT>06 Beijing Shi : Wen wu chu ban she, 2007.</Z13_IMPRINT>
+  <CALL_NUMBER> DS797.54.E556 Z446 2007</CALL_NUMBER>
+  <BARCODE>31154050707056</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20140604</DATE_ADDED>
+  <BSN>003996127</BSN>
+  <BIB_TITLE>   Dunhuang li shi di li / Zheng Binglin, Li Jun. //   敦煌历史地理 / 郑炳林,李军.</BIB_TITLE>
+  <PUB_DATE>2013</PUB_DATE>
+  <CALL_NUMBER> DS797.28.D864 Z54 2013</CALL_NUMBER>
+  <BARCODE>31154050707064</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20140613</DATE_ADDED>
+  <BSN>004001478</BSN>
+  <BIB_TITLE>   Xizang tang ka / Xizang Zizhiqu wen wu guan li wei yuan hui bian ; [Huang Ti bian]. //   西藏唐卡 / 西藏自治區文物管理委員會編 ; [黃逖編].</BIB_TITLE>
+  <BIB_AUTHOR>  Huang, Ti </BIB_AUTHOR>
+  <PUB_DATE>2013</PUB_DATE>
+  <Z13_IMPRINT>02 Beijing : Wen wu chu ban she, 1985 (2013 printing)</Z13_IMPRINT>
+  <CALL_NUMBER> ND1043.3 X58 1985</CALL_NUMBER>
+  <BARCODE>31154050708120</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20140611</DATE_ADDED>
+  <BSN>004000295</BSN>
+  <BIB_TITLE>   Shang dai Jiang nan : Jiangxi Xin'gan Dayangzhou chu tu wen wu ji cui / Zhongguo guo jia bo wu guan, Jiangxi Sheng wen hua ting bian ji. //   商代江南 : 江西新干大洋洲出土文物辑粹 / 中国国家博物馆, 江西省文化厅编辑.</BIB_TITLE>
+  <PUB_DATE>2006</PUB_DATE>
+  <Z13_IMPRINT>05 Beijing : Zhongguo she hui ke xue chu ban she, 2006.</Z13_IMPRINT>
+  <CALL_NUMBER> DS797.57.X55 S53 2006</CALL_NUMBER>
+  <BARCODE>31154050707775</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20140611</DATE_ADDED>
+  <BSN>004000306</BSN>
+  <BIB_TITLE>   Yin xu : yi ge wang chao de bei ying / Tang Jigen zhu. //   殷墟 : 一个王朝的背影 / 唐际根著.</BIB_TITLE>
+  <PUB_DATE>2008</PUB_DATE>
+  <Z13_IMPRINT>05 Beijing : Ke xue chu ban she, 2008.</Z13_IMPRINT>
+  <CALL_NUMBER> DS797.44.A583 T36 2008</CALL_NUMBER>
+  <BARCODE>31154050707783</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20140611</DATE_ADDED>
+  <BSN>004000310</BSN>
+  <BIB_TITLE>  Bruchstücke einer mittelassyrischen Vorschriftensammlung für die Akklimatisierung und Trainierung von Wagenpferden / Erich Ebeling.</BIB_TITLE>
+  <PUB_DATE>1951</PUB_DATE>
+  <Z13_IMPRINT>Berlin : Akademie-Verlag, 1951.</Z13_IMPRINT>
+  <CALL_NUMBER> PJ3921.A5 E24 1951</CALL_NUMBER>
+  <Z30_NOTE_INTERNAL>Tadmor</Z30_NOTE_INTERNAL>
+  <BARCODE>31154050650801</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20140611</DATE_ADDED>
+  <BSN>004000316</BSN>
+  <BIB_TITLE>   Zhengzhou xiao shuang qiao : 1990-2000 nian kao gu fa jue bao gao / Henan Sheng wen wu kao gu yan jiu suo bian zhu. //   郑州小双桥 : 1990-2000 年考古发掘报告 / 河南省文物考古研究所编著.</BIB_TITLE>
+  <PUB_DATE>2012</PUB_DATE>
+  <CALL_NUMBER> DS797.44.Z444 Z4676 2012</CALL_NUMBER>
+  <VOLUME_INFO>v.2</VOLUME_INFO>
+  <BARCODE>31154050707809</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20140611</DATE_ADDED>
+  <BSN>004000325</BSN>
+  <BIB_TITLE>  The all-knowing God : researches into early religion and culture / by Raffaele Pettazzoni ; authorised translation by H.J. Rose.</BIB_TITLE>
+  <BIB_AUTHOR>  Rose, H. J. (Herbert Jennings), 1883-1961 tr.</BIB_AUTHOR>
+  <PUB_DATE>1956</PUB_DATE>
+  <Z13_IMPRINT>London : Methuen, 1956.</Z13_IMPRINT>
+  <CALL_NUMBER> BL85 .P4813 1956</CALL_NUMBER>
+  <Z30_NOTE_INTERNAL>Tadmor</Z30_NOTE_INTERNAL>
+  <BARCODE>31154050650819</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20140611</DATE_ADDED>
+  <BSN>004000328</BSN>
+  <BIB_TITLE>   Zhongguo xi bei di qu qing tong shi dai kao gu lun ji / Shui Tao zhu. //   中国西北地区青铜时代考古论集 / 水涛著.</BIB_TITLE>
+  <PUB_DATE>2001</PUB_DATE>
+  <Z13_IMPRINT>04 Beijing : Ke xue chu ban she, 2001.</Z13_IMPRINT>
+  <CALL_NUMBER> GN855.C6 S54 2001</CALL_NUMBER>
+  <BARCODE>31154050707817</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20140611</DATE_ADDED>
+  <BSN>002649598</BSN>
+  <BIB_TITLE>  Testi amministrativi di vario contenuto (Archivio L. 2769, TM.75.G.3000-4101) / di Alfonso Archi, Maria Giovanna Biga.</BIB_TITLE>
+  <BIB_AUTHOR>  Biga, Maria Giovanna author.</BIB_AUTHOR>
+  <PUB_DATE>1982</PUB_DATE>
+  <Z13_IMPRINT>Roma : Missione archeologica italiana in Siria, 1982.</Z13_IMPRINT>
+  <CALL_NUMBER> PJ4147.Z77 A728 1982</CALL_NUMBER>
+  <Z30_NOTE_INTERNAL>Tadmor</Z30_NOTE_INTERNAL>
+  <BARCODE>31154050650835</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20140611</DATE_ADDED>
+  <BSN>004000344</BSN>
+  <BIB_TITLE>   Yan se yu ji si : Zhongguo gu dai wen hua zhong yan se han yi tan you / Wang Tao zhu ; Zhi Xiaona zhu. //   颜色與祭祀 : 中國古代文化中颜色涵義探幽 / 汪濤著; 郅曉娜譯.</BIB_TITLE>
+  <PUB_DATE>2013</PUB_DATE>
+  <CALL_NUMBER> DS744.2 .W36126 2013</CALL_NUMBER>
+  <BARCODE>31154050707825</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20140623</DATE_ADDED>
+  <BSN>004005700</BSN>
+  <BIB_TITLE>  Recueil Édouard Dhorme : études bibliques et orientales.</BIB_TITLE>
+  <PUB_DATE>1951</PUB_DATE>
+  <Z13_IMPRINT>Paris : Impr. nationale, 1951.</Z13_IMPRINT>
+  <CALL_NUMBER> BS621 .D46 1951</CALL_NUMBER>
+  <Z30_NOTE_INTERNAL>Tadmor</Z30_NOTE_INTERNAL>
+  <BARCODE>31154050651197</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20140623</DATE_ADDED>
+  <BSN>004005710</BSN>
+  <BIB_TITLE>   Xi Zhou Wei shi jia zu qing tong qi qun yan jiu / Yin Shengping zhu bian. //   西周微氏家族青銅器群研究 / 尹盛平主編.</BIB_TITLE>
+  <BIB_AUTHOR>  Yin, Shengping </BIB_AUTHOR>
+  <PUB_DATE>1992</PUB_DATE>
+  <Z13_IMPRINT>03 Beijing : Wen wu chu ban she : Xin hua shu dian jing xiao, 1992.</Z13_IMPRINT>
+  <CALL_NUMBER> PL2447 .X4 1992</CALL_NUMBER>
+  <BARCODE>31154050708815</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20140616</DATE_ADDED>
+  <BSN>004002546</BSN>
+  <BIB_TITLE>  Euripidis tragoediae / ex reconsion d'Augusti Nauckii.</BIB_TITLE>
+  <BIB_AUTHOR>  Nauck, August, 1822-1892 ed. edt</BIB_AUTHOR>
+  <PUB_DATE>1889</PUB_DATE>
+  <Z13_IMPRINT>Lipziae : in aedibus B.G. Teubneri, 1889-1892.</Z13_IMPRINT>
+  <CALL_NUMBER> PA3973.A2 1889</CALL_NUMBER>
+  <Z30_NOTE_INTERNAL>Sijpesteijn</Z30_NOTE_INTERNAL>
+  <BARCODE>31154050708252</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20140626</DATE_ADDED>
+  <BSN>004007652</BSN>
+  <BIB_TITLE>   Wei Jin Nan chao zong wang wen ti yan jiu / Lu Li zhu. //   魏晋南朝宗王问题研究 / 鲁力著.</BIB_TITLE>
+  <PUB_DATE>2013</PUB_DATE>
+  <CALL_NUMBER> DS748.18 .L8 2013</CALL_NUMBER>
+  <BARCODE>31154050709078</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20140618</DATE_ADDED>
+  <BSN>004003327</BSN>
+  <BIB_TITLE>   Wu dai Wang Chuzhi mu / Hebei sheng wen wu yan jiu suo, Baoding shi wen wu guan li chu. //   五代王处直墓 / 河北省文物硏究所, 保定市文物管理处.</BIB_TITLE>
+  <PUB_DATE>1998</PUB_DATE>
+  <Z13_IMPRINT>03 Beijing : Wen wu chu ban she, 1998.</Z13_IMPRINT>
+  <CALL_NUMBER> DS797.39.Q936 W843 1998</CALL_NUMBER>
+  <BARCODE>31154050708500</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20140627</DATE_ADDED>
+  <BSN>004008239</BSN>
+  <BIB_TITLE>   Tang Xian Nanfangshui : Xia, Zhou shi qi yi cun fa jue bao gao / Nan shui bei diao zhong xian gan xian gong cheng jian she guan li ju, Hebei Sheng nan shui bei diao gong cheng jian she wei yuan hui ban gong shi, Hebei Sheng wen wu ju bian zhu. //   唐县南放水 : 夏、周时期遗存发掘报告 / 南水北调中线干线工程建设管理局, 河北省南水北调工程建设委员会办公室, 河北省文物局编著.</BIB_TITLE>
+  <PUB_DATE>2011</PUB_DATE>
+  <Z13_IMPRINT>04 Beijing : Wen wu chu ban she, 2011.</Z13_IMPRINT>
+  <CALL_NUMBER> DS797.39.T364 T364 2011</CALL_NUMBER>
+  <BARCODE>31154050709144</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20140627</DATE_ADDED>
+  <BSN>004008252</BSN>
+  <BIB_TITLE>   Laohekou Jiuli Shan Qin Han mu / Xianfan Shi wen wu kao gu yan jiu suo, Wu'an tie lu fu xian Jiuli Shan kao gu dui bian zhu. //   老河口九里山秦汉墓 / 襄樊市文物考古研究所, 武安铁路复线九里山考古队编著.</BIB_TITLE>
+  <PUB_DATE>2009</PUB_DATE>
+  <Z13_IMPRINT>03 Beijing : Wen wu chu ban she, 2009.</Z13_IMPRINT>
+  <CALL_NUMBER> DS797.48.L36 L364 2009</CALL_NUMBER>
+  <BARCODE>31154050709169</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20140611</DATE_ADDED>
+  <BSN>004000165</BSN>
+  <BIB_TITLE>   Shang Zhou tu xing wen zi bian / Wang Xinyi bian. //   商周图形文字编 / 王心怡编.</BIB_TITLE>
+  <BIB_AUTHOR>  Wang, Xinyi </BIB_AUTHOR>
+  <PUB_DATE>2007</PUB_DATE>
+  <Z13_IMPRINT>03 Beijing : Wen wu chu ban she, 2007.</Z13_IMPRINT>
+  <CALL_NUMBER> PL2448 .W18 2007</CALL_NUMBER>
+  <BARCODE>31154050707684</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20140611</DATE_ADDED>
+  <BSN>004000167</BSN>
+  <BIB_TITLE>   先周文化探索 / 雷兴山著. //   Xian Zhou wen hua tan suo / Lei Xingshan zhu.</BIB_TITLE>
+  <PUB_DATE>2010</PUB_DATE>
+  <Z13_IMPRINT>04 Beijing : Ke xue chu ban she, 2010.</Z13_IMPRINT>
+  <CALL_NUMBER> DS747 .L46 2010</CALL_NUMBER>
+  <BARCODE>31154050707692</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20140611</DATE_ADDED>
+  <BSN>004000178</BSN>
+  <BIB_TITLE>  Akkadskiĭ (vavilono-assiriĭskiĭ) i͡azyk / sostavitel' L.A. Lipin ; pod redakt͡sieĭ V.V. Struve.</BIB_TITLE>
+  <BIB_AUTHOR>  Struve, V. V. (Vasiliĭ Vasilʹevich), 1889-1965 ed.</BIB_AUTHOR>
+  <PUB_DATE>1957</PUB_DATE>
+  <Z13_IMPRINT>[Leningrad] : Izd-vo Leningradskogo Universiteta, 1957-</Z13_IMPRINT>
+  <CALL_NUMBER> PJ3171 .L54 1957</CALL_NUMBER>
+  <VOLUME_INFO>vyp.1</VOLUME_INFO>
+  <Z30_NOTE_INTERNAL>Tadmor</Z30_NOTE_INTERNAL>
+  <BARCODE>31154050235140</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20140611</DATE_ADDED>
+  <BSN>004000180</BSN>
+  <BIB_TITLE>   Chu xue ji : Shen Jiahua jia gu xue lun wen xuan / Shen Jianhua zhu. //   初学集 : 沈建华甲骨学论文选 / 沈建华著.</BIB_TITLE>
+  <PUB_DATE>2008</PUB_DATE>
+  <CALL_NUMBER> PL2456 .S43 2008</CALL_NUMBER>
+  <BARCODE>31154050707700</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20140611</DATE_ADDED>
+  <BSN>004000185</BSN>
+  <BIB_TITLE>  Ancient Israelite literature in its cultural context : a survey of parallels between biblical and ancient Near Eastern texts / John H. Walton.</BIB_TITLE>
+  <PUB_DATE>1989</PUB_DATE>
+  <Z13_IMPRINT>Grand Rapids, Mich. : Regency Reference Library, ©1989.</Z13_IMPRINT>
+  <CALL_NUMBER> BS1171.2 .W35 1989</CALL_NUMBER>
+  <Z30_NOTE_INTERNAL>Tadmor</Z30_NOTE_INTERNAL>
+  <BARCODE>31154050650769</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20140611</DATE_ADDED>
+  <BSN>004000206</BSN>
+  <BIB_TITLE>  Religio aramaica : godsdienstige verschijnselen in Aramese teksten / door J. Hoftijzer.</BIB_TITLE>
+  <PUB_DATE>1968</PUB_DATE>
+  <Z13_IMPRINT>Leiden : Ex Oriente Lux, 1968.</Z13_IMPRINT>
+  <CALL_NUMBER> DT57 .V6 no.16</CALL_NUMBER>
+  <Z30_NOTE_INTERNAL>Tadmor</Z30_NOTE_INTERNAL>
+  <BARCODE>31154050650777</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20140611</DATE_ADDED>
+  <BSN>004000190</BSN>
+  <BIB_TITLE>   中国早期青铜文化 : 二里头文化专题研究 / 中国社会科学院考古研究所编. //   Zhongguo zao qi qing tong wen hua : Erlitou wen hua zhuan ti yan jiu / Zhongguo she hui ke xue yuan kao gu yan jiu suo bian.</BIB_TITLE>
+  <PUB_DATE>2008</PUB_DATE>
+  <Z13_IMPRINT>04 Beijing : Ke xue chu ban she, 2008.</Z13_IMPRINT>
+  <CALL_NUMBER> DS797.44.E75 Z48 2008</CALL_NUMBER>
+  <BARCODE>31154050707718</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20140611</DATE_ADDED>
+  <BSN>004000214</BSN>
+  <BIB_TITLE>   Zhengzhou Shang cheng : 1953-1985 nian kao gu fa jue bao gao / Henan Sheng wen wu kao gu yan jiu suo bian zhu. //   郑州商城 : 1953-1985年考古发掘报告 / 河南省文物考古研究所编著.</BIB_TITLE>
+  <PUB_DATE>2001</PUB_DATE>
+  <Z13_IMPRINT>04 Beijing : Wen wu chu ban she, 2001.</Z13_IMPRINT>
+  <CALL_NUMBER> DS797.44.Z444 Z438 2001</CALL_NUMBER>
+  <VOLUME_INFO>v.1</VOLUME_INFO>
+  <BARCODE>31154050707726</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20140610</DATE_ADDED>
+  <BSN>002570751</BSN>
+  <BIB_TITLE>  The Near East and the foundations for civilization : an essay in appraisal of the general evidence / by Robert J. Braidwood.</BIB_TITLE>
+  <PUB_DATE>1952</PUB_DATE>
+  <Z13_IMPRINT>Eugene, Or. : Oregon State System of Higher Education, 1952.</Z13_IMPRINT>
+  <CALL_NUMBER> CB311 .B73 1952</CALL_NUMBER>
+  <Z30_NOTE_INTERNAL>Tadmor</Z30_NOTE_INTERNAL>
+  <BARCODE>31154050235132</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20140610</DATE_ADDED>
+  <BSN>002319321</BSN>
+  <BIB_TITLE>  The Greek sources : proceedings of the Groningen 1984 Achaemenid History Workshop / edited by Heleen Sancisi-Weerdenburg and Amélie Kuhrt.</BIB_TITLE>
+  <BIB_AUTHOR>  Sancisi-Weerdenburg, Heleen ed. //  Kuhrt, Amélie, 1944- ed.</BIB_AUTHOR>
+  <PUB_DATE>1987</PUB_DATE>
+  <Z13_IMPRINT>Leiden : Nederlands Instituut voor het Nabije Oosten, 1987.</Z13_IMPRINT>
+  <CALL_NUMBER> DS281 .A26 1984</CALL_NUMBER>
+  <Z30_NOTE_INTERNAL>Tadmor</Z30_NOTE_INTERNAL>
+  <BARCODE>31154050650736</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20140610</DATE_ADDED>
+  <BSN>001720609</BSN>
+  <BIB_TITLE>  Le tribut dans l'Empire perse : actes de la table ronde de Paris, 12-13 décembre 1986 / [édité par] Pierre Briant et Clarisse Herrenschmidt.</BIB_TITLE>
+  <BIB_AUTHOR>  Briant, Pierre ed. //  Herrenschmidt, Clarisse ed.</BIB_AUTHOR>
+  <PUB_DATE>1989</PUB_DATE>
+  <Z13_IMPRINT>Paris : Peeters, 1989.</Z13_IMPRINT>
+  <CALL_NUMBER> DS281 .T75 1989</CALL_NUMBER>
+  <Z30_NOTE_INTERNAL>Tadmor</Z30_NOTE_INTERNAL>
+  <BARCODE>31154050650744</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20140619</DATE_ADDED>
+  <BSN>000081839</BSN>
+  <BIB_TITLE>   Hu Han zhi jian : "Si chou zhi lu" yu xi bei li shi kao gu / Luo Feng. //   胡漢之間 : "絲綢之路" 與西北歷史考古 / 羅丰.</BIB_TITLE>
+  <PUB_DATE>2004</PUB_DATE>
+  <Z13_IMPRINT>05 Beijing : Wen wu chu ban she, 2004.</Z13_IMPRINT>
+  <CALL_NUMBER> DS793.N6 L594 2004</CALL_NUMBER>
+  <BARCODE>31154050708583</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20140625</DATE_ADDED>
+  <BSN>004007033</BSN>
+  <BIB_TITLE>   Deqing Tingziqiao : Zhan guo yuan shi ci yao zhi fa jue bao gao / Zhejiang Sheng wen wu kao gu yan jiu suo, Deqing Xian bo wu guan bian zhu. //   德清亭子桥 : 战国原始瓷窑址发掘报告 / 浙江省文物考古研究所, 德清县博物馆编著.</BIB_TITLE>
+  <PUB_DATE>2011</PUB_DATE>
+  <Z13_IMPRINT>04 Beijing : Wen wu chu ban she, 2011.</Z13_IMPRINT>
+  <CALL_NUMBER> DS797.88.D475 D476 2011</CALL_NUMBER>
+  <BARCODE>31154050708989</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20140623</DATE_ADDED>
+  <BSN>004005763</BSN>
+  <BIB_TITLE>   Qing Jiang liu yu gu dong wu yi cun yan jiu / Chen Quanjia, Wang Shancai, Zhang Dianwei zhu. //   清江流域古动物遗存研究 / 陈全家, 王善才, 张典维著.</BIB_TITLE>
+  <BIB_AUTHOR>  Wang, Shancai  //  Zhang, Dianwei </BIB_AUTHOR>
+  <PUB_DATE>2004</PUB_DATE>
+  <Z13_IMPRINT>04 Beijing : Ke xue chu ban she, 2004.</Z13_IMPRINT>
+  <CALL_NUMBER> GN776.32.C6 C43 2004</CALL_NUMBER>
+  <BARCODE>31154050708823</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20140616</DATE_ADDED>
+  <BSN>004002419</BSN>
+  <BIB_TITLE>   Wei Jin Nan Bei chao kao gu = WeiJin NanBeichao kaogu / Wei Zheng zhu. //   魏晋南北朝考古 = WeiJin NanBeichao kaogu / 韦正著.</BIB_TITLE>
+  <PUB_DATE>2013</PUB_DATE>
+  <CALL_NUMBER> DS748.55 .W45 2013</CALL_NUMBER>
+  <BARCODE>31154050708179</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20140616</DATE_ADDED>
+  <BSN>004002430</BSN>
+  <BIB_TITLE>   Xian Qin kao gu yan jiu : wen hua pu xi yu wen hua jiao liu / Han Jianye zhu. //   先秦考古研究 : 文化谱系与文化交流 / 韩建业著.</BIB_TITLE>
+  <PUB_DATE>2013</PUB_DATE>
+  <CALL_NUMBER> DS741.65 .H36 2013</CALL_NUMBER>
+  <BARCODE>31154050708187</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20140604</DATE_ADDED>
+  <BSN>003996048</BSN>
+  <BIB_TITLE>  Hebrew amulets : their decipherment and interpretation / by T. Schrire.</BIB_TITLE>
+  <PUB_DATE>1966</PUB_DATE>
+  <Z13_IMPRINT>London : Routledge &amp; K. Paul, 1966.</Z13_IMPRINT>
+  <CALL_NUMBER> BM729.A4 S3 1966</CALL_NUMBER>
+  <Z30_NOTE_INTERNAL>Tadmor</Z30_NOTE_INTERNAL>
+  <BARCODE>31154050650397</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20140604</DATE_ADDED>
+  <BSN>003996053</BSN>
+  <BIB_TITLE>  Die hethitische Bilderschrift / by Emil O. Forrer.</BIB_TITLE>
+  <PUB_DATE>1932</PUB_DATE>
+  <Z13_IMPRINT>Chicago : University of Chicago Press, 1932.</Z13_IMPRINT>
+  <CALL_NUMBER> P945 .F67 1932</CALL_NUMBER>
+  <Z30_NOTE_INTERNAL>Tadmor</Z30_NOTE_INTERNAL>
+  <BARCODE>31154050650405</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20140604</DATE_ADDED>
+  <BSN>003996055</BSN>
+  <BIB_TITLE>  Notes on Egyptian marriage : chiefly in the Ptolemaic period / by William F. Edgerton.</BIB_TITLE>
+  <PUB_DATE>1931</PUB_DATE>
+  <Z13_IMPRINT>Chicago : University of Chicago Press, 1931.</Z13_IMPRINT>
+  <CALL_NUMBER> KL2482 .E34 1931</CALL_NUMBER>
+  <Z30_NOTE_INTERNAL>Tadmor</Z30_NOTE_INTERNAL>
+  <BARCODE>31154050650413</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20140604</DATE_ADDED>
+  <BSN>003996058</BSN>
+  <BIB_TITLE>  A Hittite chrestomathy with vocabulary / by George A. Barton and Baruch Weitzel.</BIB_TITLE>
+  <BIB_AUTHOR>  Weitzel, Baruch, author.</BIB_AUTHOR>
+  <PUB_DATE>1932</PUB_DATE>
+  <Z13_IMPRINT>Paris : P. Geuthner, 1932.</Z13_IMPRINT>
+  <CALL_NUMBER> P945 .A2 1932</CALL_NUMBER>
+  <Z30_NOTE_INTERNAL>Tadmor</Z30_NOTE_INTERNAL>
+  <BARCODE>31154050650421</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20140604</DATE_ADDED>
+  <BSN>003995999</BSN>
+  <BIB_TITLE>   Si chou zhi lu mei shu kao gu gai lun / Zhao Feng zhu bian. //   丝绸之路美术考古概论 / 赵丰主编.</BIB_TITLE>
+  <BIB_AUTHOR>  Zhao, Feng, 1961- </BIB_AUTHOR>
+  <PUB_DATE>2007</PUB_DATE>
+  <Z13_IMPRINT>03 Beijing : Wen wu chu ban she, 2007.</Z13_IMPRINT>
+  <CALL_NUMBER> N7343 .S48 2007</CALL_NUMBER>
+  <BARCODE>31154050706991</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20140604</DATE_ADDED>
+  <BSN>003411409</BSN>
+  <BIB_TITLE>  On beer and brewing techniques in ancient Mesopotamia : according to the XXIIIrd tablet of the series ḪAR.r a = ḫubullu / by Louis F. Hartman and A.L. Oppenheim.</BIB_TITLE>
+  <BIB_AUTHOR>  Oppenheim, A. Leo, 1904-1974 author.</BIB_AUTHOR>
+  <PUB_DATE>1950</PUB_DATE>
+  <Z13_IMPRINT>Baltimore : American Oriental Society, [1950]</Z13_IMPRINT>
+  <CALL_NUMBER> PJ2 .A612 no.10</CALL_NUMBER>
+  <Z30_NOTE_INTERNAL>Tadmor</Z30_NOTE_INTERNAL>
+  <BARCODE>31154050650447</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20140604</DATE_ADDED>
+  <BSN>002869798</BSN>
+  <BIB_TITLE>  Mesopotamia / Università di Torino, Facoltà di lettere e filosofia.</BIB_TITLE>
+  <PUB_DATE>1966</PUB_DATE>
+  <Z13_IMPRINT>Torino : Giappichelli, 1966-</Z13_IMPRINT>
+  <CALL_NUMBER> DS69.5 .M46</CALL_NUMBER>
+  <VOLUME_INFO>v.48(2013)</VOLUME_INFO>
+  <Z30_NOTE_INTERNAL>White Levy Program</Z30_NOTE_INTERNAL>
+  <BARCODE>31154050654977</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20140604</DATE_ADDED>
+  <BSN>003996129</BSN>
+  <BIB_TITLE>   Xi yu yin shi wen hua shi / Yisilafei'er Yusufu, Anniwa'er Hasimu bian zhu. //   西域饮食文化史 / 伊斯拉斐尔·玉苏甫, 安尼瓦尔·哈斯木编著.</BIB_TITLE>
+  <BIB_AUTHOR>  Hasimu, Anniwa'er.</BIB_AUTHOR>
+  <PUB_DATE>2012</PUB_DATE>
+  <Z13_IMPRINT>03 Wulumuqi Shi : Xinjiang ren min chu ban she, 2012.</Z13_IMPRINT>
+  <CALL_NUMBER> DS793.S62 Y878 2012</CALL_NUMBER>
+  <BARCODE>31154050707072</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20140604</DATE_ADDED>
+  <BSN>003996137</BSN>
+  <BIB_TITLE>   Dunhuang gu dai yi shi zhu xing / Hu Tongqing, Wang Yizhi. //   敦煌古代衣食住行 / 胡同庆, 王义芝.</BIB_TITLE>
+  <PUB_DATE>2013</PUB_DATE>
+  <Z13_IMPRINT>04 Lanzhou : Gansu ren min mei shu chu ban she, 2013.</Z13_IMPRINT>
+  <CALL_NUMBER> DS797.28.D864 H78 2013</CALL_NUMBER>
+  <BARCODE>31154050707080</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20140604</DATE_ADDED>
+  <BSN>003996146</BSN>
+  <BIB_TITLE>  Classical studies in honor of David Sohlberg / edited by Ranon Katzoff ; with Yaakov Petroff &amp; David Schaps.</BIB_TITLE>
+  <BIB_AUTHOR>  Katzoff, Ranon ed. //  Sohlberg, David, 1924- honoree. //  Schaps, David M. ed. //  Petroff, Yaakov ed.</BIB_AUTHOR>
+  <PUB_DATE>1996</PUB_DATE>
+  <Z13_IMPRINT>Ramat Gan : Bar-Ilan University Press, [1996]</Z13_IMPRINT>
+  <CALL_NUMBER> DE60 .C53 1996</CALL_NUMBER>
+  <Z30_NOTE_INTERNAL>Tadmor</Z30_NOTE_INTERNAL>
+  <BARCODE>31154050650470</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20140604</DATE_ADDED>
+  <BSN>003996148</BSN>
+  <BIB_TITLE>   Xiyu shi di san zhong zi liao jiao zhu / Li Zhiqin bian. //   西域史地三种资料校注 / 李之勤编.</BIB_TITLE>
+  <BIB_AUTHOR>  Li, Zhiqin </BIB_AUTHOR>
+  <PUB_DATE>2012</PUB_DATE>
+  <CALL_NUMBER> DS793.S62 X52 2012</CALL_NUMBER>
+  <BARCODE>31154050707098</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20140604</DATE_ADDED>
+  <BSN>003996154</BSN>
+  <BIB_TITLE>   Xinjiang cai tao / Xinjiang wen wu kao gu yan jiu suo zhu bian ; Mu Shunying, Qi Xiaoshan bian zhu. //   新疆彩陶 / 新疆文物考古硏究所主编 ; 穆舜英, 祁小山编著.</BIB_TITLE>
+  <BIB_AUTHOR>  Qi, Xiaoshan, 1956- </BIB_AUTHOR>
+  <PUB_DATE>1998</PUB_DATE>
+  <Z13_IMPRINT>04 Beijing : Wen wu chu ban she : Xin hua shu dian jing xiao, 1998.</Z13_IMPRINT>
+  <CALL_NUMBER> GN799.P6 M87 1998</CALL_NUMBER>
+  <BARCODE>31154050707106</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20140604</DATE_ADDED>
+  <BSN>003276282</BSN>
+  <BIB_TITLE>   Dunhuang Foyemiaowan Xi Jin hua xiang zhuan mu / Gansu Sheng wen wu kao gu yan jiu suo ; Dai Chunyang zhu bian. //   敦煌佛爷庙湾西晋画像砖墓 / 甘肃省文物考古硏究所 ; 戴春阳主编.</BIB_TITLE>
+  <BIB_AUTHOR>  Dai, Chunyang </BIB_AUTHOR>
+  <PUB_DATE>1998</PUB_DATE>
+  <Z13_IMPRINT>03 Beijing : Wen wu chu ban she, 1998.</Z13_IMPRINT>
+  <CALL_NUMBER> DS797.28.D864 D86 1998</CALL_NUMBER>
+  <BARCODE>31154050707114</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20140613</DATE_ADDED>
+  <BSN>004001539</BSN>
+  <BIB_TITLE>   Yin dai Shang wang guo zheng zhi di li jie gou yan jiu / Wei Xinying zhu. //   殷代商王国政治地理结构研究 / 韦心滢著.</BIB_TITLE>
+  <PUB_DATE>2013</PUB_DATE>
+  <CALL_NUMBER> DS744.2 .W45 2013</CALL_NUMBER>
+  <BARCODE>31154050708088</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20140613</DATE_ADDED>
+  <BSN>004001542</BSN>
+  <BIB_TITLE>   Dong Zhou Qin Han shi qi che ma mai zang yan jiu / Zhao Haizhou zhu. //   东周秦汉时期车马埋葬研究 / 赵海洲著.</BIB_TITLE>
+  <PUB_DATE>2011</PUB_DATE>
+  <Z13_IMPRINT>04 Beijing : Ke xue chu ban she, 2011.</Z13_IMPRINT>
+  <CALL_NUMBER> GT3283.A2 Z45 2011</CALL_NUMBER>
+  <BARCODE>31154050708096</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20140613</DATE_ADDED>
+  <BSN>004001559</BSN>
+  <BIB_TITLE>   Qin tao wen xin bian / Yuan Zhongyi, Liu Yu bian zhu. //   秦陶文新編 / 袁仲一, 刘鈺編著.</BIB_TITLE>
+  <PUB_DATE>2009</PUB_DATE>
+  <Z13_IMPRINT>04 Beijing : Wen wu chu ban she, 2009.</Z13_IMPRINT>
+  <CALL_NUMBER> PL2448 .Y835 2009</CALL_NUMBER>
+  <VOLUME_INFO>v.1:text</VOLUME_INFO>
+  <BARCODE>31154050708104</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20140613</DATE_ADDED>
+  <BSN>004001590</BSN>
+  <BIB_TITLE>   Zao qi Zhongguo : Zhonghua wen ming qi yuan / Zhonghua Renmin Gongheguo ke xue ji shu bu, guo jia wen wu ju bian. //   早期中国 : 中华文明起源 / 中华人民共和国科学技术部, 国家文物局编.</BIB_TITLE>
+  <PUB_DATE>2009</PUB_DATE>
+  <Z13_IMPRINT>04 Beijing Shi : Wen wu chu ban she, 2009.</Z13_IMPRINT>
+  <CALL_NUMBER> DS721 .Z36 2009</CALL_NUMBER>
+  <BARCODE>31154050708138</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20140625</DATE_ADDED>
+  <BSN>004006677</BSN>
+  <BIB_TITLE>   Ducang Shan yu Nanwang Shan : tu dun mu fa jue bao gao / Zhejiang Sheng wen wu kao gu yan jiu suo, Deqing Xian bo wu guan bian zhu. //   独仓山与南王山 : 土墩墓发掘报告 / 浙江省文物考古研究所, 德清县博物馆编著.</BIB_TITLE>
+  <PUB_DATE>2007</PUB_DATE>
+  <Z13_IMPRINT>04 Beijing : Ke xue chu ban she, 2007.</Z13_IMPRINT>
+  <CALL_NUMBER> DS797.88.D475 D83 2007</CALL_NUMBER>
+  <BARCODE>31154050708930</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20140617</DATE_ADDED>
+  <BSN>004002638</BSN>
+  <BIB_TITLE>   Huang He zhong xia you di qu shi qian ren kou yan jiu / Wang Jianhua zhu. //   黄河中下游地区史前人口研究 / 王建华著.</BIB_TITLE>
+  <PUB_DATE>2011</PUB_DATE>
+  <CALL_NUMBER> GN776.32.C58 W26 2011</CALL_NUMBER>
+  <BARCODE>31154050708294</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20140617</DATE_ADDED>
+  <BSN>004002647</BSN>
+  <BIB_TITLE>   Gu wen zi yu qing tong qi lun ji / Zhang Maorong zhu. //   古文字与青铜器论集 / 张懋鎔著.</BIB_TITLE>
+  <PUB_DATE>2002</PUB_DATE>
+  <Z13_IMPRINT>04 Beijing : Ke xue chu ban she, 2002-&lt;2010 &gt;</Z13_IMPRINT>
+  <CALL_NUMBER> PL2447 .Z52 2002</CALL_NUMBER>
+  <VOLUME_INFO>v.3</VOLUME_INFO>
+  <BARCODE>31154050708310</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20140623</DATE_ADDED>
+  <BSN>004005659</BSN>
+  <BIB_TITLE>   Boluo Henglingshan : Shang Zhou shi qi mu di 2000 nian fa jue bao gao / Guangdong Sheng wen wu kao gu yan jiu suo bian zhu. //   博罗横岭山 : 商周时期墓地2000年发掘报告 / 广东省文物考古研究所编著.</BIB_TITLE>
+  <PUB_DATE>2005</PUB_DATE>
+  <Z13_IMPRINT>04 Beijing : Ke xue chu ban she, 2005.</Z13_IMPRINT>
+  <CALL_NUMBER> DS797.32.B658 B63 2005</CALL_NUMBER>
+  <BARCODE>31154050708740</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20140623</DATE_ADDED>
+  <BSN>004005693</BSN>
+  <BIB_TITLE>   Zengguo qing tong qi yan jiu / Zhang Changping zhu. //   曾国青铜器研究 / 张昌平著.</BIB_TITLE>
+  <PUB_DATE>2009</PUB_DATE>
+  <Z13_IMPRINT>04 Beijing : Wen wu chu ban she, 2009.</Z13_IMPRINT>
+  <CALL_NUMBER> DS797.48.S85 Z42 2007</CALL_NUMBER>
+  <BARCODE>31154050708807</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20140623</DATE_ADDED>
+  <BSN>004005765</BSN>
+  <BIB_TITLE>  Studies on the Assyrian ritual and series bît rimki / Jørgen Læssøe.</BIB_TITLE>
+  <PUB_DATE>1955</PUB_DATE>
+  <Z13_IMPRINT>[København] : Munksgaard, 1955.</Z13_IMPRINT>
+  <CALL_NUMBER> BL1620 .L34 1955</CALL_NUMBER>
+  <Z30_NOTE_INTERNAL>Tadmor</Z30_NOTE_INTERNAL>
+  <BARCODE>31154050651247</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20140623</DATE_ADDED>
+  <BSN>002221508</BSN>
+  <BIB_TITLE>  Two nations under God : the Deuteronomistic history of Solomon and the dual monarchies / Gary N. Knoppers.</BIB_TITLE>
+  <PUB_DATE>1993</PUB_DATE>
+  <Z13_IMPRINT>Atlanta, Ga. : Scholars Press, c1993-1994.</Z13_IMPRINT>
+  <CALL_NUMBER> BS1335.2 .K66 1993</CALL_NUMBER>
+  <VOLUME_INFO>v.1</VOLUME_INFO>
+  <Z30_NOTE_INTERNAL>Tadmor</Z30_NOTE_INTERNAL>
+  <BARCODE>31154050651213</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20140623</DATE_ADDED>
+  <BSN>004005771</BSN>
+  <BIB_TITLE>   Yanshi Erlitou yi zhi yan jiu / Du Jinpeng, Xu Hong zhu bian. //   偃师二里头遗址研究 / 杜金鹏, 许宏主编.</BIB_TITLE>
+  <BIB_AUTHOR>  Du, Jinpeng  //  Xu, Hong, 1963 July- </BIB_AUTHOR>
+  <PUB_DATE>2005</PUB_DATE>
+  <Z13_IMPRINT>03 Beijing : Ke xue chu ban she, 2005.</Z13_IMPRINT>
+  <CALL_NUMBER> DS797.44.E75 Y36 2005</CALL_NUMBER>
+  <BARCODE>31154050708831</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20140605</DATE_ADDED>
+  <BSN>003741684</BSN>
+  <BIB_TITLE>   昭陵唐墓壁画 / 昭陵博物馆编 = The Tang mural paintintings [sic] at Zhaoling mausoleum / The Zhaoling Museum. //   Zhaoling Tang mu bi hua / Zhaoling bo wu guan bian = The Tang mural paintintings [sic] at Zhaoling mausoleum / The Zhaoling Museum.</BIB_TITLE>
   <PUB_DATE>2006</PUB_DATE>
   <Z13_IMPRINT>03 Beijing : Wen wu chu ban she, 2006.</Z13_IMPRINT>
-  <CALL_NUMBER> PL2448 .Z43 2006</CALL_NUMBER>
-  <BARCODE>31154050642535</BARCODE>
+  <CALL_NUMBER> ND2849.S47 Z436 2006</CALL_NUMBER>
+  <BARCODE>31154050707130</BARCODE>
  </ROW>
  <ROW>
-  <DATE_ADDED>20140130</DATE_ADDED>
-  <BSN>003928888</BSN>
-  <BIB_TITLE>  He has opened Nisaba's house of learning : studies in honor of Åke Waldemar Sjöberg on the occasion of his 89th birthday on August 1st 2013 / edited by Leonhard Sassmannshausen in collaboration with Georg Neumann.</BIB_TITLE>
-  <BIB_AUTHOR>  Sjöberg, Åke W. honoree. //  Sassmannshausen, Leonhard ed. //  Neumann, Georg ed.</BIB_AUTHOR>
-  <PUB_DATE>2014</PUB_DATE>
-  <Z13_IMPRINT>Leiden ; Boston : Brill, 2014.</Z13_IMPRINT>
-  <CALL_NUMBER> PJ3126.S56 H42 2014</CALL_NUMBER>
-  <BARCODE>31154050696077</BARCODE>
+  <DATE_ADDED>20140605</DATE_ADDED>
+  <BSN>003997495</BSN>
+  <BIB_TITLE>   Xincheng, Fangling, Yongtai gong zhu mu bi hua / zhu bian Li Guozhen ; zhuan fao Fan Shuying. //   新城, 房陵, 永泰公主墓壁画 / 主编李囯珍 ; 撰稿范淑英.</BIB_TITLE>
+  <BIB_AUTHOR>  Li, Guozhen </BIB_AUTHOR>
+  <PUB_DATE>2002</PUB_DATE>
+  <Z13_IMPRINT>04 Beijing : Wen wu chu ban she, 2002.</Z13_IMPRINT>
+  <CALL_NUMBER> ND2849.S47 F35 2002</CALL_NUMBER>
+  <BARCODE>31154050707189</BARCODE>
  </ROW>
  <ROW>
-  <DATE_ADDED>20140130</DATE_ADDED>
-  <BSN>003928890</BSN>
-  <BIB_TITLE>  The Romano-British peasant : towards a study of people, landscapes, and work during the Roman occupation of Britain / Mike McCarthy.</BIB_TITLE>
-  <PUB_DATE>2013</PUB_DATE>
-  <CALL_NUMBER> DA145 .M377 2013</CALL_NUMBER>
-  <BARCODE>31154050696085</BARCODE>
+  <DATE_ADDED>20140616</DATE_ADDED>
+  <BSN>004002530</BSN>
+  <BIB_TITLE>   Xian Qin liang Han Ling nan jian zhu yan jiu / Cao Jin zhu. //   先秦两汉岭南建筑研究 / 曹劲著.</BIB_TITLE>
+  <PUB_DATE>2009</PUB_DATE>
+  <Z13_IMPRINT>04 Beijing : Ke xue chu ban she, 2009.</Z13_IMPRINT>
+  <CALL_NUMBER> NA1543.23 C36 2009</CALL_NUMBER>
+  <BARCODE>31154050708245</BARCODE>
  </ROW>
  <ROW>
-  <DATE_ADDED>20140130</DATE_ADDED>
-  <BSN>003928892</BSN>
-  <BIB_TITLE>   Chuguo tong qi yu zhu jian wen zi yan jiu = Chuguo tongqi yu zhujian wenzi yanjiu / Li Tianhong zhu. //   楚国铜器与竹简文字研究 = Chuguo tongqi yu zhujian wenzi yanjiu / 李天虹著.</BIB_TITLE>
-  <PUB_DATE>2012</PUB_DATE>
-  <Z13_IMPRINT>04 Wuhan Shi : Hubei jiao yu chu ban she, 2012.</Z13_IMPRINT>
-  <CALL_NUMBER> PL2448 .L55 2012</CALL_NUMBER>
-  <BARCODE>31154050642410</BARCODE>
- </ROW>
- <ROW>
-  <DATE_ADDED>20140131</DATE_ADDED>
-  <BSN>003929312</BSN>
-  <BIB_TITLE>  Historic map of ancient Near and Middle East = Historische Karte des alten nahen und mittleren Orients / Wilhelm Berg.</BIB_TITLE>
-  <PUB_DATE>1977</PUB_DATE>
-  <Z13_IMPRINT>Fischbachau-Aurach : W. Berg, [1977]</Z13_IMPRINT>
-  <CALL_NUMBER> G2205 .B47 1977</CALL_NUMBER>
-  <Z30_NOTE_INTERNAL>Astrom</Z30_NOTE_INTERNAL>
-  <BARCODE>31154050696135</BARCODE>
- </ROW>
- <ROW>
-  <DATE_ADDED>20140131</DATE_ADDED>
-  <BSN>003929325</BSN>
-  <BIB_TITLE>  Historische Karte des alten Ägypten / Wilhelm Berg.</BIB_TITLE>
-  <PUB_DATE>1973</PUB_DATE>
-  <Z13_IMPRINT>St. Augustin : H. Richarz, c1973.</Z13_IMPRINT>
-  <CALL_NUMBER> G2490 .B47 1973</CALL_NUMBER>
-  <Z30_NOTE_INTERNAL>Astrom</Z30_NOTE_INTERNAL>
-  <BARCODE>31154050696143</BARCODE>
- </ROW>
- <ROW>
-  <DATE_ADDED>20140131</DATE_ADDED>
-  <BSN>003929461</BSN>
-  <BIB_TITLE>  Antichnye pami͡atniki na territorii SSSR / [redakt͡sionnai͡a kollegii͡a N.N. Voronin ... et al.].</BIB_TITLE>
-  <BIB_AUTHOR>  Voronin, Nikolaĭ Nikolaevich, 1904-1976 ed. //  Kruglikova, Irina Timofeevna.</BIB_AUTHOR>
-  <PUB_DATE>1972</PUB_DATE>
-  <Z13_IMPRINT>Moskva : Izd-vo "Nauka", 1972.</Z13_IMPRINT>
-  <CALL_NUMBER> DK508.9.B57 A59 1972</CALL_NUMBER>
-  <BARCODE>31154050696168</BARCODE>
- </ROW>
- <ROW>
-  <DATE_ADDED>20140131</DATE_ADDED>
-  <BSN>003929465</BSN>
-  <BIB_TITLE>   Liye Qin jian jiao shi (di yi juan) / Zhu bian Chen Wei ; zhuan zhe He Youzu, Lu Jialiang, Fan Guodong. //   里耶秦簡牘校釋 (第一卷) / 主編陳偉 ; 撰者何有祖, 魯家亮, 凡國棟.</BIB_TITLE>
-  <BIB_AUTHOR>  Lu, Jialiang  author.</BIB_AUTHOR>
-  <PUB_DATE>2012</PUB_DATE>
-  <CALL_NUMBER> PL2448 .C53 2012</CALL_NUMBER>
-  <BARCODE>31154050642543</BARCODE>
- </ROW>
- <ROW>
-  <DATE_ADDED>20140130</DATE_ADDED>
-  <BSN>003928940</BSN>
-  <BIB_TITLE>  The Chicago Painter and the Villa Giulia Painter's group / Siv Blomqvist-Linér.</BIB_TITLE>
-  <PUB_DATE>2004</PUB_DATE>
-  <CALL_NUMBER> NK4649 .B56 2004</CALL_NUMBER>
-  <Z30_NOTE_INTERNAL>Astrom</Z30_NOTE_INTERNAL>
-  <BARCODE>31154050696101</BARCODE>
- </ROW>
- <ROW>
-  <DATE_ADDED>20140130</DATE_ADDED>
-  <BSN>003928941</BSN>
-  <BIB_TITLE>   Zhongguo fang shu zheng kao / Li Ling zhu. //   中国方术正考 / 李零著.</BIB_TITLE>
+  <DATE_ADDED>20140616</DATE_ADDED>
+  <BSN>004002552</BSN>
+  <BIB_TITLE>   Cheng Yang qing tong qi / Xi bei da xue wen bo xue yuan, Shanxi Sheng wen wu ju bian ; Zhao Congcang zhu bian. //   城洋青銅器 / 西北大学文博学院, 陝西省文物局编 ; 赵丛苍主编.</BIB_TITLE>
+  <BIB_AUTHOR>  Zhao, Congcang, 1952- </BIB_AUTHOR>
   <PUB_DATE>2006</PUB_DATE>
-  <Z13_IMPRINT>04 Beijing : Zhonghua shu ju, 2006.</Z13_IMPRINT>
-  <CALL_NUMBER> BF1434.C5 L5 2006</CALL_NUMBER>
-  <BARCODE>31154050642444</BARCODE>
+  <Z13_IMPRINT>03 Beijing : Ke xue chu ban she, 2006.</Z13_IMPRINT>
+  <CALL_NUMBER> NK7983.A5 C44 2006</CALL_NUMBER>
+  <BARCODE>31154050708260</BARCODE>
  </ROW>
  <ROW>
-  <DATE_ADDED>20140123</DATE_ADDED>
-  <BSN>003926191</BSN>
-  <BIB_TITLE>  Nordisk laboratorium for termoluminiscens-datering : (vejledning for brugere) / Vagn Mejdahl.</BIB_TITLE>
-  <PUB_DATE>1983</PUB_DATE>
-  <Z13_IMPRINT>Roskilde : Nordisk laboratorium for TL-datering, 1983.</Z13_IMPRINT>
-  <CALL_NUMBER> QC479 .M45 1983</CALL_NUMBER>
-  <Z30_NOTE_INTERNAL>Astrom</Z30_NOTE_INTERNAL>
-  <BARCODE>31154050695905</BARCODE>
- </ROW>
- <ROW>
-  <DATE_ADDED>20140131</DATE_ADDED>
-  <BSN>000092869</BSN>
-  <BIB_TITLE>   Chen Mengjia zhu zuo ji : Han jian zhui shu / Chen Mengjia zhu ; Zhongguo she hui ke xue yuan kao gu yan jiu suo bian ji. //   陳夢家著作集 : 漢簡綴述 / 陳夢家著 ; 中國社會科學院考古研究所編輯.</BIB_TITLE>
-  <PUB_DATE>2004</PUB_DATE>
-  <Z13_IMPRINT>05 Beijing : Zhonghua shu ju, 1980 (2004 printing)</Z13_IMPRINT>
-  <CALL_NUMBER> PL2447 .C42 2004</CALL_NUMBER>
-  <BARCODE>31154050642519</BARCODE>
- </ROW>
- <ROW>
-  <DATE_ADDED>20140131</DATE_ADDED>
-  <BSN>003929386</BSN>
-  <BIB_TITLE>  Rimskata vila pri Ivaĭlovgrad : mramorna stenna dekorat︠s︡ii︠a︡ = La villa romaine pres d'Ivailovgrad : incrustations murales en marbre = Rimskai︠a︡ vila bliz Ivaĭlovgrada : mramornai︠a︡ dekorat︠s︡ii︠a︡ sten / avtor-sŭstavitel I︠A︡nka Mladenova.</BIB_TITLE>
-  <PUB_DATE>1975</PUB_DATE>
-  <CALL_NUMBER> DR98.I93 M55 1975</CALL_NUMBER>
-  <Z30_NOTE_INTERNAL>Astrom</Z30_NOTE_INTERNAL>
-  <BARCODE>31154050696150</BARCODE>
- </ROW>
- <ROW>
-  <DATE_ADDED>20140130</DATE_ADDED>
-  <BSN>003928907</BSN>
-  <BIB_TITLE>   Zhongguo fang shu xu kao / Li Ling zhu. //   中国方术续考 / 李零著.</BIB_TITLE>
-  <PUB_DATE>2006</PUB_DATE>
-  <Z13_IMPRINT>04 Beijing : Zhonghua shu ju, 2006.</Z13_IMPRINT>
-  <CALL_NUMBER> BF1434.C5 L52 2006</CALL_NUMBER>
-  <BARCODE>31154050642436</BARCODE>
- </ROW>
- <ROW>
-  <DATE_ADDED>20140113</DATE_ADDED>
-  <BSN>003917871</BSN>
-  <BIB_TITLE>   Zhongguo wen wu di tu ji / Guo jia wen wu ju zhu bian. //   中国文物地图集 / 国家文物局主编.</BIB_TITLE>
-  <PUB_DATE>1992</PUB_DATE>
-  <Z13_IMPRINT>04 [Guangdong Sheng] : Guangdong Sheng di tu chu ban she, 1992-</Z13_IMPRINT>
-  <CALL_NUMBER> G2306.E1 C5 1992</CALL_NUMBER>
-  <VOLUME_INFO>v.17:pt.2</VOLUME_INFO>
-  <BARCODE>31154050641982</BARCODE>
- </ROW>
- <ROW>
-  <DATE_ADDED>20140131</DATE_ADDED>
-  <BSN>003929307</BSN>
-  <BIB_TITLE>  Kodansha's furigana Japanese dictionary : Japanese-English, English-Japanese.</BIB_TITLE>
-  <BIB_AUTHOR>  Nakamura, Yoshikatsu, 1921- //  Yoshida, Masatoshi, 1913-</BIB_AUTHOR>
+  <DATE_ADDED>20140617</DATE_ADDED>
+  <BSN>004002558</BSN>
+  <BIB_TITLE>   Gu dai bei fang min zu shi cong kao / Cao Yongnian zhu. //   古代北方民族史丛考 / 曹永年著.</BIB_TITLE>
   <PUB_DATE>2012</PUB_DATE>
-  <Z13_IMPRINT>New York : Kodansha USA, c2012.</Z13_IMPRINT>
-  <CALL_NUMBER> Dict. jpn 2012</CALL_NUMBER>
-  <BARCODE>31154050696127</BARCODE>
+  <CALL_NUMBER> DS730 .C336 2012</CALL_NUMBER>
+  <BARCODE>31154050708278</BARCODE>
  </ROW>
  <ROW>
-  <DATE_ADDED>20140130</DATE_ADDED>
-  <BSN>003928987</BSN>
-  <BIB_TITLE>  The third millennium roots of Babylonian mathematics. I, A method for the decipherment, through mathematical and metrological analysis, of proto-Sumerian and proto-Elamite semi-pictographic inscriptions / Jöran Friberg.</BIB_TITLE>
-  <PUB_DATE>1978</PUB_DATE>
-  <CALL_NUMBER> QA22 .F7497 1978</CALL_NUMBER>
-  <Z30_NOTE_INTERNAL>Astrom</Z30_NOTE_INTERNAL>
-  <BARCODE>31154050222858</BARCODE>
+  <DATE_ADDED>20140617</DATE_ADDED>
+  <BSN>004002614</BSN>
+  <BIB_TITLE>   Zhan guo Qin Han jian bo wen xian suo jian wu shu yan jiu / Lü Yahu zhu. //   战国秦汉简帛文献所见巫术研究 / 吕亚虎著.</BIB_TITLE>
+  <PUB_DATE>2010</PUB_DATE>
+  <Z13_IMPRINT>04 Beijing : Ke xue chu ban she, 2010.</Z13_IMPRINT>
+  <CALL_NUMBER> BF1434.C5 L8 2010</CALL_NUMBER>
+  <BARCODE>31154050708286</BARCODE>
  </ROW>
  <ROW>
-  <DATE_ADDED>20140130</DATE_ADDED>
-  <BSN>003928998</BSN>
-  <BIB_TITLE>  Aphrodites Schwestern : Objektliste / Übersee-Museum.</BIB_TITLE>
-  <PUB_DATE>1987</PUB_DATE>
-  <CALL_NUMBER> N5430 .A6396 1987</CALL_NUMBER>
-  <Z30_NOTE_INTERNAL>Astrom</Z30_NOTE_INTERNAL>
-  <BARCODE>31154050696119</BARCODE>
+  <DATE_ADDED>20140617</DATE_ADDED>
+  <BSN>004002639</BSN>
+  <BIB_TITLE>   Lingshi Jingjie Shang mu / Shanxi Sheng kao gu yan jiu suo, Hai Jinle, Han Binghua bian zhu. //   灵石旌介商墓 / 山西省考古研究所, 海金乐, 韩炳华编著.</BIB_TITLE>
+  <BIB_AUTHOR>  Han, Binghua </BIB_AUTHOR>
+  <PUB_DATE>2006</PUB_DATE>
+  <Z13_IMPRINT>04 Beijing : Ke xue chu ban she, 2006.</Z13_IMPRINT>
+  <CALL_NUMBER> DS797.75.L568 H35 2006</CALL_NUMBER>
+  <BARCODE>31154050708302</BARCODE>
  </ROW>
  <ROW>
-  <DATE_ADDED>20140123</DATE_ADDED>
-  <BSN>003926103</BSN>
-  <BIB_TITLE>   Han yu da ci dian / Han yu da ci dian bian ji wei yuan hui, Han yu da ci dian bian zuan chu bian zuan ; zhu bian Luo Zhufeng. //   漢語大詞典 / 汉语大词典编辑委员会, 汉语大词典编纂处编纂 ; 主编罗竹风.</BIB_TITLE>
-  <BIB_AUTHOR>  Luo, Zhufeng </BIB_AUTHOR>
+  <DATE_ADDED>20140626</DATE_ADDED>
+  <BSN>004007659</BSN>
+  <BIB_TITLE>   Han Jin jian she hui jie ceng sheng jiang yu li shi bian qian = Movements between the Han and Jin social class and historical change / Wang Yongping zhu. //   汉晋间社会阶层升降与历史变迁 = Movements between the Han and Jin social class and historical change / 王永平著.</BIB_TITLE>
   <PUB_DATE>2011</PUB_DATE>
-  <CALL_NUMBER> PL1420 .H349 2011</CALL_NUMBER>
-  <VOLUME_INFO>v.12:pt.2</VOLUME_INFO>
-  <BARCODE>31154050642253</BARCODE>
+  <Z13_IMPRINT>04 Beijing : She hui ke xue wen xian chu ban she, 2011.</Z13_IMPRINT>
+  <CALL_NUMBER> DS747.38 .W357 2011</CALL_NUMBER>
+  <BARCODE>31154050709086</BARCODE>
  </ROW>
  <ROW>
-  <DATE_ADDED>20140123</DATE_ADDED>
-  <BSN>003926125</BSN>
-  <BIB_TITLE>  F.W. Putzgers historischer Schul-Atlas zur alten, mittleren und neuen Geschichte / bearbeitet und herausgegeben von Alfred Baldamus und Ernst Schwabe ; ausgeführt in der Geographischen Anstalt von Velhagen &amp; Klasing in Leipzig.</BIB_TITLE>
-  <BIB_AUTHOR>  Baldamus, Alfred, 1856-1908 ed. //  Schwabe, Ernst, 1858- ed.</BIB_AUTHOR>
-  <PUB_DATE>1904</PUB_DATE>
-  <Z13_IMPRINT>Bielefeld ; Leipzig : Velhagen &amp; Klasing, 1904.</Z13_IMPRINT>
-  <CALL_NUMBER> G1030 .P8 1904</CALL_NUMBER>
+  <DATE_ADDED>20140626</DATE_ADDED>
+  <BSN>004007667</BSN>
+  <BIB_TITLE>   Shi ke gu wen zi / Zhao Chao zhu. //   石刻古文字 / 趙超著.</BIB_TITLE>
+  <PUB_DATE>2006</PUB_DATE>
+  <Z13_IMPRINT>04 Beijing : Wen wu chu ban she, 2006.</Z13_IMPRINT>
+  <CALL_NUMBER> PL2447 .Z47 2006</CALL_NUMBER>
+  <BARCODE>31154050709094</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20140626</DATE_ADDED>
+  <BSN>004007690</BSN>
+  <BIB_TITLE>  Les rapports de Chypre avec le monde extérieur au passage de l'âge du bronze à l'âge du fer / Valérie Cook.</BIB_TITLE>
+  <PUB_DATE>1982</PUB_DATE>
+  <CALL_NUMBER> DS54.3 .C675 1982a</CALL_NUMBER>
+  <VOLUME_INFO>v.1</VOLUME_INFO>
+  <BARCODE>31154050651486</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20140626</DATE_ADDED>
+  <BSN>004007697</BSN>
+  <BIB_TITLE>  Cypriots in stone : limestone sculpture in late Hellenistic and Roman Cyprus / by Maria Bruun-Lundgren.</BIB_TITLE>
+  <PUB_DATE>2002</PUB_DATE>
+  <Z13_IMPRINT>[Göteborg] : Department of Classical Archaeology and Ancient History, Göteborg University, 2002.</Z13_IMPRINT>
+  <CALL_NUMBER> NB1296.3 .B78 2002</CALL_NUMBER>
   <Z30_NOTE_INTERNAL>Astrom</Z30_NOTE_INTERNAL>
-  <BARCODE>31154050695889</BARCODE>
+  <BARCODE>31154050651502</BARCODE>
  </ROW>
  <ROW>
-  <DATE_ADDED>20140123</DATE_ADDED>
-  <BSN>003926110</BSN>
-  <BIB_TITLE>  Séance publique annuelle et commémoration du centenaire de la grande fouille de Delphes par l'École française d'Athènes : séance du vendredi 27 novembre 1992.</BIB_TITLE>
-  <PUB_DATE>1992</PUB_DATE>
-  <CALL_NUMBER> DF261.D35 A25 1992</CALL_NUMBER>
-  <Z30_NOTE_INTERNAL>Astrom</Z30_NOTE_INTERNAL>
-  <BARCODE>31154050695871</BARCODE>
+  <DATE_ADDED>20140626</DATE_ADDED>
+  <BSN>004007699</BSN>
+  <BIB_TITLE>   E'erduosi shi hai gou chen / Gao Yi, Wang Zhihao, Yang Zemeng bian zhu. //   鄂尔多斯史海钩沉 / 高毅, 王志浩, 杨泽蒙编著.</BIB_TITLE>
+  <BIB_AUTHOR>  Wang, Zhihao  author. //  Yang, Zemeng  author.</BIB_AUTHOR>
+  <PUB_DATE>0</PUB_DATE>
+  <CALL_NUMBER> DS797.54.O74 G26 2008</CALL_NUMBER>
+  <BARCODE>31154050709102</BARCODE>
  </ROW>
  <ROW>
-  <DATE_ADDED>20140123</DATE_ADDED>
-  <BSN>003926177</BSN>
-  <BIB_TITLE>  Haremhab und die Amarnazeit. Haremhabs Laufbahn bis zur Thronbesteigung / von Kurt Pflüger.</BIB_TITLE>
-  <PUB_DATE>1936</PUB_DATE>
-  <Z13_IMPRINT>Zwickau : F. Ullmann, 1936.</Z13_IMPRINT>
-  <CALL_NUMBER> DT87.8 .P48 1936</CALL_NUMBER>
-  <Z30_NOTE_INTERNAL>Astrom</Z30_NOTE_INTERNAL>
-  <BARCODE>31154050695897</BARCODE>
+  <DATE_ADDED>20140626</DATE_ADDED>
+  <BSN>004007707</BSN>
+  <BIB_TITLE>   Fo jiao mei shu cong kao / Jin Shen zhu. //   佛敎美術叢考 / 金申著.</BIB_TITLE>
+  <PUB_DATE>2004</PUB_DATE>
+  <Z13_IMPRINT>04 Beijing : Ke xue chu ban she, 2004.</Z13_IMPRINT>
+  <CALL_NUMBER> N8193.A4 J564 2004</CALL_NUMBER>
+  <BARCODE>31154050709110</BARCODE>
  </ROW>
  <ROW>
-  <DATE_ADDED>20140122</DATE_ADDED>
-  <BSN>003925513</BSN>
-  <BIB_TITLE>  Historische Wasserleitungen : Gestern - Heute - Morgen : Internationales Symposium mit besonderer Berücksichtigung ihrer denkmalgerechten und betriebssicheren Erhaltung, Wien, 19.-23. Oktober 2011 / herausgegeben von Gilbert Wiplinger.</BIB_TITLE>
-  <BIB_AUTHOR>  Wiplinger, Gilbert ed.</BIB_AUTHOR>
+  <DATE_ADDED>20140626</DATE_ADDED>
+  <BSN>004007711</BSN>
+  <BIB_TITLE>   Fuzhai jin wen kao / Chen Jieqi zhu ; Chen Jikui zheng li. //   簠齋金文考 / 陳介祺著 ; 陳繼揆整理.</BIB_TITLE>
+  <BIB_AUTHOR>  Chen, Jikui </BIB_AUTHOR>
+  <PUB_DATE>2005</PUB_DATE>
+  <Z13_IMPRINT>04 Beijing : Wen wu chu ban she, 2005.</Z13_IMPRINT>
+  <CALL_NUMBER> PL2447 .C5455 2005</CALL_NUMBER>
+  <BARCODE>31154050709128</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20140627</DATE_ADDED>
+  <BSN>004008231</BSN>
+  <BIB_TITLE>   Yun'gang shi ku da shi ji / Yun'gang shi ku wen wu yan jiu suo bian. //   云冈石窟大事记 / 云冈石窟文物研究所编.</BIB_TITLE>
+  <PUB_DATE>2005</PUB_DATE>
+  <Z13_IMPRINT>03 Beijing : Wen wu chu ban she, 2005.</Z13_IMPRINT>
+  <CALL_NUMBER> DS797.75.Y865 Y86 2005</CALL_NUMBER>
+  <BARCODE>31154050709136</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20140627</DATE_ADDED>
+  <BSN>004008249</BSN>
+  <BIB_TITLE>   Xi Han Shui shang you kao gu diao cha bao gao / Gansu Sheng wen wu kao gu yan jiu suo, Zhongguo guo jia bo wu guan ... [et al.]. //   西汉水上游考古调查报告 / 甘肃省文物考古研究所, 中国国家博物馆 ... [et al.].</BIB_TITLE>
+  <PUB_DATE>2008</PUB_DATE>
+  <Z13_IMPRINT>03 Beijing : Wen wu chu ban she, 2008.</Z13_IMPRINT>
+  <CALL_NUMBER> DS793.K2 X53 2008</CALL_NUMBER>
+  <BARCODE>31154050709151</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20140616</DATE_ADDED>
+  <BSN>004002404</BSN>
+  <BIB_TITLE>   Zhongguo bei fang di qu chu tu de Xian Qin shi qi tong dao yan jiu / Lü Xueming zhu. //   中国北方地区出土的先秦时期铜刀研究 / 吕学明著.</BIB_TITLE>
+  <PUB_DATE>2010</PUB_DATE>
+  <Z13_IMPRINT>04 Beijing : Ke xue chu ban she, 2010.</Z13_IMPRINT>
+  <CALL_NUMBER> NK6683.A3N6 L8 2010</CALL_NUMBER>
+  <BARCODE>31154050708146</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20140616</DATE_ADDED>
+  <BSN>004002416</BSN>
+  <BIB_TITLE>   Zao qi Zhongguo qing tong ge, ji yan jiu / Jing Zhongwei zhu. //   早期中国青铜戈・戟研究 / 井中伟著.</BIB_TITLE>
+  <PUB_DATE>2011</PUB_DATE>
+  <Z13_IMPRINT>04 Beijing : Ke xue chu ban she, 2011.</Z13_IMPRINT>
+  <CALL_NUMBER> NK6683.A1 J56 2011</CALL_NUMBER>
+  <BARCODE>31154050708161</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20140611</DATE_ADDED>
+  <BSN>004000237</BSN>
+  <BIB_TITLE>   Xingtai Shang Zhou yi zhi / Hebei Sheng wen wu yan jiu suo bian zhu ; Duan Hongzhen zhu bian. //   邢台商周遗址 / 河北省文物研究所编著 ; 段宏振主编.</BIB_TITLE>
+  <BIB_AUTHOR>  Duan, Hongzhen </BIB_AUTHOR>
+  <PUB_DATE>2011</PUB_DATE>
+  <Z13_IMPRINT>03 Beijing : Wen wu chu ban she, 2011.</Z13_IMPRINT>
+  <CALL_NUMBER> DS797.39.X55 X567 2011</CALL_NUMBER>
+  <BARCODE>31154050707759</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20140613</DATE_ADDED>
+  <BSN>004001484</BSN>
+  <BIB_TITLE>   Helin'geer Han mu bi hua xiao zi zhuan tu ji lu / Chen Yongzhi, Heitian Zhang zhu bian ; Zhongguo Nei Menggu Zizhiqu wen wu kao gu yan jiu suo, Riben you xue hui. //   和林格爾漢墓壁畫孝子傳圖輯錄 / 陳永志, 黑田彰主編 ; 中國内蒙古自治區文物考古研究所, 日本幼學會.</BIB_TITLE>
+  <BIB_AUTHOR>  Chen, Yongzhi  //  Kuroda, Akira, 1950- </BIB_AUTHOR>
+  <PUB_DATE>2009</PUB_DATE>
+  <Z13_IMPRINT>03 Beijing Shi : Wen wu chu ban she, 2009.</Z13_IMPRINT>
+  <CALL_NUMBER> ND2850.H83 H42 2009</CALL_NUMBER>
+  <BARCODE>31154050708039</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20140626</DATE_ADDED>
+  <BSN>004007047</BSN>
+  <BIB_TITLE>   Tongguan Shui Cun Sui dai bi hua mu / Shanxi Sheng kao gu yan jiu suo bian zhu. //   潼关稅村隋代壁画墓 / 陕西省考古研究所编著.</BIB_TITLE>
   <PUB_DATE>2013</PUB_DATE>
-  <Z13_IMPRINT>Leuven ; Walpole, MA : Peeters, 2013.</Z13_IMPRINT>
-  <CALL_NUMBER> TD215 .H57 2013</CALL_NUMBER>
-  <BARCODE>31154050695848</BARCODE>
+  <CALL_NUMBER> DS797.68.T67 T66 2013</CALL_NUMBER>
+  <VOLUME_INFO>v.2:suppl.</VOLUME_INFO>
+  <BARCODE>31154050709011</BARCODE>
  </ROW>
  <ROW>
-  <DATE_ADDED>20140122</DATE_ADDED>
-  <BSN>003925536</BSN>
-  <BIB_TITLE>  Geoarchaeology of the landscapes of classical antiquity : international colloquium Ghent, 23-24 October 1998 = Géoarchéologie des paysages de l'antiquité classique : colloque international Gand, 23-24 octobre 1998 / edited by Frank Vermeulen &amp; Morgan De Dapper.</BIB_TITLE>
-  <BIB_AUTHOR>  Vermeulen, Frank ed. //  Dapper, Morgan de ed.</BIB_AUTHOR>
-  <PUB_DATE>2000</PUB_DATE>
-  <Z13_IMPRINT>Leiden : Stichting Babesch, 2000.</Z13_IMPRINT>
-  <CALL_NUMBER> CC77.5 .G466 2000</CALL_NUMBER>
-  <BARCODE>31154050695855</BARCODE>
+  <DATE_ADDED>20140626</DATE_ADDED>
+  <BSN>004007534</BSN>
+  <BIB_TITLE>   Jinguo qing tong yi shu tu jian = Jinguo qingtong yishu tujian / Li Xiating, Li Shaoxuan bian zhu. //   晋国青铜艺术图鉴 = Jinguo qingtong yishu tujian / 李夏廷, 李劭轩编著.</BIB_TITLE>
+  <PUB_DATE>2009</PUB_DATE>
+  <Z13_IMPRINT>04 Beijing Shi : Wen wu chu ban she, 2009.</Z13_IMPRINT>
+  <CALL_NUMBER> NK7983.A3 S5489 2009</CALL_NUMBER>
+  <BARCODE>31154050709037</BARCODE>
  </ROW>
  <ROW>
-  <DATE_ADDED>20140123</DATE_ADDED>
-  <BSN>003926211</BSN>
-  <BIB_TITLE>  Novae, sektor zachodni 1974 : wyniki badań wykopaliskowych Ekspedycji Archeologicznej Uniwersytetu im. Adama Mickiewicza w Poznaniu / kierownictwo naukowe i redakcja Stefan Parnicki-Pudełko.</BIB_TITLE>
-  <BIB_AUTHOR>  Parnicki-Pudełko, Stefan ed.</BIB_AUTHOR>
-  <PUB_DATE>1978</PUB_DATE>
-  <Z13_IMPRINT>Poznań : Wydawn. Nauk. Uniwersytetu im. Adama Mickiewicza w Poznaniu, 1978-</Z13_IMPRINT>
-  <CALL_NUMBER> DR98.N57 E38 1974</CALL_NUMBER>
-  <VOLUME_INFO>cz.2</VOLUME_INFO>
-  <Z30_NOTE_INTERNAL>Astrom</Z30_NOTE_INTERNAL>
-  <BARCODE>31154050695913</BARCODE>
+  <DATE_ADDED>20140626</DATE_ADDED>
+  <BSN>004007541</BSN>
+  <BIB_TITLE>  Lemba and Kissonerga / text by Paul Croft ; with Edgar Peltenburg &amp; Gordon Thomas.</BIB_TITLE>
+  <BIB_AUTHOR>  Peltenburg, E. J. //  Thomas, Gordon, 1952-</BIB_AUTHOR>
+  <PUB_DATE>1999</PUB_DATE>
+  <Z13_IMPRINT>Nicosia : Bank of Cyprus Cultural Foundation in collaboration with the Dept. of Antiquities, 1999.</Z13_IMPRINT>
+  <CALL_NUMBER> DS54.95.L45 C76 1999</CALL_NUMBER>
+  <BARCODE>31154050651452</BARCODE>
  </ROW>
  <ROW>
-  <DATE_ADDED>20140124</DATE_ADDED>
-  <BSN>000149767</BSN>
-  <BIB_TITLE>   Zhan guo gu wen zi dian : Zhan guo wen zi sheng xi / He Linyi zhu. //   戰國古文字典 : 戰國文字聲系 / 何琳儀著.</BIB_TITLE>
+  <DATE_ADDED>20140626</DATE_ADDED>
+  <BSN>004007542</BSN>
+  <BIB_TITLE>   Qin Yongcheng Doufu Cun Zhan guo zhi tao zuo fang yi zhi / Shanxi Sheng kao gu yan jiu yuan, Baoji Shi kao gu yan jiu suo, Fengxiang Xian bo wu guan bian zhu. //   秦雍城豆腐村战国制陶作坊遗址 / 陕西省考古研究院, 宝鸡市考古研究所, 凤翔县博物馆编著.</BIB_TITLE>
+  <PUB_DATE>2013</PUB_DATE>
+  <CALL_NUMBER> DS747.2 .Q25 2013</CALL_NUMBER>
+  <BARCODE>31154050709052</BARCODE>
+ </ROW>
+  <ROW>
+  <DATE_ADDED>20140602</DATE_ADDED>
+  <BSN>003995604</BSN>
+  <BIB_TITLE>  Mesopotamia and the Bible : comparative explorations / edited by Mark W. Chavalas and K. Lawson Younger, Jr.</BIB_TITLE>
+  <BIB_AUTHOR>  Younger, K. Lawson contributor, editor. //  Chavalas, Mark W. (Mark William), 1954- contributor, editor.</BIB_AUTHOR>
+  <PUB_DATE>2002</PUB_DATE>
+  <Z13_IMPRINT>Grand Rapids, Mich. : Baker Academic, ©2002.</Z13_IMPRINT>
+  <CALL_NUMBER> DS67.4 .M47 2002</CALL_NUMBER>
+  <Z30_NOTE_INTERNAL>Tadmor</Z30_NOTE_INTERNAL>
+  <BARCODE>31154050650223</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20140602</DATE_ADDED>
+  <BSN>003995667</BSN>
+  <BIB_TITLE>  Cicéron et ses amis : étude sur la société romaine du temps de César / [par] Gaston Boissier.</BIB_TITLE>
+  <PUB_DATE>1949</PUB_DATE>
+  <Z13_IMPRINT>Paris : Hachette [1949?]</Z13_IMPRINT>
+  <CALL_NUMBER> DG260.C5 B59 1949</CALL_NUMBER>
+  <Z30_NOTE_INTERNAL>Sijpesteijn</Z30_NOTE_INTERNAL>
+  <BARCODE>31154050706850</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20140602</DATE_ADDED>
+  <BSN>003995702</BSN>
+  <BIB_TITLE>  Anthologia lyrica Graeca / edidit Diehl Ernestus.</BIB_TITLE>
+  <PUB_DATE>1954</PUB_DATE>
+  <Z13_IMPRINT>Lipsiae : In aedibus B.G. Teubneri, 1954-</Z13_IMPRINT>
+  <CALL_NUMBER> PA3443.A5 D54 1954</CALL_NUMBER>
+  <VOLUME_INFO>fasc.2</VOLUME_INFO>
+  <Z30_NOTE_INTERNAL>Sijpesteijn</Z30_NOTE_INTERNAL>
+  <BARCODE>31154050706868</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20140602</DATE_ADDED>
+  <BSN>003995719</BSN>
+  <BIB_TITLE>  Les métamorphoses ... texte établi par D.S. Robertson ... et traduit par Paul Vallette ...</BIB_TITLE>
+  <BIB_AUTHOR>  Robertson, D. S. (Donald Struan), 1885-1961. //  Vallette, Paul, 1872- tr.</BIB_AUTHOR>
+  <PUB_DATE>1940</PUB_DATE>
+  <Z13_IMPRINT>Paris, Société d'édition "Les Belles lettres", 1940-1945.</Z13_IMPRINT>
+  <CALL_NUMBER> PA6207.M3 1940</CALL_NUMBER>
+  <VOLUME_INFO>t.2</VOLUME_INFO>
+  <Z30_NOTE_INTERNAL>Sijpesteijn</Z30_NOTE_INTERNAL>
+  <BARCODE>31154050706876</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20140602</DATE_ADDED>
+  <BSN>003995726</BSN>
+  <BIB_TITLE>  Les métamorphoses / Texte établi par D.S. Robertson et traduit par Paul Vallette.</BIB_TITLE>
+  <BIB_AUTHOR>  Robertson, D. S. (Donald Struan), 1885-1901. //  Vallette, Paul, 1872-</BIB_AUTHOR>
+  <PUB_DATE>1956</PUB_DATE>
+  <Z13_IMPRINT>Paris : Les Belles Lettres, 1956-1958.</Z13_IMPRINT>
+  <CALL_NUMBER> PA6207.M3 1956</CALL_NUMBER>
+  <VOLUME_INFO>t.1</VOLUME_INFO>
+  <Z30_NOTE_INTERNAL>Sijpesteijn</Z30_NOTE_INTERNAL>
+  <BARCODE>31154050706884</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20140624</DATE_ADDED>
+  <BSN>004006061</BSN>
+  <BIB_TITLE>   Cai Quanfa kao gu wen ji / Cai Quanfa zhu. //   蔡全法考古文集 / 蔡全法著.</BIB_TITLE>
+  <PUB_DATE>2013</PUB_DATE>
+  <Z13_IMPRINT>04 Beijing : Ke xue chu ban she, 2013.</Z13_IMPRINT>
+  <CALL_NUMBER> DS715 .C35 2013</CALL_NUMBER>
+  <BARCODE>31154050708856</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20140624</DATE_ADDED>
+  <BSN>004006180</BSN>
+  <BIB_TITLE>   Tie ti chi cheng : kao gu wen wu zhong de ma / Zhao Chao zhu. //   铁蹄驰骋 : 考古文物中的马 / 赵超著.</BIB_TITLE>
+  <PUB_DATE>2013</PUB_DATE>
+  <CALL_NUMBER> N7668.H6 Z43 2013</CALL_NUMBER>
+  <BARCODE>31154050708906</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20140624</DATE_ADDED>
+  <BSN>004006197</BSN>
+  <BIB_TITLE>  All the kingdoms of the earth : Israelite prophecy and international relations in the ancient Near East / Norman K. Gottwald.</BIB_TITLE>
+  <PUB_DATE>1964</PUB_DATE>
+  <Z13_IMPRINT>New York : Harper &amp; Row, ©1964.</Z13_IMPRINT>
+  <CALL_NUMBER> BS1199.P6 G68 1964</CALL_NUMBER>
+  <Z30_NOTE_INTERNAL>Tadmor</Z30_NOTE_INTERNAL>
+  <BARCODE>31154050651304</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20140603</DATE_ADDED>
+  <BSN>003995984</BSN>
+  <BIB_TITLE>   Sajia si bi hua bao hu xiu fu gong cheng bao gao / Duan Xiuye, Wang Xudong, Li Zuixiong, Fu Peng, Ge Sang bian zhu = Report on wall painting conservation and restoration project of Sa Skya Monastery / compiled by Duan Xiuye, Wang Xudong, Li Zuixiong, Fu Peng, Ge Sang. //   萨迦寺壁画保护修复工程报告 / 段修业, 王旭东, 李最雄, 傅鹏, 格桑编著 = Report on wall painting conservation and restoration project of Sa Skya Monastery / compiled by Duan Xiuye, Wang Xudong, Li Zuixiong, Fu Peng, Ge Sang.</BIB_TITLE>
+  <BIB_AUTHOR>  Ge, Sang  author. //  Li, Zuixiong, 1941-  author. //  Wang, Xudong  author.</BIB_AUTHOR>
+  <PUB_DATE>2013</PUB_DATE>
+  <CALL_NUMBER> ND2849.X34 D83 2013</CALL_NUMBER>
+  <BARCODE>31154050706975</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20140602</DATE_ADDED>
+  <BSN>001807229</BSN>
+  <BIB_TITLE>  Hephaestionis Enchiridion / cum commentariis veteribus edidit Maximilianus Consbruch. Accedunt variae metricorum graecorum reliquiae.</BIB_TITLE>
+  <BIB_AUTHOR>  Consbruch, Max, 1866-</BIB_AUTHOR>
+  <PUB_DATE>1906</PUB_DATE>
+  <Z13_IMPRINT>Lipsiae : B.G. Teubner, 1906.</Z13_IMPRINT>
+  <CALL_NUMBER> PA3404 .H52 1906</CALL_NUMBER>
+  <Z30_NOTE_INTERNAL>Sijpesteijn</Z30_NOTE_INTERNAL>
+  <BARCODE>31154050706751</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20140611</DATE_ADDED>
+  <BSN>001542358</BSN>
+  <BIB_TITLE>  "Each man cried out to his God" : the specialized religion of Canaanite and Phoenician seafarers / Aaron Jed Brody.</BIB_TITLE>
   <PUB_DATE>1998</PUB_DATE>
-  <Z13_IMPRINT>05 Beijing : Zhonghua shu ju, 1998.</Z13_IMPRINT>
-  <CALL_NUMBER> PL1281 .H636 1998</CALL_NUMBER>
-  <VOLUME_INFO>v.1</VOLUME_INFO>
-  <BARCODE>31154050642287</BARCODE>
+  <Z13_IMPRINT>Atlanta, Ga. : Scholars Press, c1998.</Z13_IMPRINT>
+  <CALL_NUMBER> BL1665.S24 B76 1998</CALL_NUMBER>
+  <Z30_NOTE_INTERNAL>Tadmor</Z30_NOTE_INTERNAL>
+  <BARCODE>31154050650793</BARCODE>
  </ROW>
  <ROW>
-  <DATE_ADDED>20140122</DATE_ADDED>
-  <BSN>003925453</BSN>
-  <BIB_TITLE>  Between Satricum and Antium : settlement dynamics in a coastal landscape in Latium Vetus / by Peter Attema, Tymon de Haas, and Gijs Tol ; with contributions by Luca Alessandri, Tycho Derks, Hendrik Feiken, Simone Malagodi, Claudio Moffa, Bert Nijboer, Harry Pape, Michelangelo La Rosa, Olaf Satijn, Lisa Volterrani, and Sarah Willemsen.</BIB_TITLE>
-  <BIB_AUTHOR>  Haas, Tymon C. A. de, 1979- author. //  Tol, Gijs Willem, author.</BIB_AUTHOR>
-  <PUB_DATE>2011</PUB_DATE>
-  <CALL_NUMBER> DG52 .A88 2011</CALL_NUMBER>
-  <BARCODE>31154050695830</BARCODE>
+  <DATE_ADDED>20140616</DATE_ADDED>
+  <BSN>000288883</BSN>
+  <BIB_TITLE>   Xiangyang Wangpo Dong Zhou Qin Han mu = Tombs of Eastern Zhou and Qin-Han periods at Wangpo, Xiangyang / Hubei Sheng wen wu kao gu yan jiu suo ... [et al.] bian zhu. //   襄阳王坡东周秦汉墓 = Tombs of Eastern Zhou and Qin-Han periods at Wangpo, Xiangyang / 湖北省文物考古研究所 ... [et al.] 编著.</BIB_TITLE>
+  <PUB_DATE>2005</PUB_DATE>
+  <Z13_IMPRINT>03 Beijing : Ke xue chu ban she, 2005.</Z13_IMPRINT>
+  <CALL_NUMBER> DS797.48.X526 X53 2005</CALL_NUMBER>
+  <BARCODE>31154050708153</BARCODE>
  </ROW>
  <ROW>
-  <DATE_ADDED>20140128</DATE_ADDED>
-  <BSN>003927268</BSN>
-  <BIB_TITLE>  Aphrodites Schwestern : 9000 Jahre Kultur Zyperns : [Ausstellung] vom 20. Juni bis 15. Oktober 1987 : Führungsbogen für Erwachsene und Jugendliche / Übersee-Museum Bremen.</BIB_TITLE>
-  <PUB_DATE>1987</PUB_DATE>
-  <CALL_NUMBER> N5430 .A639 1987</CALL_NUMBER>
-  <Z30_NOTE_INTERNAL>Astrom</Z30_NOTE_INTERNAL>
-  <BARCODE>31154050695988</BARCODE>
+  <DATE_ADDED>20140616</DATE_ADDED>
+  <BSN>002955383</BSN>
+  <BIB_TITLE>  Herodoti historiarum libri IX / edidit Henr. Rudolph. Dietsch.</BIB_TITLE>
+  <BIB_AUTHOR>  Kallenberg, Hermann. //  Dietsch, Heinrich Rudolph, 1814-1875.</BIB_AUTHOR>
+  <PUB_DATE>1936</PUB_DATE>
+  <Z13_IMPRINT>Lipsiae : in aedibus B.G. Teubneri, 1936-1937.</Z13_IMPRINT>
+  <CALL_NUMBER> PA4002 .A2 1936</CALL_NUMBER>
+  <VOLUME_INFO>v.2</VOLUME_INFO>
+  <Z30_NOTE_INTERNAL>Sijpesteijn</Z30_NOTE_INTERNAL>
+  <BARCODE>31154050708237</BARCODE>
  </ROW>
  <ROW>
-  <DATE_ADDED>20140129</DATE_ADDED>
-  <BSN>003927831</BSN>
-  <BIB_TITLE>  Platos ausgewählte Schriften für den Schulgebrauch erklärt. Sechster Teil, Phaedon / erklärt von Martin Wohlrab.</BIB_TITLE>
-  <BIB_AUTHOR>  Wohlrab, Martin, 1834-1913.</BIB_AUTHOR>
-  <PUB_DATE>1933</PUB_DATE>
-  <CALL_NUMBER> PA4279 .P3 1933</CALL_NUMBER>
-  <Z30_NOTE_INTERNAL>Astrom</Z30_NOTE_INTERNAL>
-  <BARCODE>31154050696051</BARCODE>
- </ROW>
- <ROW>
-  <DATE_ADDED>20140129</DATE_ADDED>
-  <BSN>003927279</BSN>
-  <BIB_TITLE>   Yinwan Han mu jian du jiao li / Zhang Xiancheng, Zhou Qunli zhuan. //   尹灣漢墓簡牘校理 / 張顯成, 周群麗撰.</BIB_TITLE>
-  <PUB_DATE>2011</PUB_DATE>
-  <Z13_IMPRINT>04 Tianjin : Tianjin gu ji chu ban she, 2011.</Z13_IMPRINT>
-  <CALL_NUMBER> PL2448 .Z44 2011</CALL_NUMBER>
-  <BARCODE>31154050642394</BARCODE>
- </ROW>
- <ROW>
-  <DATE_ADDED>20140128</DATE_ADDED>
-  <BSN>003927276</BSN>
-  <BIB_TITLE>  Kvinnor i antikens Grekland / av Agneta Strömberg.</BIB_TITLE>
-  <PUB_DATE>1988</PUB_DATE>
-  <Z13_IMPRINT>Göteborg : [s.n.], 1988, c1987.</Z13_IMPRINT>
-  <CALL_NUMBER> HQ1134 .S77 1988</CALL_NUMBER>
-  <Z30_NOTE_INTERNAL>Astrom</Z30_NOTE_INTERNAL>
-  <BARCODE>31154050695996</BARCODE>
- </ROW>
- <ROW>
-  <DATE_ADDED>20140128</DATE_ADDED>
-  <BSN>003927296</BSN>
-  <BIB_TITLE>  Figurativ vasdekor i Korint : en kvantitativ ikonografisk analys / av Madeleine von Heland-Weissglas.</BIB_TITLE>
-  <PUB_DATE>1970</PUB_DATE>
-  <Z13_IMPRINT>1970.</Z13_IMPRINT>
-  <CALL_NUMBER> NK4645 .H45 1970a</CALL_NUMBER>
-  <VOLUME_INFO>v.1</VOLUME_INFO>
-  <Z30_NOTE_INTERNAL>Astrom</Z30_NOTE_INTERNAL>
-  <BARCODE>31154050696002</BARCODE>
- </ROW>
- <ROW>
-  <DATE_ADDED>20140129</DATE_ADDED>
-  <BSN>003927796</BSN>
-  <BIB_TITLE>  Cyprus antiquities : excavated by Major Alexander Palma di Cesnola, member of the Biblical Archaeological Society, &amp;c., &amp;c., 1876-1879.</BIB_TITLE>
-  <BIB_AUTHOR>  Cesnola, Alessandro Palma di, 1839-1914.</BIB_AUTHOR>
-  <PUB_DATE>1881</PUB_DATE>
-  <Z13_IMPRINT>[London] : Printed and bound by W. Holmes &amp; Son, 1881.</Z13_IMPRINT>
-  <CALL_NUMBER> DS54.3 .C975 1881</CALL_NUMBER>
-  <Z30_NOTE_INTERNAL>Astrom</Z30_NOTE_INTERNAL>
-  <BARCODE>31154050696044</BARCODE>
- </ROW>
- <ROW>
-  <DATE_ADDED>20140129</DATE_ADDED>
-  <BSN>003927811</BSN>
-  <BIB_TITLE>   Shuihudi Qin jian ri shu yan jiu / Liu Lexian zhu. //   睡虎地秦簡日書研究 / 劉樂賢著.</BIB_TITLE>
-  <PUB_DATE>1994</PUB_DATE>
-  <Z13_IMPRINT>04 Taibei shi : Wen jin chu ban she, Minguo 83 [1994]</Z13_IMPRINT>
-  <CALL_NUMBER> PL2448 .L66 1994</CALL_NUMBER>
-  <BARCODE>31154050642402</BARCODE>
- </ROW>
- <ROW>
-  <DATE_ADDED>20140131</DATE_ADDED>
-  <BSN>003929018</BSN>
-  <BIB_TITLE>   清華簡研究 : 《清華大學藏战国竹簡（壹）》國際學術研討會論文集. 第1辑 / 清華大學出土文献研究与保护中心编. //   Qing hua jian yan jiu: "Qing hua da xue cang zhan guo zhu jian (yi)" guo ji xue shu yan tao hui lun wen ji. Di 1 ji / Qing hua da xue chu tu wen xian yan jiu yu bao hu zhong xin bian.</BIB_TITLE>
-  <PUB_DATE>2012</PUB_DATE>
-  <Z13_IMPRINT>05 Shanghai : Zhong xi shu ju, 2012.</Z13_IMPRINT>
-  <CALL_NUMBER> PL2447 .Q56 2013</CALL_NUMBER>
-  <BARCODE>31154050642469</BARCODE>
- </ROW>
- <ROW>
-  <DATE_ADDED>20140131</DATE_ADDED>
-  <BSN>003929350</BSN>
-  <BIB_TITLE>   Jian bo shu shu yu li shi di li lun ji / Yan Changgui zhu. //   简帛数术与历史地理论集 / 晏昌贵著.</BIB_TITLE>
-  <PUB_DATE>2010</PUB_DATE>
-  <CALL_NUMBER> PL2447 .Y36 2010</CALL_NUMBER>
-  <BARCODE>31154050642493</BARCODE>
- </ROW>
- <ROW>
-  <DATE_ADDED>20140131</DATE_ADDED>
-  <BSN>003929364</BSN>
-  <BIB_TITLE>   Er shi shi ji chu tu jian bo zong shu / Pian Yuqian, Duan Shu'an bian zhu. //   二十世紀出土簡帛綜述 / 駢宇騫, 段書安編著.</BIB_TITLE>
-  <BIB_AUTHOR>  Duan, Shu'an </BIB_AUTHOR>
-  <PUB_DATE>2006</PUB_DATE>
-  <Z13_IMPRINT>05 Beijing : Wen wu chu ban she, 2006.</Z13_IMPRINT>
-  <CALL_NUMBER> PL2447 .P53 2006</CALL_NUMBER>
-  <BARCODE>31154050642501</BARCODE>
- </ROW>
- <ROW>
-  <DATE_ADDED>20140127</DATE_ADDED>
-  <BSN>003927059</BSN>
-  <BIB_TITLE>  Kritik över en kritiker / Bengt E. Thomasson.</BIB_TITLE>
-  <PUB_DATE>1972</PUB_DATE>
-  <Z13_IMPRINT>Göteborg : Radius, 1972.</Z13_IMPRINT>
-  <CALL_NUMBER> JC85.P9 T46 1972</CALL_NUMBER>
-  <Z30_NOTE_INTERNAL>Astrom</Z30_NOTE_INTERNAL>
-  <BARCODE>31154050695954</BARCODE>
- </ROW>
- <ROW>
-  <DATE_ADDED>20140127</DATE_ADDED>
-  <BSN>003927061</BSN>
-  <BIB_TITLE>   Shuo wen xin zheng / Ji Xusheng zhu. //   说文新证 / 季旭昇著.</BIB_TITLE>
-  <PUB_DATE>2010</PUB_DATE>
-  <Z13_IMPRINT>04 Fuzhou Shi : Fujian ren min chu ban she, 2010.</Z13_IMPRINT>
-  <CALL_NUMBER> PL1281.X763 J53 2010</CALL_NUMBER>
-  <BARCODE>31154050642337</BARCODE>
- </ROW>
- <ROW>
-  <DATE_ADDED>20140127</DATE_ADDED>
-  <BSN>003927055</BSN>
-  <BIB_TITLE>  Datering af forhistorisk keramik ved hjælp af termoluminescens / af Vagn Mejdahl.</BIB_TITLE>
-  <PUB_DATE>1971</PUB_DATE>
-  <CALL_NUMBER> CC78.8 .M44 1971</CALL_NUMBER>
-  <Z30_NOTE_INTERNAL>Astrom</Z30_NOTE_INTERNAL>
-  <BARCODE>31154050222809</BARCODE>
- </ROW>
- <ROW>
-  <DATE_ADDED>20140127</DATE_ADDED>
-  <BSN>003709725</BSN>
-  <BIB_TITLE>   Qin jian zhu zi suo yin : fu yuan wen ji jiao shi / zhu bian Zhang Xiancheng. //   秦简逐字索引 : 附原文及校釋 / 主編張顯成.</BIB_TITLE>
-  <BIB_AUTHOR>  Zhang, Xiancheng </BIB_AUTHOR>
-  <PUB_DATE>2010</PUB_DATE>
-  <Z13_IMPRINT>04 Chengdu : Sichuan da xue chu ban she, 2010.</Z13_IMPRINT>
-  <CALL_NUMBER> PL2447 .Q5624 2010</CALL_NUMBER>
-  <BARCODE>31154050642329</BARCODE>
- </ROW>
- <ROW>
-  <DATE_ADDED>20140128</DATE_ADDED>
-  <BSN>003927416</BSN>
-  <BIB_TITLE>  Greek athletics / Metropolitan Museum of Art.</BIB_TITLE>
-  <BIB_AUTHOR>  Alexander, Christine, 1893-1975.</BIB_AUTHOR>
-  <PUB_DATE>1925</PUB_DATE>
-  <Z13_IMPRINT>New York : [Metropolitan Museum of Art], 1925.</Z13_IMPRINT>
-  <CALL_NUMBER> N5633 .M48 1925</CALL_NUMBER>
-  <Z30_NOTE_INTERNAL>Astrom</Z30_NOTE_INTERNAL>
-  <BARCODE>31154050222833</BARCODE>
- </ROW>
- <ROW>
-  <DATE_ADDED>20140128</DATE_ADDED>
-  <BSN>003927408</BSN>
-  <BIB_TITLE>  Modern tools in archaeometry : a SAC symposium, Gothenburg, Sweden, May 23-25, 1991 : abstracts / compiled by Peter M. Fischer.</BIB_TITLE>
-  <BIB_AUTHOR>  Fischer, Peter M. compiler.</BIB_AUTHOR>
-  <PUB_DATE>1991</PUB_DATE>
-  <CALL_NUMBER> CC75.7 .M637 1991</CALL_NUMBER>
-  <Z30_NOTE_INTERNAL>Astrom</Z30_NOTE_INTERNAL>
-  <BARCODE>31154050222825</BARCODE>
- </ROW>
- <ROW>
-  <DATE_ADDED>20140128</DATE_ADDED>
-  <BSN>003927509</BSN>
-  <BIB_TITLE>  Tre småstycken om mynt / av Gunnar Holst.</BIB_TITLE>
-  <PUB_DATE>1988</PUB_DATE>
-  <CALL_NUMBER> CJ76 .H65 1988</CALL_NUMBER>
-  <Z30_NOTE_INTERNAL>Astrom</Z30_NOTE_INTERNAL>
-  <BARCODE>31154050696036</BARCODE>
- </ROW>
- <ROW>
-  <DATE_ADDED>20140128</DATE_ADDED>
-  <BSN>003927343</BSN>
-  <BIB_TITLE>  The Early Cypriot Bronze Age and the red polished series of pottery / by J.R. Stewart.</BIB_TITLE>
-  <PUB_DATE>1960</PUB_DATE>
-  <CALL_NUMBER> DS54.3 .S73 1960</CALL_NUMBER>
-  <Z30_NOTE_INTERNAL>Astrom</Z30_NOTE_INTERNAL>
-  <BARCODE>31154050696028</BARCODE>
- </ROW>
- <ROW>
-  <DATE_ADDED>20140128</DATE_ADDED>
-  <BSN>003927445</BSN>
-  <BIB_TITLE>  Acharnenses / Aristophanis ; edidit Theodorus Bergk.</BIB_TITLE>
-  <BIB_AUTHOR>  Bergk, Theodor, 1812-1881 editor.</BIB_AUTHOR>
-  <PUB_DATE>1923</PUB_DATE>
-  <CALL_NUMBER> PA3875 .A6 1923</CALL_NUMBER>
-  <Z30_NOTE_INTERNAL>Astrom</Z30_NOTE_INTERNAL>
-  <BARCODE>31154050222841</BARCODE>
- </ROW>
- <ROW>
-  <DATE_ADDED>20140131</DATE_ADDED>
-  <BSN>003927820</BSN>
-  <BIB_TITLE>   Ejina Han jian shi wen jiao ben / Sun Jiazhou zhu bian. //   額濟納漢簡释文校本 / 孙家洲主编.</BIB_TITLE>
-  <BIB_AUTHOR>  Sun, Jiazhou </BIB_AUTHOR>
-  <PUB_DATE>2007</PUB_DATE>
-  <Z13_IMPRINT>04 Beijing Shi : Wen wu chu ban she, 2007.</Z13_IMPRINT>
-  <CALL_NUMBER> PL2448 .E556 2007</CALL_NUMBER>
-  <BARCODE>31154050642477</BARCODE>
- </ROW>
- <ROW>
-  <DATE_ADDED>20140130</DATE_ADDED>
-  <BSN>003375007</BSN>
-  <BIB_TITLE>   Wu gui yu yin si : Chu jian suo jian fang shu zong jiao kao / Yan Changgui zhu. //   巫鬼與淫祀 : 楚簡所見方術宗教考 / 晏昌貴著.</BIB_TITLE>
-  <PUB_DATE>2010</PUB_DATE>
-  <Z13_IMPRINT>05 Wuchang : Wuhan da xue chu ban she, 2010.</Z13_IMPRINT>
-  <CALL_NUMBER> BF1434.C5 W8 2010</CALL_NUMBER>
-  <BARCODE>31154050642428</BARCODE>
- </ROW>
- <ROW>
-  <DATE_ADDED>20140131</DATE_ADDED>
-  <BSN>003375010</BSN>
-  <BIB_TITLE>   Xincai Geling Chu jian chu tan / Song Huaqiang zhu. //   新蔡葛陵楚简初探 / 宋华强著.</BIB_TITLE>
-  <PUB_DATE>2010</PUB_DATE>
-  <Z13_IMPRINT>04 Wuhan : Wuhan da xue chu ban she, 2010.</Z13_IMPRINT>
-  <CALL_NUMBER> PL2447.J3 S66 2010</CALL_NUMBER>
-  <BARCODE>31154050642485</BARCODE>
- </ROW>
- <ROW>
-  <DATE_ADDED>20140130</DATE_ADDED>
-  <BSN>003375002</BSN>
-  <BIB_TITLE>   Xin chu Chu jian yan du / Chen Wei zhu. //   新出楚簡研讀 / 陳偉著.</BIB_TITLE>
-  <PUB_DATE>2010</PUB_DATE>
-  <Z13_IMPRINT>04 Wuhan : Wuhan da xue chu ban she, 2010.</Z13_IMPRINT>
-  <CALL_NUMBER> PL2448 .C44 2010</CALL_NUMBER>
-  <BARCODE>31154050642451</BARCODE>
- </ROW>
- <ROW>
-  <DATE_ADDED>20140116</DATE_ADDED>
-  <BSN>003918923</BSN>
-  <BIB_TITLE>  Prehistory of eastern Macedonia and Thrace / D. Theocharis.</BIB_TITLE>
-  <PUB_DATE>1971</PUB_DATE>
-  <Z13_IMPRINT>[Athens : Athens Center of Ekistics, 1971]</Z13_IMPRINT>
-  <CALL_NUMBER> DF251 .A7 vol.9</CALL_NUMBER>
-  <Z30_NOTE_INTERNAL>Astrom</Z30_NOTE_INTERNAL>
-  <BARCODE>31154050695723</BARCODE>
- </ROW>
- <ROW>
-  <DATE_ADDED>20140116</DATE_ADDED>
-  <BSN>003918903</BSN>
-  <BIB_TITLE>  Reconstruction of the parapet on the terrace wall at Persepolis, south and west of Palace H / Ann Britt Tilia.</BIB_TITLE>
-  <PUB_DATE>1969</PUB_DATE>
-  <Z13_IMPRINT>Rome : IsMEO, [1969]</Z13_IMPRINT>
-  <CALL_NUMBER> DS262.P4 B75 1969</CALL_NUMBER>
-  <Z30_NOTE_INTERNAL>Astrom</Z30_NOTE_INTERNAL>
-  <BARCODE>31154050695715</BARCODE>
- </ROW>
- <ROW>
-  <DATE_ADDED>20140117</DATE_ADDED>
-  <BSN>003920574</BSN>
-  <BIB_TITLE>  Pre-historic nations, or, Inquiries concerning some of the great peoples and civilizations of antiquity, and their probable relation to a still older civilization of the Ethiopians or Cushites of Arabia / by John D. Baldwin.</BIB_TITLE>
-  <PUB_DATE>1869</PUB_DATE>
-  <Z13_IMPRINT>New York : Harper &amp; Brothers, 1869.</Z13_IMPRINT>
-  <CALL_NUMBER> D65 .B35 1869</CALL_NUMBER>
-  <BARCODE>31154050222767</BARCODE>
- </ROW>
- <ROW>
-  <DATE_ADDED>20140117</DATE_ADDED>
-  <BSN>003920535</BSN>
-  <BIB_TITLE>  Mittelägyptische Grammatik für Anfänger / zusammengestellt von Erhart Graefe.</BIB_TITLE>
-  <PUB_DATE>1990</PUB_DATE>
-  <Z13_IMPRINT>Wiesbaden : O. Harrassowitz, 1990.</Z13_IMPRINT>
-  <CALL_NUMBER> PJ1135 .G7 1990</CALL_NUMBER>
-  <BARCODE>31154050695731</BARCODE>
- </ROW>
- <ROW>
-  <DATE_ADDED>20140127</DATE_ADDED>
-  <BSN>003927131</BSN>
-  <BIB_TITLE>   Han dai wu zhi wen hua zi liao tu shuo Illustrated explanations of the material culture of the Han Dynasty Sun ji zhu. //   漢代物質文化資料圖說 = Illustrated explanations of the material culture of the Han Dynasty 孫機著.</BIB_TITLE>
-  <PUB_DATE>2011</PUB_DATE>
-  <CALL_NUMBER> DS747.42 S86 2011</CALL_NUMBER>
-  <BARCODE>31154050642386</BARCODE>
- </ROW>
- <ROW>
-  <DATE_ADDED>20140127</DATE_ADDED>
-  <BSN>003927073</BSN>
-  <BIB_TITLE>   Gu dai Han yu ci dian : suo yin ben / "Gu dai Han yu ci dian" bian xie zu bian. //   古代汉语词典 : 缩印本 / 《古代汉语词典》编写组编.</BIB_TITLE>
-  <PUB_DATE>2007</PUB_DATE>
-  <Z13_IMPRINT>03 Beijing : Shang wu yin shu guan, 2007.</Z13_IMPRINT>
-  <CALL_NUMBER> PL1485 .G89 2007</CALL_NUMBER>
-  <BARCODE>31154050642352</BARCODE>
- </ROW>
- <ROW>
-  <DATE_ADDED>20140127</DATE_ADDED>
-  <BSN>003927080</BSN>
-  <BIB_TITLE>  Acts : first International Congress of Egyptology : Cairo, October 2-10, 1976 / edited by Walter F. Reineke.</BIB_TITLE>
-  <BIB_AUTHOR>  Reineke, Walter F. ed.</BIB_AUTHOR>
-  <PUB_DATE>1979</PUB_DATE>
-  <Z13_IMPRINT>Berlin : Akademie-Verlag, 1979.</Z13_IMPRINT>
-  <CALL_NUMBER> DT60 .I57 1976</CALL_NUMBER>
-  <Z30_NOTE_INTERNAL>Astrom</Z30_NOTE_INTERNAL>
-  <BARCODE>31154050695962</BARCODE>
- </ROW>
- <ROW>
-  <DATE_ADDED>20140127</DATE_ADDED>
-  <BSN>003927127</BSN>
-  <BIB_TITLE>   Zhongguo gu wen zi xue dao lun / [Mei] Xiahanyi zhu bian ; ben shu fan yi zu yi ; Li Xueqin shen ding = New sources of early Chinese history : an introduction to the reading of inscriptions and manuscripts / Zhongguo gu wen zi xue dao lun. //   中国古文字学导论 / [美]夏含夷主编 ; 本书翻译组译 ; 李学勤审定 = New sources of early Chinese history : an introduction to the reading of inscriptions and manuscripts / Zhongguo gu wen zi xue dao lun.</BIB_TITLE>
-  <BIB_AUTHOR>  Li, Xueqin, 1933- Translator.</BIB_AUTHOR>
-  <PUB_DATE>2013</PUB_DATE>
-  <Z13_IMPRINT>03 Shanghai : Zhong xi shu ju, 2013.</Z13_IMPRINT>
-  <CALL_NUMBER> PL1281 .S52 2013</CALL_NUMBER>
-  <BARCODE>31154050642378</BARCODE>
- </ROW>
- <ROW>
-  <DATE_ADDED>20140127</DATE_ADDED>
-  <BSN>003927067</BSN>
-  <BIB_TITLE>   Wang Li gu han yu zi dian / Wang Li zhu bian ; bian zhe Wang Li ... [et al.]. //   王力古漢語字典 / 王力主編 ; 編者王力 ... [et al.].</BIB_TITLE>
-  <BIB_AUTHOR>  Wang, Li, 1900-1986 </BIB_AUTHOR>
+  <DATE_ADDED>20140604</DATE_ADDED>
+  <BSN>001702653</BSN>
+  <BIB_TITLE>  The Middle East remembered : forged identities, competing narratives, contested spaces / Jacob Lassner.</BIB_TITLE>
   <PUB_DATE>2000</PUB_DATE>
-  <Z13_IMPRINT>04 Beijing : Zhonghua shu ju, 2000.</Z13_IMPRINT>
-  <CALL_NUMBER> PL1485 .W36 2000</CALL_NUMBER>
-  <BARCODE>31154050642345</BARCODE>
+  <Z13_IMPRINT>Ann Arbor : University of Michigan Press, c2000.</Z13_IMPRINT>
+  <CALL_NUMBER> DS35.65 .L37 2000</CALL_NUMBER>
+  <Z30_NOTE_INTERNAL>Tadmor</Z30_NOTE_INTERNAL>
+  <BARCODE>31154050650488</BARCODE>
  </ROW>
  <ROW>
-  <DATE_ADDED>20140127</DATE_ADDED>
-  <BSN>003927064</BSN>
-  <BIB_TITLE>  Alkestis / oversat af M. Cl. Gertz.</BIB_TITLE>
-  <BIB_AUTHOR>  Gertz, M. C. (Martin Clarentius), 1844-1929 translator.</BIB_AUTHOR>
-  <PUB_DATE>1913</PUB_DATE>
-  <CALL_NUMBER> PA3976 .D4 1913</CALL_NUMBER>
-  <Z30_NOTE_INTERNAL>Astrom</Z30_NOTE_INTERNAL>
-  <BARCODE>31154050222817</BARCODE>
- </ROW>
- <ROW>
-  <DATE_ADDED>20140127</DATE_ADDED>
-  <BSN>003927138</BSN>
-  <BIB_TITLE>  Re-evaluation of reflection seismology for archaeological investigation / by Guy Matthew Cross.</BIB_TITLE>
-  <PUB_DATE>1995</PUB_DATE>
-  <CALL_NUMBER> CC76.4 .C76 1995a</CALL_NUMBER>
-  <Z30_NOTE_INTERNAL>Astrom</Z30_NOTE_INTERNAL>
-  <BARCODE>31154050695970</BARCODE>
- </ROW>
- <ROW>
-  <DATE_ADDED>20140127</DATE_ADDED>
-  <BSN>003927074</BSN>
-  <BIB_TITLE>   Wen zi xue gai yao / Qiu Xigui zhu. //   文字学概要 / 裘錫圭著.</BIB_TITLE>
+  <DATE_ADDED>20140611</DATE_ADDED>
+  <BSN>003918045</BSN>
+  <BIB_TITLE>  Royal Hittite instructions and related administrative texts / by Jared L. Miller ; edited by Mauro Giorgieri.</BIB_TITLE>
+  <BIB_AUTHOR>  Giorgieri, Mauro editor.</BIB_AUTHOR>
   <PUB_DATE>2013</PUB_DATE>
-  <Z13_IMPRINT>04 Beijing : Shang wu yin shu guan, 2013.</Z13_IMPRINT>
-  <CALL_NUMBER> PL1281 .C58 2013</CALL_NUMBER>
-  <BARCODE>31154050642360</BARCODE>
+  <CALL_NUMBER> DS66 .M55 2013</CALL_NUMBER>
+  <BARCODE>31154050650827</BARCODE>
  </ROW>
  <ROW>
-  <DATE_ADDED>20140117</DATE_ADDED>
-  <BSN>002704217</BSN>
-  <BIB_TITLE>  Ägypten vor den Pyramiden : Münchner Ausgrabungen in Ägypten : [Sonderausstellung der Prähistorischen Staats[s]ammlung und der Staatlichen Sammlung Ägyptischer Kunst München in der Burg Grünwald, 15. März-30. November 1981] / Dietrich Wildung.</BIB_TITLE>
-  <PUB_DATE>1981</PUB_DATE>
-  <Z13_IMPRINT>Mainz am Rhein : P. von Zabern, c1981.</Z13_IMPRINT>
-  <CALL_NUMBER> DT60 .W49 1981</CALL_NUMBER>
-  <BARCODE>31154050695749</BARCODE>
- </ROW>
- <ROW>
-  <DATE_ADDED>20140117</DATE_ADDED>
-  <BSN>003920668</BSN>
-  <BIB_TITLE>  Hellenistic and Roman cuirassed statues : second supplement / by Cornelius C. Vermeule III.</BIB_TITLE>
-  <PUB_DATE>1966</PUB_DATE>
-  <Z13_IMPRINT>Copenhagen : Munksgaard, [1966]</Z13_IMPRINT>
-  <CALL_NUMBER> NB94 .V367 1966</CALL_NUMBER>
-  <BARCODE>31154050222775</BARCODE>
- </ROW>
- <ROW>
-  <DATE_ADDED>20140121</DATE_ADDED>
-  <BSN>003924933</BSN>
-  <BIB_TITLE>  The burial mounds of Bahrain : social complexity in Early Dilmun / by Flemming Højlund ; with contributions by Kasper L. Johansen ... [et al.].</BIB_TITLE>
-  <BIB_AUTHOR>  Johansen, Kasper L.</BIB_AUTHOR>
-  <PUB_DATE>2007</PUB_DATE>
-  <Z13_IMPRINT>[Århus] : Moesgaard Museum ; Bahrain : Ministry of Information ; Højbjerg : Jutland Archaeological</Z13_IMPRINT>
-  <CALL_NUMBER> DS247.B23 H645 2007</CALL_NUMBER>
-  <BARCODE>31154050695756</BARCODE>
- </ROW>
- <ROW>
-  <DATE_ADDED>20140121</DATE_ADDED>
-  <BSN>003925033</BSN>
-  <BIB_TITLE>  Cities and gods : religious space in transition / edited by Ted Kaizer, Anna Leone, Edmund Thomas, and Robert Witcher.</BIB_TITLE>
-  <BIB_AUTHOR>  Kaizer, Ted editor. //  Leone, Anna, 1967- editor. //  Thomas, Edmund (Edmund V.) editor. //  Witcher, Robert E., editor.</BIB_AUTHOR>
-  <PUB_DATE>2013</PUB_DATE>
-  <CALL_NUMBER> BL687 .C485 2013</CALL_NUMBER>
-  <BARCODE>31154050695798</BARCODE>
- </ROW>
- <ROW>
-  <DATE_ADDED>20140121</DATE_ADDED>
-  <BSN>003925002</BSN>
-  <BIB_TITLE>  Le decorazioni dipinte e marmoree della Domus Aurea di Nerone a Roma / Paul G.P. Meyboom &amp; Eric M. Moormann.</BIB_TITLE>
-  <BIB_AUTHOR>  Moormann, Eric M.</BIB_AUTHOR>
-  <PUB_DATE>2013</PUB_DATE>
-  <Z13_IMPRINT>Leuven ; Walpole, MA : Peeters, 2013.</Z13_IMPRINT>
-  <CALL_NUMBER> DG69 .M47 2013</CALL_NUMBER>
-  <VOLUME_INFO>pt.2:ill.</VOLUME_INFO>
-  <BARCODE>31154050695780</BARCODE>
- </ROW>
- <ROW>
-  <DATE_ADDED>20140121</DATE_ADDED>
-  <BSN>003925063</BSN>
-  <BIB_TITLE>  Cura aquarum in Campania : proceedings of the Ninth International Congress on the History of Water Management and Hydraulic Engineering in the Mediterranean Region = Beiträge des neunten internationalen Symposiums zur Geschichte der Wasserwirtschaft und des Wasserbaus im Mediterranen Raum : Pompeii, 1-8 October 1994 / edited by Nathalie de Haan &amp; Gemma C.M. Jansen.</BIB_TITLE>
-  <BIB_AUTHOR>  Haan, Nathalie de ed. //  Jansen, Gemma C. M. ed.</BIB_AUTHOR>
-  <PUB_DATE>1996</PUB_DATE>
-  <Z13_IMPRINT>Leiden : Stichting Babesch, 1996.</Z13_IMPRINT>
-  <CALL_NUMBER> TD295.M4 I58 1994</CALL_NUMBER>
-  <BARCODE>31154050695806</BARCODE>
- </ROW>
- <ROW>
-  <DATE_ADDED>20140121</DATE_ADDED>
-  <BSN>003925092</BSN>
-  <BIB_TITLE>  Ancient lines in the landscape : a geo-archaeological study of protohistoric and Roman roads and field systems in northwestern Gaul / edited by Frank Vermeulen &amp; Mark Antrop.</BIB_TITLE>
-  <BIB_AUTHOR>  Vermeulen, Frank ed. //  Antrop, M. ed.</BIB_AUTHOR>
-  <PUB_DATE>2001</PUB_DATE>
-  <Z13_IMPRINT>Leuven ; Sterling, Va. : Peeters, 2001.</Z13_IMPRINT>
-  <CALL_NUMBER> DC63 .A57 2001</CALL_NUMBER>
-  <BARCODE>31154050695814</BARCODE>
- </ROW>
- <ROW>
-  <DATE_ADDED>20140121</DATE_ADDED>
-  <BSN>003925145</BSN>
-  <BIB_TITLE>  From pots to people : a ceramic approach to the archaeological interpretation of ploughsoil assemblages in Late Roman Cyprus / by Kristina Winther-Jacobsen.</BIB_TITLE>
-  <PUB_DATE>2010</PUB_DATE>
-  <CALL_NUMBER> DS54.3 .W57 2010</CALL_NUMBER>
-  <BARCODE>31154050695822</BARCODE>
- </ROW>
- <ROW>
-  <DATE_ADDED>20140123</DATE_ADDED>
-  <BSN>003926258</BSN>
-  <BIB_TITLE>  Syrisch-nestorianische Grabinschriften aus Semirjetschie / Daniel Chwolson.</BIB_TITLE>
-  <PUB_DATE>2013</PUB_DATE>
-  <CALL_NUMBER> DK909.S45 K49 2013</CALL_NUMBER>
-  <BARCODE>31154050695921</BARCODE>
- </ROW>
- <ROW>
-  <DATE_ADDED>20140116</DATE_ADDED>
-  <BSN>003918810</BSN>
-  <BIB_TITLE>  Albii Tibulli Elegier / öfversatta af P. Joh. Petersson.</BIB_TITLE>
-  <BIB_AUTHOR>  Petersson, P. Joh., translator.</BIB_AUTHOR>
-  <PUB_DATE>1860</PUB_DATE>
-  <CALL_NUMBER> PA6788.S9 P48 1860</CALL_NUMBER>
-  <Z30_NOTE_INTERNAL>Astrom</Z30_NOTE_INTERNAL>
-  <BARCODE>31154050222742</BARCODE>
- </ROW>
- <ROW>
-  <DATE_ADDED>20140124</DATE_ADDED>
-  <BSN>003926618</BSN>
-  <BIB_TITLE>  Kejsarnas Rom och medeltidens städer : ett forskningsprogram / Axel Boëthius.</BIB_TITLE>
-  <PUB_DATE>1953</PUB_DATE>
-  <Z13_IMPRINT>Göteborg : Wettergren &amp; Kerber, 1953.</Z13_IMPRINT>
-  <CALL_NUMBER> DG79 .B64 1953</CALL_NUMBER>
-  <Z30_NOTE_INTERNAL>Astrom</Z30_NOTE_INTERNAL>
-  <BARCODE>31154050222791</BARCODE>
- </ROW>
- <ROW>
-  <DATE_ADDED>20140124</DATE_ADDED>
-  <BSN>003926598</BSN>
-  <BIB_TITLE>  Oudheidkundige perspectieven : in het bijzonder ten aanzien van de vaderlandsche prae- en protohistorie / door A.E. van Giffen.</BIB_TITLE>
-  <PUB_DATE>1947</PUB_DATE>
-  <Z13_IMPRINT>Groningen : J.B. Wolters, 1947.</Z13_IMPRINT>
-  <CALL_NUMBER> GN819 .G54 1947</CALL_NUMBER>
-  <Z30_NOTE_INTERNAL>Astrom</Z30_NOTE_INTERNAL>
-  <BARCODE>31154050695939</BARCODE>
- </ROW>
- <ROW>
-  <DATE_ADDED>20140124</DATE_ADDED>
-  <BSN>002467776</BSN>
-  <BIB_TITLE>  Archaeological atlas of the world / David and Ruth Whitehouse ; with 103 maps by John Woodcock and Shalom Schotten.</BIB_TITLE>
-  <BIB_AUTHOR>  Whitehouse, Ruth author. //  Woodcock, John, 1924- illustrator. //  Schotten, Shalom, illustrator.</BIB_AUTHOR>
-  <PUB_DATE>1975</PUB_DATE>
-  <Z13_IMPRINT>London : Thames and Hudson, c1975.</Z13_IMPRINT>
-  <CALL_NUMBER> G1046.E15 W5 1975</CALL_NUMBER>
-  <Z30_NOTE_INTERNAL>Astrom</Z30_NOTE_INTERNAL>
-  <BARCODE>31154050695947</BARCODE>
- </ROW>
- <ROW>
-  <DATE_ADDED>20140129</DATE_ADDED>
-  <BSN>003927900</BSN>
-  <BIB_TITLE>  Türkmenistan : Magtymgulynyň mekanynyň sungaty / Pol Maýkl Teýlor, Trewor Lumis Merion, Wilýam Bredford Smit, Jasper Jon Wo-Kwaýzbat = Turkmenistan : arts from the land of Magtymguly / Paul Michael Taylor, Trevor Loomis Merrion, William Bradford Smith, Jasper John Waugh-Quasebarth.</BIB_TITLE>
-  <BIB_AUTHOR>  Merrion, Trevor Loomis, 1987- author. //  Smith, William Bradford, 1984- author. //  Waugh-Quasebarth, Jasper, 1990- author.</BIB_AUTHOR>
-  <PUB_DATE>2013</PUB_DATE>
-  <CALL_NUMBER> NX575.7.T8 T39 2013</CALL_NUMBER>
-  <Z30_NOTE_INTERNAL>Exhibitions: Smithsonian Institution</Z30_NOTE_INTERNAL>
-  <BARCODE>31154050696069</BARCODE>
- </ROW>
- <ROW>
-  <DATE_ADDED>20140124</DATE_ADDED>
-  <BSN>003926526</BSN>
-  <BIB_TITLE>   Gu xun hui zuan / Zong Fubang, Chen Shinao, Xiao Haibo zhu bian. //   故訓匯纂 / 宗福邦, 陳世鐃, 蕭海波主編.</BIB_TITLE>
-  <BIB_AUTHOR>  Zong, Fubang  //  Xiao, Haibo </BIB_AUTHOR>
-  <PUB_DATE>2007</PUB_DATE>
-  <Z13_IMPRINT>03 Beijing : Shang wu yin shu guan, 2007.</Z13_IMPRINT>
-  <CALL_NUMBER> PL1291 .G8 2007</CALL_NUMBER>
+  <DATE_ADDED>20140623</DATE_ADDED>
+  <BSN>003332757</BSN>
+  <BIB_TITLE>   San dai kao gu / Zhongguo she hui ke xue yuan kao gu yan jiu suo Xia Shang Zhou kao gu yan jiu shi bian. //   三代考古 / 中国社会科学院考古研究所夏商周考古研究室编.</BIB_TITLE>
+  <PUB_DATE>2004</PUB_DATE>
+  <Z13_IMPRINT>03 Beijing : Ke xue chu ban she, 2004-</Z13_IMPRINT>
+  <CALL_NUMBER> DS744 .S36 2004</CALL_NUMBER>
   <VOLUME_INFO>v.1</VOLUME_INFO>
-  <BARCODE>31154050642303</BARCODE>
+  <BARCODE>31154050708773</BARCODE>
  </ROW>
  <ROW>
-  <DATE_ADDED>20140121</DATE_ADDED>
-  <BSN>003924956</BSN>
-  <BIB_TITLE>  Eastern Arabia in the first millenium BC / edited by Alessandra Avanzini.</BIB_TITLE>
-  <BIB_AUTHOR>  Avanzini, Alessandra, 1947- ed.</BIB_AUTHOR>
-  <PUB_DATE>2010</PUB_DATE>
-  <Z13_IMPRINT>Roma : "L'Erma" di Bretschneider, c2010.</Z13_IMPRINT>
-  <CALL_NUMBER> DS211 .E27 2010</CALL_NUMBER>
-  <BARCODE>31154050695764</BARCODE>
+  <DATE_ADDED>20140623</DATE_ADDED>
+  <BSN>001232410</BSN>
+  <BIB_TITLE>  Beyond the Tigris and Euphrates : Bronze Age civilizations / Carl C. Lamberg-Karlovsky.</BIB_TITLE>
+  <PUB_DATE>1996</PUB_DATE>
+  <Z13_IMPRINT>[Jerusalem] : Ben-Gurion University of the Negev Press, 1996.</Z13_IMPRINT>
+  <CALL_NUMBER> DS62.2 .L36 1996</CALL_NUMBER>
+  <Z30_NOTE_INTERNAL>Tadmor</Z30_NOTE_INTERNAL>
+  <BARCODE>31154050651205</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20140623</DATE_ADDED>
+  <BSN>002223171</BSN>
+  <BIB_TITLE>  The organizational pattern and the penal code of the Qumran sect : a comparison with guilds and religious associations of the Hellenistic-Roman period / Moshe Weinfeld.</BIB_TITLE>
+  <PUB_DATE>1986</PUB_DATE>
+  <Z13_IMPRINT>Fribourg, Suisse : Editions Universitaires ; Göttingen : Vandenhoeck &amp; Ruprecht, 1986.</Z13_IMPRINT>
+  <CALL_NUMBER> BM175.Q6 W44 1986</CALL_NUMBER>
+  <Z30_NOTE_INTERNAL>Tadmor</Z30_NOTE_INTERNAL>
+  <BARCODE>31154050651254</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20140605</DATE_ADDED>
+  <BSN>003997449</BSN>
+  <BIB_TITLE>   Si lu Hu ren wai lai feng : Tang dai hu yong zhan = Exotic flavor of the foreigners on the Silk Road : terracotta hu man of the Tang dynasty / Qian ling bo wu guan. //   丝路胡人外来风 : 唐代胡俑展 = Exotic flavor of the foreigners on the Silk Road : terracotta hu man of the Tang dynasty / 乾陵博物馆.</BIB_TITLE>
+  <PUB_DATE>2008</PUB_DATE>
+  <Z13_IMPRINT>04 Beijing : Wen wu chu ban she, 2008.</Z13_IMPRINT>
+  <CALL_NUMBER> NB1043.3 .S525 2008</CALL_NUMBER>
+  <BARCODE>31154050707148</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20140605</DATE_ADDED>
+  <BSN>003997454</BSN>
+  <BIB_TITLE>  Kourion : a complete guide to its monuments and local museum / Demos Christou.</BIB_TITLE>
+  <PUB_DATE>1992</PUB_DATE>
+  <Z13_IMPRINT>Nicosia : Filokipros, 1992, c1986.</Z13_IMPRINT>
+  <CALL_NUMBER> DS54.95.K68 C47 1992</CALL_NUMBER>
+  <Z30_NOTE_INTERNAL>Tadmor</Z30_NOTE_INTERNAL>
+  <BARCODE>31154050650512</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20140605</DATE_ADDED>
+  <BSN>003997452</BSN>
+  <BIB_TITLE>   Tulufan chu tu wen xian ci dian / Wang Qitao zhu. //   吐魯番出土文獻词典 / 王啓濤著.</BIB_TITLE>
+  <BIB_AUTHOR>  Wang, Qitao </BIB_AUTHOR>
+  <PUB_DATE>2012</PUB_DATE>
+  <Z13_IMPRINT>04 Chengdu Shi : Ba Shu shu she, 2012.</Z13_IMPRINT>
+  <CALL_NUMBER> PL1497 .W37 2012</CALL_NUMBER>
+  <BARCODE>31154050707155</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20140605</DATE_ADDED>
+  <BSN>003997463</BSN>
+  <BIB_TITLE>   Gu dai mu zang mei shu yan jiu. di 1 ji / [Wu Hong, Zheng Yan zhu bian]. //   古代墓葬美术研究. 第一辑 / [巫鸿, 郑岩主编]</BIB_TITLE>
+  <BIB_AUTHOR>  Zheng, Yan, 1966- </BIB_AUTHOR>
+  <PUB_DATE>2011</PUB_DATE>
+  <Z13_IMPRINT>03 Beijing Shi : Wen wu chu ban she, 2011.</Z13_IMPRINT>
+  <CALL_NUMBER> N7343 .G82 2011</CALL_NUMBER>
+  <VOLUME_INFO>v.1</VOLUME_INFO>
+  <BARCODE>31154050707163</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20140605</DATE_ADDED>
+  <BSN>003997483</BSN>
+  <BIB_TITLE>   Hebei gu dai mu zang bi hua / Hebei Sheng wen wu yan jiu suo bian. //   河北古代墓葬壁画 / 河北省文物硏究所编.</BIB_TITLE>
+  <PUB_DATE>2000</PUB_DATE>
+  <Z13_IMPRINT>03 Beijing : Wen wu chu ban she, 2000.</Z13_IMPRINT>
+  <CALL_NUMBER> ND2849.H43 H43 2000</CALL_NUMBER>
+  <BARCODE>31154050707171</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20140617</DATE_ADDED>
+  <BSN>003926766</BSN>
+  <BIB_TITLE>  The healing goddess Gula : towards an understanding of ancient Babylonian medicine / by Barbara Böck.</BIB_TITLE>
+  <PUB_DATE>2014</PUB_DATE>
+  <CALL_NUMBER> R135.3 .B63 2014</CALL_NUMBER>
+  <BARCODE>31154050650868</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20140602</DATE_ADDED>
+  <BSN>003995607</BSN>
+  <BIB_TITLE>  Prophets and prophecy in the ancient Near East / by Martti Nissinen ; with contributions by C.L. Seow and Robert K. Ritner ; edited by Peter Machinist.</BIB_TITLE>
+  <BIB_AUTHOR>  Seow, C. L. (Choon Leong) contributor. //  Machinist, Peter ed. //  Ritner, Robert Kriech, 1953- contributor.</BIB_AUTHOR>
+  <PUB_DATE>2003</PUB_DATE>
+  <Z13_IMPRINT>Atlanta, GA : Society of Biblical Literature, c2003.</Z13_IMPRINT>
+  <CALL_NUMBER> BF1762 .N58 2003b</CALL_NUMBER>
+  <Z30_NOTE_INTERNAL>Tadmor</Z30_NOTE_INTERNAL>
+  <BARCODE>31154050650231</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20140627</DATE_ADDED>
+  <BSN>001566694</BSN>
+  <BIB_TITLE>  The Jewish discovery of Islam : studies in honor of Bernard Lewis / edited by Martin Kramer.</BIB_TITLE>
+  <BIB_AUTHOR>  Kramer, Martin S. ed. //  Lewis, Bernard, 1916-</BIB_AUTHOR>
+  <PUB_DATE>1999</PUB_DATE>
+  <Z13_IMPRINT>Tel Aviv : Moshe Dayan Center for Middle Eastern and African Studies, Tel Aviv University, 1999.</Z13_IMPRINT>
+  <CALL_NUMBER> BP173.J8 J47 1999</CALL_NUMBER>
+  <Z30_NOTE_INTERNAL>Tadmor</Z30_NOTE_INTERNAL>
+  <BARCODE>31154050651510</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20140627</DATE_ADDED>
+  <BSN>002748291</BSN>
+  <BIB_TITLE>  The dynamics of biblical parallelism / Adele Berlin.</BIB_TITLE>
+  <PUB_DATE>1985</PUB_DATE>
+  <Z13_IMPRINT>Bloomington : Indiana University Press, c1985.</Z13_IMPRINT>
+  <CALL_NUMBER> PJ4740 .B47 1985</CALL_NUMBER>
+  <Z30_NOTE_INTERNAL>Tadmor</Z30_NOTE_INTERNAL>
+  <BARCODE>31154050651528</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20140611</DATE_ADDED>
+  <BSN>001748170</BSN>
+  <BIB_TITLE>  What did the biblical writers know, and when did they know it? : what archaeology can tell us about the reality of ancient Israel / William G. Dever.</BIB_TITLE>
+  <PUB_DATE>2001</PUB_DATE>
+  <Z13_IMPRINT>Grand Rapids, Mich. : Eerdmans, c2001.</Z13_IMPRINT>
+  <CALL_NUMBER> BS1180 .D66 2001</CALL_NUMBER>
+  <Z30_NOTE_INTERNAL>Tadmor</Z30_NOTE_INTERNAL>
+  <BARCODE>31154050650785</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20140611</DATE_ADDED>
+  <BSN>004000272</BSN>
+  <BIB_TITLE>  Sternkunde und Sterndienst in Babel : assyriologische, astronomische und astralmythologische Untersuchungen / von Franz Xaver Kugler S.J.</BIB_TITLE>
+  <PUB_DATE>1907</PUB_DATE>
+  <Z13_IMPRINT>Münster in Westfalen : Aschendorff, 1907-1924.</Z13_IMPRINT>
+  <CALL_NUMBER> QB19 .K84 1907</CALL_NUMBER>
+  <VOLUME_INFO>Buch 1-2</VOLUME_INFO>
+  <Z30_NOTE_INTERNAL>Tadmor</Z30_NOTE_INTERNAL>
+  <BARCODE>31154050235165</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20140611</DATE_ADDED>
+  <BSN>004000257</BSN>
+  <BIB_TITLE>   Anyang Yinxu Xujiaqiao Guojiazhuang Shang dai mu zang : 2004-2008 nian Yinxu kao gu bao gao / Anyang Shi wen wu kao gu yan jiu suo bian zhu. //   安阳殷墟徐家桥郭家庄商代墓葬 : 2004-2008年殷墟考古报告 / 安阳市文物考古研究所编著.</BIB_TITLE>
+  <PUB_DATE>2011</PUB_DATE>
+  <Z13_IMPRINT>04 Beijing : Ke xue chu ban she, 2011.</Z13_IMPRINT>
+  <CALL_NUMBER> DS797.44.A583 G87 2011</CALL_NUMBER>
+  <BARCODE>31154050707767</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20140613</DATE_ADDED>
+  <BSN>004001486</BSN>
+  <BIB_TITLE>   Ma jia yao wen hua cai tao gui bao xin shang = A new perspective on treasure of painted pottery of Majiayao culture / Zhang Pengchuan, Wang Xincun zhu bian. //   马家窑文化彩陶瑰宝新赏 = A new perspective on treasure of painted pottery of Majiayao culture / 张朋川, 王新村主编.</BIB_TITLE>
+  <BIB_AUTHOR>  Zhang, Pengchuan </BIB_AUTHOR>
+  <PUB_DATE>2004</PUB_DATE>
+  <Z13_IMPRINT>03 Beijing : Wen wu chu ban she, 2004.</Z13_IMPRINT>
+  <CALL_NUMBER> NK4166.G36 M34 2004</CALL_NUMBER>
+  <BARCODE>31154050708047</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20140613</DATE_ADDED>
+  <BSN>004001490</BSN>
+  <BIB_TITLE>   Zhoukoudian yi zhi bao hu gong cheng bao gao / Zhoukoudian Beijing ren yi zhi guan li chu bian zhu. //   周口店遗址保护工程报告 / 周口店北京人遗址管理处编著.</BIB_TITLE>
+  <PUB_DATE>2013</PUB_DATE>
+  <CALL_NUMBER> GN855.C6 Z46 2013</CALL_NUMBER>
+  <BARCODE>31154050708054</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20140613</DATE_ADDED>
+  <BSN>004001504</BSN>
+  <BIB_TITLE>   Shen mi de gu Shu wang guo : Sanxingdui, Jinsha wen wu zhen bao = The mysterious ancient state of Shu : cultural relics from Sanxingdui and Jinsha / [bian zhe: Shenzhen bo wu guan, Sichuan Guanghan Sanxingdui bo wu guan, Chengdu Jinsha yi zhi bo wu guan]. //   神秘的古蜀王国 : 三星堆・金沙文物珍宝 = The mysterious ancient state of Shu : cultural relics from Sanxingdui and Jinsha / [编者: 深圳博物馆, 四川广汉三星堆博物馆, 成都金沙遗址博物馆].</BIB_TITLE>
+  <PUB_DATE>2009</PUB_DATE>
+  <Z13_IMPRINT>05 Beijing Shi : Wen wu chu ban she, 2009.</Z13_IMPRINT>
+  <CALL_NUMBER> NK7983.A3S8 S54 2009</CALL_NUMBER>
+  <BARCODE>31154050708070</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20140613</DATE_ADDED>
+  <BSN>004001497</BSN>
+  <BIB_TITLE>   Yongle gong bi hua = The Murals of the Palace of Yongle / Xiao Jun bian zhu. //   永樂宮壁畫 = The Murals of the Palace of Yongle / 蕭軍編著.</BIB_TITLE>
+  <PUB_DATE>2008</PUB_DATE>
+  <Z13_IMPRINT>04 Beijing : Wen wu chu ban she, 2008.</Z13_IMPRINT>
+  <CALL_NUMBER> ND2850.L66 X53 2008</CALL_NUMBER>
+  <BARCODE>31154050708062</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20140626</DATE_ADDED>
+  <BSN>004007532</BSN>
+  <BIB_TITLE>   Kuang shi jue xiang : Leigudun Zeng hou Yi mu fa jue ji / Yue Nan zhu. //   旷世绝响 : 擂鼓墩曾侯乙墓发掘记 / 岳南著.</BIB_TITLE>
+  <PUB_DATE>2012</PUB_DATE>
+  <Z13_IMPRINT>05 Beijing : Shang wu yin shu guan, 2012.</Z13_IMPRINT>
+  <CALL_NUMBER> DS797.48.S85 Y84 2012</CALL_NUMBER>
+  <BARCODE>31154050709029</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20140626</DATE_ADDED>
+  <BSN>004007533</BSN>
+  <BIB_TITLE>  Publications of the Oriental Institute, 1906-1991 : exploring the history and civilization of the Near East / edited by Thomas A. Holland ; with an introduction by William M. Sumner and contributions by Thomas G. Urban, Richard M. Schoen, and Louis C. Anthes IV.</BIB_TITLE>
+  <BIB_AUTHOR>  Holland, Thomas A. ed.</BIB_AUTHOR>
+  <PUB_DATE>1991</PUB_DATE>
+  <Z13_IMPRINT>Chicago : Oriental Institute of the University of Chicago, 1991.</Z13_IMPRINT>
+  <CALL_NUMBER> Z5055.U5 C5185 1991</CALL_NUMBER>
+  <BARCODE>31154050651437</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20140626</DATE_ADDED>
+  <BSN>004007536</BSN>
+  <BIB_TITLE>   Lianhuachi Shan yi zhi : Fujian Zhangzhou jiu shi qi yi zhi fa jue bao gao (1990-2007) / Fujian bo wu yuan bian zhu. //   莲花池山遗址 : 福建漳州旧石器遗址发掘报告(1990-2007) / 福建博物院编著.</BIB_TITLE>
+  <PUB_DATE>2013</PUB_DATE>
+  <Z13_IMPRINT>04 Beijing : Ke xue chu ban she, 2013.</Z13_IMPRINT>
+  <CALL_NUMBER> GN772.32.C6 L536 2013</CALL_NUMBER>
+  <BARCODE>31154050709045</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20140626</DATE_ADDED>
+  <BSN>004007554</BSN>
+  <BIB_TITLE>   Feng Chengjun xi bei shi di lun ji / Feng Chengjun zhu. //   冯承钧西北史地论集 / 冯承钧著.</BIB_TITLE>
+  <PUB_DATE>2013</PUB_DATE>
+  <CALL_NUMBER> DS793.N6 F46 2013</CALL_NUMBER>
+  <BARCODE>31154050709060</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20140626</DATE_ADDED>
+  <BSN>002438453</BSN>
+  <BIB_TITLE>  Sotira / by Porphyrios Dikaios ; with contributions by J. Lawrence Angel ... [et al.].</BIB_TITLE>
+  <PUB_DATE>1961</PUB_DATE>
+  <Z13_IMPRINT>Philadelphia : University Museum, University of Pennsylvania, 1961.</Z13_IMPRINT>
+  <CALL_NUMBER> DS54.95.S65 D54 1961</CALL_NUMBER>
+  <BARCODE>31154050651478</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20140602</DATE_ADDED>
+  <BSN>001806823</BSN>
+  <BIB_TITLE>  Sprachwissenschaftlicher kommentar zu ausgewählten stücken aus Homer / von Eduard Hermann.</BIB_TITLE>
+  <PUB_DATE>1914</PUB_DATE>
+  <Z13_IMPRINT>Heidelberg : C. Winter, 1914.</Z13_IMPRINT>
+  <CALL_NUMBER> PA4169 .H4 1914</CALL_NUMBER>
+  <Z30_NOTE_INTERNAL>Sijpesteijn</Z30_NOTE_INTERNAL>
+  <BARCODE>31154050706793</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20140602</DATE_ADDED>
+  <BSN>001892679</BSN>
+  <BIB_TITLE>  Hermagorae Temnitae Testimonia et fragmenta, adiunctis et Hermagorae cuisdam discipuli Theodori Gadarei et Hermagorae Minoris fragmentis / collegit Dieter Matthes.</BIB_TITLE>
+  <BIB_AUTHOR>  Mattes, Dieter.</BIB_AUTHOR>
+  <PUB_DATE>1962</PUB_DATE>
+  <Z13_IMPRINT>Lipsiae : Teubner, 1962.</Z13_IMPRINT>
+  <CALL_NUMBER> PA3404 .H536 1962</CALL_NUMBER>
+  <Z30_NOTE_INTERNAL>Sijpesteijn</Z30_NOTE_INTERNAL>
+  <BARCODE>31154050706801</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20140602</DATE_ADDED>
+  <BSN>002617960</BSN>
+  <BIB_TITLE>  Art in ancient Palestine : selected studies / M. Avi-Yonah ; collected and prepared for republication by Hannah Katzenstein and Yoram Tsafrir.</BIB_TITLE>
+  <BIB_AUTHOR>  Katzenstein, Hannah compiler. //  Tsafrir, Yoram, compiler.</BIB_AUTHOR>
+  <PUB_DATE>1981</PUB_DATE>
+  <Z13_IMPRINT>Jerusalem : Magnes Press, Hebrew University, 1981.</Z13_IMPRINT>
+  <CALL_NUMBER> N5460 .A94 1981</CALL_NUMBER>
+  <Z30_NOTE_INTERNAL>Tadmor</Z30_NOTE_INTERNAL>
+  <BARCODE>31154050650249</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20140602</DATE_ADDED>
+  <BSN>002075514</BSN>
+  <BIB_TITLE>  Histoires / Hérodote ; texte établi et traduit par Ph.-E. Legrand.</BIB_TITLE>
+  <BIB_AUTHOR>  Legrand, Ph. E. (Philippe Ernest), b. 1866.</BIB_AUTHOR>
+  <PUB_DATE>1930</PUB_DATE>
+  <Z13_IMPRINT>Paris : Belles Lettres, 1930-1954.</Z13_IMPRINT>
+  <CALL_NUMBER> PA4002 .A2 1932</CALL_NUMBER>
+  <VOLUME_INFO>index</VOLUME_INFO>
+  <Z30_NOTE_INTERNAL>Sijpesteijn</Z30_NOTE_INTERNAL>
+  <BARCODE>31154050706835</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20140602</DATE_ADDED>
+  <BSN>002231825</BSN>
+  <BIB_TITLE>  Josephus and the history of the Greco-Roman period : essays in memory of Morton Smith / edited by Fausto Parente and Joseph Sievers.</BIB_TITLE>
+  <BIB_AUTHOR>  Smith, Morton, 1915-1991, honoree. //  Sievers, Joseph ed. //  Parente, Fausto ed.</BIB_AUTHOR>
+  <PUB_DATE>1994</PUB_DATE>
+  <Z13_IMPRINT>Leiden ; New York : E.J. Brill, 1994.</Z13_IMPRINT>
+  <CALL_NUMBER> DS115.9.J6 J65 1994</CALL_NUMBER>
+  <Z30_NOTE_INTERNAL>Tadmor</Z30_NOTE_INTERNAL>
+  <BARCODE>31154050650256</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20140624</DATE_ADDED>
+  <BSN>000288682</BSN>
+  <BIB_TITLE>   Tang dai Xue Jing mu fa jue bao gao / Shanxi Sheng kao gu yan jiu suo bian zhu. //   唐代　薛　儆　墓　发掘　报告 / 山西省　考古　研究所　编著．</BIB_TITLE>
+  <PUB_DATE>2000</PUB_DATE>
+  <Z13_IMPRINT>03 Beijing : Ke xue chu ban she, 2000.</Z13_IMPRINT>
+  <CALL_NUMBER> DS797.75.W26 T36 2000</CALL_NUMBER>
+  <BARCODE>31154050708864</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20140624</DATE_ADDED>
+  <BSN>004006092</BSN>
+  <BIB_TITLE>   Tang dai dong nan de li shi di li / Wu Zhou zhu. //   唐代东南的历史地理 / 吴洲著.</BIB_TITLE>
+  <PUB_DATE>2011</PUB_DATE>
+  <Z13_IMPRINT>04 Beijing : Zhongguo she hui ke xue chu ban she, 2011.</Z13_IMPRINT>
+  <CALL_NUMBER> DS706.5 .W828 2011</CALL_NUMBER>
+  <BARCODE>31154050708872</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20140624</DATE_ADDED>
+  <BSN>004006106</BSN>
+  <BIB_TITLE>   Zhongguo bian jiang shi di kao lun / Lü Yiran zhu. //   中国边疆史地考论 / 吕一燃著.</BIB_TITLE>
+  <PUB_DATE>2013</PUB_DATE>
+  <CALL_NUMBER> DS706.5 .L7 2013</CALL_NUMBER>
+  <BARCODE>31154050708880</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20140624</DATE_ADDED>
+  <BSN>004006126</BSN>
+  <BIB_TITLE>   Liangzhu wen hua zong he yan jiu / Liu Hengwu zhu. //   良渚文化综合研究 / 刘恒武著.</BIB_TITLE>
+  <PUB_DATE>2008</PUB_DATE>
+  <Z13_IMPRINT>04 Beijing : Ke xue chu ban she, 2008.</Z13_IMPRINT>
+  <CALL_NUMBER> GN776.2.L52 L58 2008</CALL_NUMBER>
+  <BARCODE>31154050708898</BARCODE>
+ </ROW>
+  <ROW>
+  <DATE_ADDED>20140603</DATE_ADDED>
+  <BSN>003995908</BSN>
+  <BIB_TITLE>   Si chou zhi lu shi ku bi hua cai su bao hu / Li Zuixiong bian zhu. //   丝绸之路石窟壁画彩塑保护 / 李最雄编著.</BIB_TITLE>
+  <PUB_DATE>2005</PUB_DATE>
+  <Z13_IMPRINT>04 Beijing : Ke xue chu ban she, 2005.</Z13_IMPRINT>
+  <CALL_NUMBER> ND2849.N89 L5 2005</CALL_NUMBER>
+  <BARCODE>31154050706918</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20140603</DATE_ADDED>
+  <BSN>003995936</BSN>
+  <BIB_TITLE>  A manual of the Aramaic language of the Babylonian Talmud : grammar, chrestomathy, and glossaries / by Max L. Margolis.</BIB_TITLE>
+  <PUB_DATE>1910</PUB_DATE>
+  <Z13_IMPRINT>München : C.H. Beck ; New York : G.E. Stechert, 1910.</Z13_IMPRINT>
+  <CALL_NUMBER> PJ5302 .M35 1910</CALL_NUMBER>
+  <Z30_NOTE_INTERNAL>Tadmor</Z30_NOTE_INTERNAL>
+  <BARCODE>31154050650322</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20140603</DATE_ADDED>
+  <BSN>003995991</BSN>
+  <BIB_TITLE>   Gu dai bi hua xian zhuang diao cha gui fan = Specification for condition survey of ancient murals / Zhonghua Renmin Gongheguo guo jia wen wu ju zhu bian. //   古代壁画现状调查规范 = Specification for condition survey of ancient murals / 中华人民共和国国家文物局主编.</BIB_TITLE>
+  <PUB_DATE>2008</PUB_DATE>
+  <Z13_IMPRINT>03 Beijing Shi : Wen wu chu ban she, 2008.</Z13_IMPRINT>
+  <CALL_NUMBER> ND2848 .G8 2008</CALL_NUMBER>
+  <BARCODE>31154050706983</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20140603</DATE_ADDED>
+  <BSN>003275737</BSN>
+  <BIB_TITLE>   克孜尔尕哈石窟内容总录 / 新疆龟兹石窟研究所编 ; 主编王卫东. //   Kezi'ergaha shi ku nei rong zong lu / Xinjiang Qiuci shi ku yan jiu suo bian ; zhu bian Wang Weidong.</BIB_TITLE>
+  <BIB_AUTHOR>  Wang, Weidong </BIB_AUTHOR>
+  <PUB_DATE>2009</PUB_DATE>
+  <Z13_IMPRINT>03 Beijing Shi : Wen wu chu ban she, 2009.</Z13_IMPRINT>
+  <CALL_NUMBER> ND2849.S5 K49 2009</CALL_NUMBER>
+  <BARCODE>31154050706926</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20140603</DATE_ADDED>
+  <BSN>003995942</BSN>
+  <BIB_TITLE>   Beijing di qu Liao Jin mu zang bi hua bao hu yan jiu / Beijing Shi wen wu yan jiu suo bian zhu. //   北京地区辽金墓葬壁画保护研究 / 北京市文物研究所编著.</BIB_TITLE>
+  <PUB_DATE>2008</PUB_DATE>
+  <Z13_IMPRINT>03 Beijing : Ke xue chu ban she, 2008.</Z13_IMPRINT>
+  <CALL_NUMBER> ND2850.B35 B35 2008</CALL_NUMBER>
+  <BARCODE>31154050706934</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20140603</DATE_ADDED>
+  <BSN>003995946</BSN>
+  <BIB_TITLE>   Kumutula shi ku / Xinjiang Weiwuer Zizhiqu wen wu guan li wei yuan hui, Kuce xian wen wu bao guan suo, Beijing da xue kao gu xi bian. //   库木吐喇石窟 / 新疆维吾尔自治区文物管理委员会, 库车县文物保管所, 北京大学考古系编.</BIB_TITLE>
+  <PUB_DATE>1992</PUB_DATE>
+  <Z13_IMPRINT>03 Beijing : Wen wu chu ban she, 1992.</Z13_IMPRINT>
+  <CALL_NUMBER> ND2849.K8 K8 1992</CALL_NUMBER>
+  <BARCODE>31154050706942</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20140603</DATE_ADDED>
+  <BSN>003995952</BSN>
+  <BIB_TITLE>   Senmusaimu shi ku nei rong zong lu / Xinjiang Qiuci shi ku yan jiu suo bian ; zhu bian Wang Weidong. //   森木塞姆石窟內容总录 / 新疆龟兹石窟研究所编 ; 主编王卫东.</BIB_TITLE>
+  <PUB_DATE>2008</PUB_DATE>
+  <CALL_NUMBER> ND2849.S3 S36 2008</CALL_NUMBER>
+  <BARCODE>31154050706959</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20140603</DATE_ADDED>
+  <BSN>003995960</BSN>
+  <BIB_TITLE>   Kumutula shi ku nei rong zong lu / Xinjiang Qiuci shi ku yan jiu suo bian ; zhu bian Wang Weidong ; bian zhu Li Li ... [et al.]. //   库木吐喇石窟内容总录 / 新疆龟兹石窟研究所编 ; 主编王卫东 ; 编著李丽 ... [et al.].</BIB_TITLE>
+  <BIB_AUTHOR>  Wang, Weidong  //  Li, Li </BIB_AUTHOR>
+  <PUB_DATE>2008</PUB_DATE>
+  <Z13_IMPRINT>03 Beijing : Wen wu chu ban she, 2008.</Z13_IMPRINT>
+  <CALL_NUMBER> ND2849.K8 K85 2008</CALL_NUMBER>
+  <BARCODE>31154050706967</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20140603</DATE_ADDED>
+  <BSN>003697167</BSN>
+  <BIB_TITLE>  The Roman market economy / Peter Temin.</BIB_TITLE>
+  <PUB_DATE>2013</PUB_DATE>
+  <Z13_IMPRINT>Princeton ; Oxford : Princeton University Press, c2013.</Z13_IMPRINT>
+  <CALL_NUMBER> HC39 .T46 2013</CALL_NUMBER>
+  <BARCODE>31154050650348</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20140612</DATE_ADDED>
+  <BSN>003475420</BSN>
+  <BIB_TITLE>  Catastrophe! : the looting and destruction of Iraq's past / edited by Geoff Emberling &amp; Katharyn Hanson ; with contributions by McGuire Gibson ... [et al.].</BIB_TITLE>
+  <BIB_AUTHOR>  Emberling, Geoff. //  Gibson, McGuire. //  Hanson, Katharyn.</BIB_AUTHOR>
+  <PUB_DATE>2008</PUB_DATE>
+  <Z13_IMPRINT>Chicago : Oriental Institute Museum of the University of Chicago, 2008.</Z13_IMPRINT>
+  <CALL_NUMBER> DS79.767.C85 C38 2008</CALL_NUMBER>
+  <BARCODE>31154050235199</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20140612</DATE_ADDED>
+  <BSN>004000751</BSN>
+  <BIB_TITLE>   Tulufan Bozikelike shi ku chu tu Han wen fo jiao dian ji / Xinjiang Weiwu'er Zizhiqu Tulufan xue yan jiu yuan, Wuhan da xue san zhi jiu shi ji yan jiu suo bian zhu. //   吐魯番柏孜克里克石窟出土漢文佛教典籍 / 新疆維吾爾自治區吐魯番學研究院, 武漢大學中國三至九世紀研究所编著.</BIB_TITLE>
+  <PUB_DATE>2007</PUB_DATE>
+  <Z13_IMPRINT>03 Beijing Shi : Wen wu chu ban she, 2007.</Z13_IMPRINT>
+  <CALL_NUMBER> DS797.84.T858 T836 2007</CALL_NUMBER>
+  <VOLUME_INFO>v.1</VOLUME_INFO>
+  <BARCODE>31154050707981</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20140612</DATE_ADDED>
+  <BSN>004000787</BSN>
+  <BIB_TITLE>   Changsha Zoumalou San guo Wu jian. Jiahe li min tian jia bie / Changsha Shi wen wu kao gu yan jiu suo, Zhongguo wen wu yan jiu suo, Beijing da xue li shi xue xi, Zoumalou jian du zheng li zu bian zhu. //   長沙走馬楼三國吴简. 嘉禾吏民田家莂 / 長沙市文物考古硏究所, 中國文物硏究所, 北京大學歷史學系, 走馬樓簡牘整理组編著.</BIB_TITLE>
+  <PUB_DATE>1999</PUB_DATE>
+  <Z13_IMPRINT>04 Beijing : Wen wu chu ban she, 1999.</Z13_IMPRINT>
+  <CALL_NUMBER> PL2448 .C434 1999</CALL_NUMBER>
+  <VOLUME_INFO>v.1</VOLUME_INFO>
+  <BARCODE>31154050708005</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20140612</DATE_ADDED>
+  <BSN>004000794</BSN>
+  <BIB_TITLE>   巴蜀汉代画像集 / 龚廷万,龚玉,戴嘉陵编著. //   Ba Shu Han dai hua xiang ji / Gong Tingwan, Gong Yu, Dai Jialing bian zhu.</BIB_TITLE>
+  <BIB_AUTHOR>  Gong, Yu  //  Dai, Jialing </BIB_AUTHOR>
+  <PUB_DATE>1998</PUB_DATE>
+  <Z13_IMPRINT>04 Beijing : Wen wu chu ban she : Xin hua shu dian jing xiao, 1998.</Z13_IMPRINT>
+  <CALL_NUMBER> NB1280 .K862 1998</CALL_NUMBER>
+  <BARCODE>31154050708021</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20140620</DATE_ADDED>
+  <BSN>004004672</BSN>
+  <BIB_TITLE>  Reading and writing in the time of Jesus / Alan Millard.</BIB_TITLE>
+  <PUB_DATE>2000</PUB_DATE>
+  <Z13_IMPRINT>Sheffield : Sheffield Academic Press, 2000.</Z13_IMPRINT>
+  <CALL_NUMBER> BS2555.5 .M55 2000b</CALL_NUMBER>
+  <Z30_NOTE_INTERNAL>Tadmor</Z30_NOTE_INTERNAL>
+  <BARCODE>31154050651171</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20140620</DATE_ADDED>
+  <BSN>004004678</BSN>
+  <BIB_TITLE>   Beifudi : Yi Shui liu yu shi qian yi zhi / Hebei Sheng wen wu yan jiu suo, Duan Hongzhen zhu bian. //   北福地 : 易水流域史前遗址 / 河北省文物研究所, 段宏振主编.</BIB_TITLE>
+  <BIB_AUTHOR>  Duan, Hongzhen </BIB_AUTHOR>
+  <PUB_DATE>2007</PUB_DATE>
+  <Z13_IMPRINT>04 Beijing : Wen wu chu ban she, 2007.</Z13_IMPRINT>
+  <CALL_NUMBER> DS797.39.Y595 B454 2007</CALL_NUMBER>
+  <BARCODE>31154050708732</BARCODE>
+ </ROW>
+  <ROW>
+  <DATE_ADDED>20140602</DATE_ADDED>
+  <BSN>003995498</BSN>
+  <BIB_TITLE>  Lettres de Ḫammurapi à Šamaš-ḫâṣir / publiées par F. Thureau-Dangin.</BIB_TITLE>
+  <BIB_AUTHOR>  Thureau-Dangin, F. (François), 1872-1944 ed.</BIB_AUTHOR>
+  <PUB_DATE>1924</PUB_DATE>
+  <Z13_IMPRINT>Paris : P. Guethner, 1924.</Z13_IMPRINT>
+  <CALL_NUMBER> PJ3711 .M87 1924</CALL_NUMBER>
+  <Z30_NOTE_INTERNAL>Tadmor</Z30_NOTE_INTERNAL>
+  <BARCODE>31154050650199</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20140602</DATE_ADDED>
+  <BSN>003995499</BSN>
+  <BIB_TITLE>  Heronis Alexandrini Metrica : accedunt partes quaedam selectae Codicis Constantinopolitani palatii veteris no. 1 / edidit E. M. Bruins.</BIB_TITLE>
+  <PUB_DATE>1964</PUB_DATE>
+  <Z13_IMPRINT>Leiden : E. J. Brill, 1964.</Z13_IMPRINT>
+  <CALL_NUMBER> QA31 .H56 1964</CALL_NUMBER>
+  <Z30_NOTE_INTERNAL>Sijpesteijn</Z30_NOTE_INTERNAL>
+  <BARCODE>31154050706769</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20140610</DATE_ADDED>
+  <BSN>003999947</BSN>
+  <BIB_TITLE>   Zhonghua wen ming tan yuan gong cheng wen ji. Ji shu yu jing ji juan / Ke ji bu she hui fa zhan ke ji si, Guo jia wen wu ju bo wu guan yu she hui wen wu si bian. //   中华文明探源工程文集. 技术与经济卷 / 科技部社会发展科技司, 国家文物局博物馆与社会文物司编.</BIB_TITLE>
+  <PUB_DATE>2009</PUB_DATE>
+  <CALL_NUMBER> DS715 .Z61 2009</CALL_NUMBER>
+  <BARCODE>31154050707650</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20140610</DATE_ADDED>
+  <BSN>003999959</BSN>
+  <BIB_TITLE>   Zhonghua wen ming tan yuan gong cheng wen ji. Huan jing juan (I) / Ke ji bu she hui fa zhan ke ji si, Guo jia wen wu ju bo wu guan yu she hui wen wu si bian. //   中华文明探源工程文集. 环境卷 (I) / 科技部社会发展科技司, 国家文物局博物馆与社会文物司编.</BIB_TITLE>
+  <PUB_DATE>2009</PUB_DATE>
+  <CALL_NUMBER> DS715 .Z558 2009</CALL_NUMBER>
+  <BARCODE>31154050707643</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20140602</DATE_ADDED>
+  <BSN>002722666</BSN>
+  <BIB_TITLE>  Verwaltungstexte verschiedenen Inhalts aus dem Archiv L.2769 / von Dietz Otto Edzard.</BIB_TITLE>
+  <PUB_DATE>1981</PUB_DATE>
+  <Z13_IMPRINT>Roma : Missione archeologica italiana in Siria, 1981.</Z13_IMPRINT>
+  <CALL_NUMBER> PJ4147.Z77 E39 1981</CALL_NUMBER>
+  <Z30_NOTE_INTERNAL>Tadmor</Z30_NOTE_INTERNAL>
+  <BARCODE>31154050650207</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20140611</DATE_ADDED>
+  <BSN>001529439</BSN>
+  <BIB_TITLE>  Les religions arabes préislamiques / par G. Ryckmans.</BIB_TITLE>
+  <PUB_DATE>1951</PUB_DATE>
+  <Z13_IMPRINT>Louvain : Publications Universitaires : Bureaux du Muséon, 1951.</Z13_IMPRINT>
+  <CALL_NUMBER> BL1685 .R86 1951</CALL_NUMBER>
+  <Z30_NOTE_INTERNAL>Tadmor</Z30_NOTE_INTERNAL>
+  <BARCODE>31154050235157</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20140626</DATE_ADDED>
+  <BSN>002590111</BSN>
+  <BIB_TITLE>  Khirokitia : final report on the excavation of a Neolithic settlement in Cyprus on behalf of the Department of Antiquities, 1936-1946 / by Porphyrios Dikaios.</BIB_TITLE>
+  <PUB_DATE>1953</PUB_DATE>
+  <Z13_IMPRINT>London ; New York : Published for the Govt. of Cyprus by Oxford University Press, 1953.</Z13_IMPRINT>
+  <CALL_NUMBER> DS54.95.K45 D55 1953</CALL_NUMBER>
+  <BARCODE>31154050651445</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20140602</DATE_ADDED>
+  <BSN>002524368</BSN>
+  <BIB_TITLE>  Les cultes de Patras, avec une prosopographie patréenne / by Jules Herbillon.</BIB_TITLE>
+  <PUB_DATE>1929</PUB_DATE>
+  <Z13_IMPRINT>Baltimore : The Johns Hopkins press ; London : H. Milford, Oxford University press, 1929.</Z13_IMPRINT>
+  <CALL_NUMBER> BL793.P3 H4 1929</CALL_NUMBER>
+  <Z30_NOTE_INTERNAL>Sijpesteijn</Z30_NOTE_INTERNAL>
+  <BARCODE>31154050706819</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20140602</DATE_ADDED>
+  <BSN>000856057</BSN>
+  <BIB_TITLE>  The most magic word : essays on Babylonian and biblical literature / by William L. Moran ; edited by Ronald S. Hendel.</BIB_TITLE>
+  <BIB_AUTHOR>  Hendel, Ronald S. ed.</BIB_AUTHOR>
+  <PUB_DATE>2002</PUB_DATE>
+  <Z13_IMPRINT>Washington, DC : Catholic Biblical Association of America, c2002.</Z13_IMPRINT>
+  <CALL_NUMBER> PJ3611 .M67 2002</CALL_NUMBER>
+  <Z30_NOTE_INTERNAL>Tadmor</Z30_NOTE_INTERNAL>
+  <BARCODE>31154050650215</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20140602</DATE_ADDED>
+  <BSN>002000920</BSN>
+  <BIB_TITLE>  Allégories d'Homère. Texte établi et traduit / par Félix Buffière.</BIB_TITLE>
+  <PUB_DATE>1962</PUB_DATE>
+  <Z13_IMPRINT>Paris : Société d'Édition "Les Belles Lettres", [1962]</Z13_IMPRINT>
+  <CALL_NUMBER> PA4035 .H4 1962</CALL_NUMBER>
+  <Z30_NOTE_INTERNAL>Sijpesteijn</Z30_NOTE_INTERNAL>
+  <BARCODE>31154050706827</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20140602</DATE_ADDED>
+  <BSN>001816097</BSN>
+  <BIB_TITLE>  Discours / Texte établi et publié par Gaston Colin.</BIB_TITLE>
+  <BIB_AUTHOR>  Colin, Gaston, b. 1870.</BIB_AUTHOR>
+  <PUB_DATE>1946</PUB_DATE>
+  <Z13_IMPRINT>Paris : Société d'édition "Les Belles lettres," 1946.</Z13_IMPRINT>
+  <CALL_NUMBER> PA3404.H9 D5 1946</CALL_NUMBER>
+  <Z30_NOTE_INTERNAL>Sijpesteijn</Z30_NOTE_INTERNAL>
+  <BARCODE>31154050706843</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20140603</DATE_ADDED>
+  <BSN>003685301</BSN>
+  <BIB_TITLE>   Kumutula Qian fo dong bao hu xiu fu gong cheng bao gao / Lian he guo jiao ke wen zu zhi zhu Hua dai biao chu, Xinjiang Weiwuer Zizhiqu wen wu ju = Technical report on the conservation and restoration of Kumtura Thousand Buddha Caves / UNESCO Beijing Office, Cultural Relics Bureau of Xinjiang Uygur Autonomous Region. //   库木吐喇千佛洞保护修复工程报告 / 联合国教科文组织驻华代表处, 新疆维吾尔自治区文物局 = Technical report on the conservation and restoration of Kumtura Thousand Buddha Caves / UNESCO Beijing Office, Cultural Relics Bureau of Xinjiang Uygur Autonomous Region.</BIB_TITLE>
+  <PUB_DATE>2011</PUB_DATE>
+  <Z13_IMPRINT>03 Beijing Shi : Wen wu chu ban she, 2011.</Z13_IMPRINT>
+  <CALL_NUMBER> ND2849.K8 K82 2011</CALL_NUMBER>
+  <BARCODE>31154050706900</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20140603</DATE_ADDED>
+  <BSN>003662787</BSN>
+  <BIB_TITLE>  Petitions, litigation, and social control in Roman Egypt / Benjamin Kelly.</BIB_TITLE>
+  <PUB_DATE>2011</PUB_DATE>
+  <Z13_IMPRINT>Oxford ; New York : Oxford University Press, 2011.</Z13_IMPRINT>
+  <CALL_NUMBER> KJA3525 .K45 2011</CALL_NUMBER>
+  <BARCODE>31154050650330</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20140603</DATE_ADDED>
+  <BSN>003964418</BSN>
+  <BIB_TITLE>  The Aramaeans in ancient Syria / edited by Herbert Niehr.</BIB_TITLE>
+  <BIB_AUTHOR>  Niehr, Herbert contributor, editor of compilation.</BIB_AUTHOR>
+  <PUB_DATE>2014</PUB_DATE>
+  <CALL_NUMBER> DS94.8.S94 A73 2014</CALL_NUMBER>
+  <BARCODE>31154050650355</BARCODE>
+ </ROW>
+  <ROW>
+  <DATE_ADDED>20140602</DATE_ADDED>
+  <BSN>002488648</BSN>
+  <BIB_TITLE>  Assyrian and Babylonian chronicles / by A.K. Grayson.</BIB_TITLE>
+  <PUB_DATE>1975</PUB_DATE>
+  <Z13_IMPRINT>Locust Valley, N.Y. : J.J. Augustin, 1975, c1970.</Z13_IMPRINT>
+  <CALL_NUMBER> PJ3841 .G73 1975</CALL_NUMBER>
+  <Z30_NOTE_INTERNAL>Tadmor</Z30_NOTE_INTERNAL>
+  <BARCODE>31154050650173</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20140602</DATE_ADDED>
+  <BSN>002185882</BSN>
+  <BIB_TITLE>  Hermogenis opera / edidit Hugo Rabe. Adiectae sunt II tabulae.</BIB_TITLE>
+  <BIB_AUTHOR>  Rabe, Hugo.</BIB_AUTHOR>
+  <PUB_DATE>1913</PUB_DATE>
+  <Z13_IMPRINT>Lipsiae : In aedibus B. G. Teubneri, 1913</Z13_IMPRINT>
+  <CALL_NUMBER> PA3404 .H55 1913</CALL_NUMBER>
+  <Z30_NOTE_INTERNAL>Sijpesteijn</Z30_NOTE_INTERNAL>
+  <BARCODE>31154050706777</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20140602</DATE_ADDED>
+  <BSN>001820257</BSN>
+  <BIB_TITLE>  Frammenti / Ermarco ; edizione, traduzione e commento a cura di Francesca Longo Auricchio.</BIB_TITLE>
+  <BIB_AUTHOR>  Longo Auricchio, Francesca ed.</BIB_AUTHOR>
+  <PUB_DATE>1988</PUB_DATE>
+  <Z13_IMPRINT>Napoli : Bibliopolis, 1988.</Z13_IMPRINT>
+  <CALL_NUMBER> PA3998 .H48 1988</CALL_NUMBER>
+  <Z30_NOTE_INTERNAL>Sijpesteijn</Z30_NOTE_INTERNAL>
+  <BARCODE>31154050706785</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20140610</DATE_ADDED>
+  <BSN>003999941</BSN>
+  <BIB_TITLE>   Zhonghua wen ming tan yuan gong cheng wen ji. She hui yu jing shen wen hua juan / Ke ji bu she hui fa zhan ke ji gong si, Guo jia wen wu ju bo wu guan yu she hui wen wu si bian. //   中华文明探源工程文集. 社会与精神文化卷 / 科技部社会发展科技司, 国家文物局博物馆与社会文物司编.</BIB_TITLE>
+  <PUB_DATE>2009</PUB_DATE>
+  <CALL_NUMBER> DS721 .Z56 2009</CALL_NUMBER>
+  <VOLUME_INFO>v.1</VOLUME_INFO>
+  <BARCODE>31154050707627</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20140610</DATE_ADDED>
+  <BSN>003999968</BSN>
+  <BIB_TITLE>   Zhongguo kao gu xue / Zhongguo she hui ke xue yuan kao gu yan jiu suo bian zhu. //   中国考古学 / 中囯社会科学院考古硏究所编著.</BIB_TITLE>
+  <PUB_DATE>2003</PUB_DATE>
+  <Z13_IMPRINT>03 Beijing : Zhongguo she hui ke xue chu ban she, 2003-</Z13_IMPRINT>
+  <CALL_NUMBER> DS719 .Z457 2003</CALL_NUMBER>
+  <VOLUME_INFO>v.4</VOLUME_INFO>
+  <BARCODE>31154050707668</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20140610</DATE_ADDED>
+  <BSN>003999977</BSN>
+  <BIB_TITLE>   Xia Shang Zhou : cong shen hua dao shi shi / Guo Jingyun zhu. //   夏商周 : 从神话到史实 / 郭静云著.</BIB_TITLE>
+  <PUB_DATE>2013</PUB_DATE>
+  <CALL_NUMBER> DS744 .G85 2013</CALL_NUMBER>
+  <BARCODE>31154050707676</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20140624</DATE_ADDED>
+  <BSN>001999431</BSN>
+  <BIB_TITLE>  Middle Judaism : Jewish thought, 300 B.C.E. to 200 C.E. / Gabriele Boccaccini ; with a foreword by James H. Charlesworth.</BIB_TITLE>
+  <PUB_DATE>1991</PUB_DATE>
+  <Z13_IMPRINT>Minneapolis : Fortress Press, c1991.</Z13_IMPRINT>
+  <CALL_NUMBER> BM176 .B5 1991</CALL_NUMBER>
+  <Z30_NOTE_INTERNAL>Tadmor</Z30_NOTE_INTERNAL>
+  <BARCODE>31154050651320</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20140610</DATE_ADDED>
+  <BSN>002173612</BSN>
+  <BIB_TITLE>  The ancient Near East in pictures relating to the Old Testament / by James B. Pritchard.</BIB_TITLE>
+  <PUB_DATE>1954</PUB_DATE>
+  <Z13_IMPRINT>Princeton, N.J. : Princeton University Press, 1954.</Z13_IMPRINT>
+  <CALL_NUMBER> BS1180 .P823 1954</CALL_NUMBER>
+  <Z30_NOTE_INTERNAL>Tadmor</Z30_NOTE_INTERNAL>
+  <BARCODE>31154050650751</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20140624</DATE_ADDED>
+  <BSN>002435491</BSN>
+  <BIB_TITLE>  Jewish Gnosticism, Merkabah mysticism, and Talmudic tradition / by Gershom G. Scholem.</BIB_TITLE>
+  <PUB_DATE>1960</PUB_DATE>
+  <Z13_IMPRINT>New York : Jewish Theological Seminary of America, 1960.</Z13_IMPRINT>
+  <CALL_NUMBER> BM723 .S34 1960</CALL_NUMBER>
+  <Z30_NOTE_INTERNAL>Tadmor</Z30_NOTE_INTERNAL>
+  <BARCODE>31154050651338</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20140624</DATE_ADDED>
+  <BSN>004006242</BSN>
+  <BIB_TITLE>   Xian Qin bian zhong yan jiu / Wang Youhua zhu. //   先秦编钟研究 / 王友华著.</BIB_TITLE>
+  <PUB_DATE>2013</PUB_DATE>
+  <CALL_NUMBER> CC250.C6 W36 2013</CALL_NUMBER>
+  <BARCODE>31154050708914</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20140624</DATE_ADDED>
+  <BSN>004006258</BSN>
+  <BIB_TITLE>   Jin Tang wen shi lun gao / Yan Yaozhong zhu. //   晋唐文史论稿 / 严耀中著.</BIB_TITLE>
+  <PUB_DATE>2013</PUB_DATE>
+  <CALL_NUMBER> DS748.17 .Y369 2013</CALL_NUMBER>
+  <BARCODE>31154050708922</BARCODE>
+ </ROW>
+ <ROW>
+  <DATE_ADDED>20140624</DATE_ADDED>
+  <BSN>002260155</BSN>
+  <BIB_TITLE>  Israel's beneficent dead : ancestor cult and necromancy in ancient Israelite religion and tradition / by Brian B. Schmidt.</BIB_TITLE>
+  <PUB_DATE>1994</PUB_DATE>
+  <Z13_IMPRINT>Tübingen : J.C.B. Mohr (Paul Siebeck), c1994.</Z13_IMPRINT>
+  <CALL_NUMBER> BM170 .S36 1994</CALL_NUMBER>
+  <Z30_NOTE_INTERNAL>Tadmor</Z30_NOTE_INTERNAL>
+  <BARCODE>31154050651346</BARCODE>
  </ROW>
 </printout>
+
+ 
