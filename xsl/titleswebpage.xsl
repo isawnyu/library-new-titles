@@ -400,8 +400,14 @@
                         <xsl:value-of select="$titlestring"/>
                     </title>
                     <style type="text/css">
-                        .title {color: blue; font-weight: bold; font-style: italic;}
-                        .byline {color: red;}                        
+                        .title {
+                        		/* color: blue; */
+                        		font-weight: bold;
+                        		font-style: italic;
+                        		}
+                        .byline {
+                        		/* color: red; */
+                        		}                        
                     </style>
                 </head>
                 <body>
