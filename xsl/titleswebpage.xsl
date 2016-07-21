@@ -348,7 +348,7 @@
     <!-- origins -->
     <xsl:template match="marc:datafield[@tag=$marc-origin and starts-with(marc:subfield[@code='a'], 'ISAW')]">
         <span class="origin">
-            <xsl:value-of select="tre:capfirst(substring-after(tre:normalize-punctuation(marc:subfield[@code='a']), 'ISAW '))"/>
+            From <xsl:value-of select="tre:capfirst(substring-after(tre:normalize-punctuation(marc:subfield[@code='a']), 'from'))"/>
         </span>
         <xsl:text>. </xsl:text>
     </xsl:template>
