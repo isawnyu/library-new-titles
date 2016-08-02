@@ -417,7 +417,8 @@
                     <h1>
                         <xsl:value-of select="$titlestring"/>
                     </h1>
-                    <p>The following books were acquired and accessioned by the <a href="http://isaw.nyu.edu/library/">ISAW Library</a> between <xsl:value-of select="$start-date-string"/> and <xsl:value-of select="$end-date-string"/>. Items are sorted alphabetically by title.
+                    
+                    <p>The following books were acquired and accessioned by the <a href="http://isaw.nyu.edu/library/">ISAW Library</a> between <xsl:value-of select="$start-date-string"/> and <xsl:value-of select="$end-date-string"/>. Items are grouped by geographic region, and sorted by Library of Congress classification. 
                     <xsl:choose>
                         <xsl:when test="tre:strip($zotliblink)!=''">
                             This information is also available in a <a href="{tre:strip($zotliblink)}">Zotero library</a>.
@@ -427,7 +428,7 @@
                         </xsl:otherwise>
                     </xsl:choose>
                     </p>
-                    <p>The ISAW Library compiles a single Zotero "library" for the entire year, with each month representing a Zotero "collection." The metadata tags are only linked or searchable at the "library" level, not at the "collection" level. One may therefore view or search just that collection or the entire library. For example, if you review acquisitions for December 2014 and select the tag for "Hittite," nothing may come up. However, if you move up the hierarchy from the collection "December 2014" to the "library" for 2014 and then click on "Hittite," you will find items so tagged from previous months. <a href="http://www.zotero.org">Click here for information about Zotero</a>.</p>
+                    <p> The ISAW Library compiles a single Zotero "library" for the entire year, with each month representing a separate Zotero "collection." The metadata tags are only linked or searchable at the "library" level, not at the "collection" level. For example, if you review acquisitions for December 2015 and select the tag for "Hittite," nothing may come up. However, if you move up the hierarchy from the collection "December 2015" to the "library" for 2015 and then click on "Hittite," you will find items tagged from previous months. Click here for information about Zotero. <a href="http://www.zotero.org">Click here for information about Zotero</a>.</p>
                     
                     <xsl:variable name="mixed-collation" select=" concat('http://saxon.sf.net/collation?rules=', encode-for-uri('&lt;  0 &lt; 1 &lt; 2 &lt; 3 &lt; 4 &lt; 5 &lt; 6 &lt; 7 &lt; 8 &lt; 9 &lt; a,A &lt; b,B &lt; c,C &lt; d,D &lt; e,E &lt; f,F &lt; g,G &lt; h,H &lt; i,I &lt; j,J &lt; k,K &lt; l,L &lt; m,M &lt; n,N &lt; o,O &lt; p,P &lt; q,Q &lt; r,R &lt; s,S &lt; t,T &lt; u,U &lt; v,V &lt; w,W &lt; x,X &lt; y,Y &lt; z,Z &amp; A = Á &amp; A = Ä &amp; A = Ẵ &amp; A = Ằ &amp; C = Ç &amp; D = Đ &amp; E = É &amp; E = Ễ &amp; O = Ö &amp; a = à &amp; a = á &amp; a = â &amp; a = ä &amp; ae = æ &amp; c = ç &amp; e = è &amp; e = é &amp; e = ê &amp; i = í &amp; i = î &amp; i = ï &amp; n = ñ &amp; o = ó &amp; o = ô &amp; o = ö &amp; o = ø &amp; u = û &amp; u = ü &amp; c = č &amp; e = ē &amp; g = ğ &amp; i = ĭ &amp; i = İ &amp; i = ı &amp; l = ł &amp; n = ń &amp; o = ō &amp; s = ś &amp; s = ş &amp; S = Š &amp; s = š &amp; H = Ḥ &amp; h = ḥ &amp; H = Ḫ &amp; h = ḫ &amp; K = Ḳ &amp; k = ḳ &amp; s = ṣ &amp; T = Ṭ &amp; t = ṭ &amp; v = ṿ &amp; z = ẓ'))"/>
                     <xsl:for-each select="marc:record[marc:datafield[@tag='AVA']/marc:subfield[@code='b']='NISAW']">
@@ -440,9 +441,7 @@
                     <xsl:for-each select="marc:record[not(marc:datafield[@tag='AVA']/marc:subfield[@code='b']='NISAW')]">
                         <xsl:message>WARNING: no holdings info found; item repressed: <xsl:for-each select="marc:*"><xsl:value-of select="normalize-space(.)"/> | </xsl:for-each></xsl:message>
                     </xsl:for-each>       
-                    
-                    
-                    
+
                     
                 </body>
             </html>
