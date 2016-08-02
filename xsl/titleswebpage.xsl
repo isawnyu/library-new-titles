@@ -24,7 +24,7 @@
     
     <xsl:param name="startdate">2016-03-01</xsl:param>
     <xsl:param name="enddate">2016-03-31</xsl:param>
-    <xsl:param name="zotliblink"></xsl:param>
+    <xsl:param name="zotliblink">https://www.zotero.org/groups/isaw_library_new_titles/items/collectionKey/2QZTMZRV</xsl:param>
     <xsl:variable name="starting-date" select="xs:date($startdate)"/>
     <xsl:variable name="ending-date" select="xs:date($enddate)"/>
     
@@ -348,7 +348,7 @@
     <!-- origins -->
     <xsl:template match="marc:datafield[@tag=$marc-origin and starts-with(marc:subfield[@code='a'], 'ISAW')]">
         <span class="origin">
-            From <xsl:value-of select="tre:capfirst(substring-after(tre:normalize-punctuation(marc:subfield[@code='a']), 'from'))"/>
+            From<xsl:value-of select="tre:capfirst(substring-after(tre:normalize-punctuation(marc:subfield[@code='a']), 'from'))"/>
         </span>
         <xsl:text>. </xsl:text>
     </xsl:template>
