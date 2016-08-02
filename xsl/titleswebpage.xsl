@@ -405,6 +405,9 @@
                         		font-weight: bold;
                         		font-style: italic;
                         		}
+                        .non-roman {
+                        		font-style: normal;
+                        		}
                         .byline {
                         		/* color: red; */
                         		}                        
