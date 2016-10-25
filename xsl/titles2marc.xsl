@@ -22,8 +22,8 @@
     <!-- start and end date parameters are inclusive, just like the Romans, but for easy comparison with the 
         content of the DATE_ADDED element as provided in the source XML, we need to find the next lower and 
         next higher numbers -->
-    <xsl:param name="startdate">2016-03-01</xsl:param>
-    <xsl:param name="enddate">2016-03-31</xsl:param>
+    <xsl:param name="startdate">2016-07-01</xsl:param>
+    <xsl:param name="enddate">2016-07-31</xsl:param>
     <xsl:variable name="lowerDATE_ADDED" select="number(replace($startdate, '-', ''))-1"/>
     <xsl:variable name="higherDATE_ADDED" select="number(replace($enddate, '-', ''))+1"/>
     
