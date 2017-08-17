@@ -22,9 +22,9 @@
     <xsl:param name="loglevel">warning</xsl:param>
     <xsl:output method="xhtml" indent="yes" name="webpage"/>
     
-    <xsl:param name="startdate">2016-03-01</xsl:param>
-    <xsl:param name="enddate">2016-03-31</xsl:param>
-    <xsl:param name="zotliblink">https://www.zotero.org/groups/isaw_library_new_titles/items/collectionKey/2QZTMZRV</xsl:param>
+    <xsl:param name="startdate">2017-01-01</xsl:param>
+    <xsl:param name="enddate">2017-01-31</xsl:param>
+    <xsl:param name="zotliblink">https://www.zotero.org/groups/isaw_library_new_titles/items/collectionKey/7VPPJIS3</xsl:param>
     <xsl:variable name="starting-date" select="xs:date($startdate)"/>
     <xsl:variable name="ending-date" select="xs:date($enddate)"/>
     
@@ -486,7 +486,8 @@
     
     <xsl:function name="tre:creatorsort" as="xs:string">
         <xsl:param name="record" as="node()"/>
-        <xsl:variable name="names" select="tre:multicat(($record/marc:datafield[@tag=$marc-authors]/marc:subfield[@code='a'], $record/marc:datafield[@tag='700' and marc:subfield[@code='e' and (contains(., 'ed.') or contains(., 'editor') or contains(., 'tr.'))]]/marc:subfield[@code='a']))"/>
+        <!-- <xsl:variable name="names" select="tre:multicat(($record/marc:datafield[@tag=$marc-authors]/marc:subfield[@code='a'], $record/marc:datafield[@tag='700' and marc:subfield[@code='e' and (contains(., 'ed.') or contains(., 'editor') or contains(., 'tr.'))]]/marc:subfield[@code='a']))"/> -->
+        <xsl:variable name="names" select="tre:multicat(($record/marc:datafield[@tag=$marc-authors]/marc:subfield[@code='a'],$record/marc:datafield[@tag='700' and not(marc:subfield[@code='5']) and marc:subfield[@code='e' and (contains(., 'ed.') or contains(., 'editor') or contains(., 'tr.'))]]/marc:subfield[@code='a']))"/>
         <xsl:variable name="stripped" select="tre:strippunct($names)"/>
         <xsl:variable name="result" select="replace(lower-case($stripped), '\s+', '')"/>
         <!-- <xsl:message>creatorsort:'<xsl:value-of select="$result"/>'</xsl:message> -->
